@@ -1,0 +1,26 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(tidyverse)
+```
+```{r}
+fda_drugs <- read_csv('Data/FDA_df2.csv')
+```
+```{r}
+conditions_drugs <- read_csv('Data/fullconditions.csv')
+```
+
+```{r}
+side_effects <- read_csv('Data/SE_df.csv')
+```
+```{r}
+side_effects %>%
+  filter(webscraping_name == 'gabapentin')
+  
+```
+
