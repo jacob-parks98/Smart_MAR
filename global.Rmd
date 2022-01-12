@@ -12,7 +12,7 @@ library(tidyverse)
 fda_drugs <- read_csv('Data/FDA_df2.csv')
 ```
 ```{r}
-conditions_drugs <- read_csv('Data/fullconditions.csv')
+conditions_drugs <- read_csv('Data/fullconditions2.csv')
 ```
 
 ```{r}
@@ -20,7 +20,10 @@ side_effects <- read_csv('Data/SE_df.csv')
 ```
 ```{r}
 side_effects %>%
-  filter(webscraping_name == 'gabapentin')
+  drop_na(Side_effect)
   
+```
+```{r}
+unique(side_effects$drug_name)
 ```
 
