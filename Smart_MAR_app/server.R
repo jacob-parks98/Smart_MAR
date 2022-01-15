@@ -27,6 +27,13 @@ shinyServer(function(input, output) {
     return(side_effects_filtered)
   })
   
+  side_effects_filtered_food <- reactive({
+    req(input$drugz)
+    side_effects_filtered <- side_effects %>%
+      filter(webscraping_name == input$drugz)
+    return(side_effects_filtered)
+  })
+  
   observeEvent(input$debug, {browser()})
   
   output$conditions <- DT::renderDataTable({
@@ -81,6 +88,31 @@ shinyServer(function(input, output) {
       geom_col() +
       coord_flip()
     }
+  })
+  
+  output$sideeffects <- DT::renderDataTable({
+    if(is.null(input$drugz)) {
+      DT::datatable(side_effects)
+    }
+    else
+      DT::datatable(side_effects_filtered_food())
+  })
+  
+  
+  #MAKE THIS INTO A RENDER TEXT, MOST LIKELY.
+  output$risk <- DT::renderDataTable({
+    if (is.null(input$drugz)) {
+      side_effects %>%
+        filter(Risk_factor != 'nan') %>%
+        group_by(Risk_factor) %>%
+        summarize(num = n())
+    }
+    
+    else 
+      side_effects_filtered_food() %>%
+      filter(Risk_factor != 'nan')  %>%
+      group_by(Risk_factor) %>%
+      summarize(num = n())
   })
   
 })
