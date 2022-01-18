@@ -5,10 +5,10 @@ This application was created with the Tennessee Department of Intellectual and D
 
 ### **Features**
 The application allows users to:
--See which medications are most often used for a variety of medical conditions
--See common and uncommon side effects associated with over 3000 prescription drugs
--Find which risk factors are most common across combinations of drugs.
--See an extensive list of foods that mitigate risk factors associated with these drugs.
+- See which medications are most often used for a variety of medical conditions
+- See common and uncommon side effects associated with over 3000 prescription drugs
+- Find which risk factors are most common across combinations of drugs.
+- See an extensive list of foods that mitigate risk factors associated with these drugs.
 ### **Data**
 The data in this app includes:
 - Over **119,000** side effects associated with over **3600** prescription drugs
