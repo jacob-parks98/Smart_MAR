@@ -9,13 +9,24 @@
 
 library(shiny)
 library(DT)
-# Define UI for application that draws a histogram
+library(shinythemes)
+
 shinyUI(navbarPage("Smart MAR",
+                   theme = shinytheme('sandstone'),
                    
-                   # Application title
+                   tabPanel(icon('home'),
+                            mainPanel(
+                              fluidRow(h2('Summary')),
+                              fluidRow(p("This app was created to assist the Tennsee Department of Intellectual and Developmental Disabilities 
+                                         in better using data to influence decisions.Using data from the FDA and drugs.com, the app allows users
+                                         to select medical conditions and drugs to see any possible adverse reactions and risks that their patients,
+                                         who may not be able to advocate for themselves, might be suffering from. Additionally, the app allows users
+                                         to see foods that may help in mitigating risks associated with certain drugs. This will allow users to keep better records
+                                         and improve overall patient care."))),
+                            fluidRow()
+                            ),
                    
                    
-                   # Sidebar with a slider input for number of bins
                    tabPanel('Side Effects and Conditions',
                             sidebarPanel(
                               selectInput("cond",
@@ -35,17 +46,18 @@ shinyUI(navbarPage("Smart MAR",
                               actionButton('debug', 'Debug')
                             ),
                             
-                            # Show a plot of the generated distribution
+                            
                             mainPanel(
+                              fluidRow(h4(textOutput('conditionsnumber')),h4(textOutput('drugnumber')), style = 'height:7vh'),
                               fluidRow(DT::dataTableOutput("conditions")),
                               fluidRow(column(width = 6,
                                               DT::dataTableOutput('sidefx')),
                                        column(width = 6,
-                                              selectInput("drug",
-                                                          "Select One or More drugs:",
-                                                          unique(side_effects$webscraping_name),
-                                                          multiple = TRUE,
-                                                          selectize = TRUE),
+                                              # selectInput("drug",
+                                              #             "Select One or More drugs:",
+                                              #             unique(side_effects$webscraping_name),
+                                              #             multiple = TRUE,
+                                              #             selectize = TRUE),
                                               plotOutput('bar')))
                             )),
                    
@@ -54,13 +66,20 @@ shinyUI(navbarPage("Smart MAR",
                                                      "Select One or More drugs:",
                                                      unique(side_effects$webscraping_name),
                                                      multiple = TRUE,
-                                                     selectize = TRUE)
+                                                     selectize = TRUE),
+                                         selectInput('risk',
+                                                     'Select Risk factor for foods:',
+                                                     unique((side_effects %>%
+                                                               filter(Risk_factor != 'None'))$Risk_factor,
+                                                            selectize = TRUE))
                             ),
                             
                   mainPanel(
                     fluidRow(DT::dataTableOutput('sideeffects')),
-                    fluidRow(column(width = 6),
-                             column(width = 6, DT::dataTableOutput('risk')))
+                    fluidRow(
+                      column(width = 4, DT::dataTableOutput('risk')),
+                      column(width = 8, DT::dataTableOutput('food'))
+                             ))
                   )   
                    )
-))
+)
