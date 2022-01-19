@@ -48,15 +48,15 @@ shinyServer(function(input, output) {
     
     if (is.null(input$cond)) {
       DT::datatable(conditions_drugs %>%
-                      select(-webscraping_name),
-                    colnames = c("Drug Name", "Condition", "Type", "Pregnancy","CSA","Alcohol")
+                      select(-c(webscraping_name, CSA)),
+                    colnames = c("Drug Name", "Condition", "Type", "Pregnancy","Alcohol")
                    )
     }
     
     else
       DT::datatable(conditions_drugs_filtered() %>%
-                      select(-webscraping_name),
-                    colnames = c("Drug Name", "Condition", "Type", "Pregnancy","CSA","Alcohol"))
+                      select(-c(webscraping_name, CSA)),
+                    colnames = c("Drug Name", "Condition", "Type", "Pregnancy","Alcohol"))
     
   })
   
