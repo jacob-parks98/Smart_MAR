@@ -36,6 +36,10 @@ shinyServer(function(input, output) {
   
   observeEvent(input$debug, {browser()})
   
+  output$preg <- renderTable({
+    preg_symbols
+  })
+  
   output$conditionsnumber <- renderText({
     paste0('Number of Conditions: ', length(input$cond))
   })
@@ -123,7 +127,7 @@ shinyServer(function(input, output) {
   
   output$risk <- DT::renderDataTable({
     if (is.null(input$drugz)) {
-     DT::datatable(side_effects %>%
+     risk <- DT::datatable(side_effects %>%
         filter(Risk_factor != 'None') %>%
         group_by(Risk_factor) %>%
         summarize(num = n()),
@@ -131,11 +135,13 @@ shinyServer(function(input, output) {
     }
     
     else 
-      DT::datatable(side_effects_filtered_food() %>%
+      risk <- DT::datatable(side_effects_filtered_food() %>%
       filter(Risk_factor != 'None')  %>%
       group_by(Risk_factor) %>%
       summarize(num = n()),
       colnames = c("Risk", "Count"))
+    
+    risk
   })
   
   output$food <- DT::renderDataTable({
@@ -162,5 +168,41 @@ shinyServer(function(input, output) {
       options = list(pageLength = 5)) %>%
       formatRound(columns = c('Vitamin A, RAE', "Vitamin C, total ascorbic acid","Vitamin E","Vitamin E (alpha-tocopherol)","Zinc, Zn", "SUM"), digits = 3)
   })
+  
+  output$download <- downloadHandler(
+    filename = "Patient_report.html",
+    content = function(file) {
+      tempreport <- file.path(tempdir(), 'Patient_report.Rmd')
+      file.copy('../Patient_report.Rmd', tempreport, overwrite = TRUE)
+      params <- list(condition = input$cond,
+                     drug = input$drug,
+                     side_efx = side_effects_filtered_food() %>%
+                       filter(Risk_factor != 'None')  %>%
+                       group_by(Risk_factor) %>%
+                       summarize(num = n()) %>%
+                       rename("Count"=num, "Risk Factor"=Risk_factor) %>%
+                       arrange(desc(Count)),
+                     common_sfx = side_effects_filtered() %>%
+                       group_by(Side_effect) %>%
+                       summarize(number = n()) %>%
+                       arrange(desc(number)) %>%
+                       head(20) %>%
+                       ggplot(aes(x = reorder(Side_effect, number), y = number)) +
+                       geom_col() +
+                       coord_flip() +
+                       labs(x = 'Count', y = '', title = "Most Common Side Effects for Selected Drugs" ),
+                     med_attention = side_effects_filtered() %>%
+                       filter(Side_effect != 'NA') %>%
+                       group_by(medical_attention) %>%
+                       summarize(number = n()) %>%
+                       ggplot(aes(x = medical_attention, y = number)) +
+                       geom_col() +
+                       labs(x = '', y = 'Count', title = "Number of Side Effects by Medical Attention")
+                     )
+      rmarkdown::render(tempreport, output_file = file,
+                        params = params,
+                        envir = new.env(parent = globalenv()))
+    }
+  )
   
 })

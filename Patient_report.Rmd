@@ -1,0 +1,57 @@
+---
+title: "Patient report"
+output: html_document
+params:
+  condition: NA
+  drug: NA
+  side_efx: NA
+  common_sfx: NA
+  med_attention: NA
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Date: `r Sys.Date()`
+
+## Conditions and Drugs:
+
+
+
+```{r, echo=FALSE, results='hide'}
+params$condition
+```
+
+Conditions: `r params$condition `
+
+```{r, echo=FALSE, results='hide'}
+params$drug
+```
+
+Medications: `r params$drug`
+
+## Risks
+
+```{r, echo=FALSE}
+library(knitr)
+kable(params$side_efx)
+```
+
+```{r, results='hide', echo=FALSE}
+params$side_efx[1,1]
+```
+
+```{r, include=FALSE}
+library(fontawesome)
+```
+
+
+`r fa(name = 'exclamation-triangle')` From these Medications, this patient is at high risk of `r as.character(params$side_efx[1,1])` 
+
+## Common Side Effects
+
+```{r, fig.show='hold', out.width="50%", echo=FALSE}
+params$common_sfx
+params$med_attention
+```
+
