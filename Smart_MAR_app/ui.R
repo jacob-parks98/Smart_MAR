@@ -43,9 +43,9 @@ shinyUI(navbarPage("Smart MAR",
                                           unique(side_effects$webscraping_name),
                                           multiple = TRUE,
                                           selectize = TRUE
-                              ),
+                              )#,
                               
-                              actionButton('debug', 'Debug')
+                              #actionButton('debug', 'Debug')
                             ),
                             
                             

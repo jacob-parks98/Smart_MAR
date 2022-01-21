@@ -34,7 +34,7 @@ shinyServer(function(input, output) {
     return(side_effects_filtered)
   })
   
-  observeEvent(input$debug, {browser()})
+  #observeEvent(input$debug, {browser()})
   
   output$preg <- renderTable({
     preg_symbols
