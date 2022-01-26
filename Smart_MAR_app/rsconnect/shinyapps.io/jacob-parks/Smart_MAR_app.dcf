@@ -1,0 +1,14 @@
+name: Smart_MAR_app
+title: Smart_MAR_app
+username:
+account: jacob-parks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5511457
+bundleId: 5508602
+url: https://jacob-parks.shinyapps.io/Smart_MAR_app/
+when: 1643167024.55489
+lastSyncTime: 1643167024.55489
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|global.nb.html|global_markdown.nb.html|global_markdown.Rmd

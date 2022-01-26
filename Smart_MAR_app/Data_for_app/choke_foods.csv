@@ -1,0 +1,92 @@
+"...1","fdc_id","data_type","description","publication_date","id","nutrient_id","amount","data_points","derivation_id","name","unit_name","nutrient_nbr","rank"
+521347,173778,"sr_legacy_food","SILK Raspberry soy yogurt",2019-04-01,1805029,1003,2.35,1,44,"Protein","G",203,600
+521411,173781,"sr_legacy_food","SILK Blueberry soy yogurt",2019-04-01,1805076,2000,12.35,1,44,"Sugars, total including NLEA","G",269,1510
+521364,173779,"sr_legacy_food","SILK Peach soy yogurt",2019-04-01,1805044,1003,2.35,1,44,"Protein","G",203,600
+521381,173780,"sr_legacy_food","SILK Black Cherry soy yogurt",2019-04-01,1805055,1003,2.35,1,44,"Protein","G",203,600
+506557,173586,"sr_legacy_food","Margarine-like spread with yogurt, approximately 40% fat, tub, with salt",2019-04-01,1790194,1279,0,0,20,"MUFA 22:1","G",630,12500
+499997,173496,"sr_legacy_food","Babyfood, dinner, chicken soup, strained",2019-04-01,1783728,1005,7.2,0,49,"Carbohydrate, by difference","G",205,1110
+501261,173512,"sr_legacy_food","Babyfood, fruit, applesauce, strained",2019-04-01,1784957,2000,9.87,0,16,"Sugars, total including NLEA","G",269,1510
+436840,172746,"sr_legacy_food","Crackers, saltines (includes oyster, soda, soup)",2019-04-01,1720621,1003,9.46,12,1,"Protein","G",203,600
+680085,329969,"sub_sample_food","Fatty Acids, Greek yogurt, CHOBANI PLAIN NON-FAT (MI1,OK1) - NFY09111X",2019-04-01,2253287,1300,0.003,1,1,"SFA 17:0","G",653,10800
+680070,329966,"sub_sample_food","Sugars, Greek yogurt, CHOBANI PLAIN NON-FAT (MI1,OK1) - NFY09111U",2019-04-01,2253267,1013,2.5,1,1,"Lactose","G",213,1900
+680013,329948,"sub_sample_food","Fatty Acids, Greek yogurt, FAGE PLAIN NONFAT (CO1,CT1) - NFY09113F",2019-04-01,2253217,1321,0,1,1,"PUFA 18:3 n-6 c,c,c","G",685,14100
+680044,329949,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (CO1,CT1) - NFY09113G",2019-04-01,2253239,1002,1.62,1,1,"Nitrogen","G",202,500
+680165,329989,"sub_sample_food","Fatty Acids, Greek yogurt, FAGE PLAIN NONFAT (AL1,CA1) - NFY09112P",2019-04-01,2253359,1299,0.003,1,1,"SFA 15:0","G",652,10600
+680118,329970,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (MI1,OK1) - NFY09111Y",2019-04-01,2253317,1007,0.77,1,1,"Ash","G",207,1000
+680195,329990,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (AL1,CA1) - NFY09112Q",2019-04-01,2253394,1007,0.72,1,1,"Ash","G",207,1000
+679883,329901,"sub_sample_food","Fatty Acids, Greek yogurt, CHOBANI PLAIN NON-FAT (AL1,CA1) - NFY09110E",2019-04-01,2253092,1301,0,1,1,"SFA 24:0","G",654,11300
+679812,329882,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (FL1) - NFY09113Q",2019-04-01,2253007,1002,1.91,1,1,"Nitrogen","G",202,500
+679840,329900,"sub_sample_food","Amino Acids, Greek yogurt, CHOBANI PLAIN NON-FAT (AL1,CA1) - NFY09110D",2019-04-01,2253056,1210,0.13,1,1,"Tryptophan","G",501,16300
+679900,329902,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (AL1,CA1) - NFY09110F",2019-04-01,2253099,1007,0.69,1,1,"Ash","G",207,1000
+679958,329930,"sub_sample_food","Fatty Acids, Greek yogurt, CHOBANI PLAIN NON-FAT (CO1,CT1) - NFY091115",2019-04-01,2253144,1304,0.006,1,1,"TFA 18:1 t","G",663,15521
+679972,329931,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (CO1,CT1) - NFY091116",2019-04-01,2253171,1007,0.74,1,1,"Ash","G",207,1000
+680477,330105,"sub_sample_food","Fatty Acids, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (FL1,MO1) - NFY09116I",2019-04-01,2253671,1317,0,1,1,"MUFA 22:1 c","G",676,12600
+680405,330076,"sub_sample_food","Fatty Acids, Greek yogurt, FAGE PLAIN NONFAT (CA2,NC1) - NFY091148",2019-04-01,2253590,1414,0,1,1,"PUFA 20:3 n-9","G",861,14650
+680483,330106,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (FL1,MO1) - NFY09116J",2019-04-01,2253683,1007,0.78,1,1,"Ash","G",207,1000
+680511,330133,"sub_sample_food","Amino Acids, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (CO1,CT1) - NFY09115P",2019-04-01,2253727,1210,0.14,1,1,"Tryptophan","G",501,16300
+680407,330077,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (CA2,NC1) - NFY091149",2019-04-01,2253606,1004,0.33,1,1,"Total lipid (fat)","G",204,800
+680434,330102,"sub_sample_food","Sugars, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (FL1,MO1) - NFY09116F",2019-04-01,2253634,1012,0,1,1,"Fructose","G",212,1800
+680549,330134,"sub_sample_food","Fatty Acids, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (CO1,CT1) - NFY09115Q",2019-04-01,2253761,1271,0,1,1,"PUFA 20:4","G",620,14700
+680571,330135,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (CO1,CT1) - NFY09115R",2019-04-01,2253771,1007,0.73,1,1,"Ash","G",207,1000
+680297,330052,"sub_sample_food","Fatty Acids, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (AL1,CA1) - NFY09114Z",2019-04-01,2253488,1311,0,1,1,"PUFA 18:2 CLAs","G",670,13300
+680307,330053,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (AL1,CA1) - NFY091150",2019-04-01,2253507,1007,0.65,1,1,"Ash","G",207,1000
+680338,330072,"sub_sample_food","Sugars, Greek yogurt, FAGE PLAIN NONFAT (CA2,NC1) - NFY091144",2019-04-01,2253538,1012,0,1,1,"Fructose","G",212,1800
+680212,330007,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (IN1,NY1) - NFY09114L",2019-04-01,2253411,1007,0.77,1,1,"Ash","G",207,1000
+680225,330017,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (MI1) - NFY091161",2019-04-01,2253425,1007,0.69,1,1,"Ash","G",207,1000
+680238,330034,"sub_sample_food","Proximates, Greek yogurt, DANNON OIKOS PLAIN NON-FAT (CA2,NC1) - NFY09115C",2019-04-01,2253438,1007,0.74,1,1,"Ash","G",207,1000
+680346,330075,"sub_sample_food","Amino Acids, Greek yogurt, FAGE PLAIN NONFAT (CA2,NC1) - NFY091147",2019-04-01,2253562,1210,0.13,1,1,"Tryptophan","G",501,16300
+679799,329873,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (OK1) - NFY091131",2019-04-01,2252994,1002,1.7,1,1,"Nitrogen","G",202,500
+679744,329836,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (NY1) - NFY0910ZX",2019-04-01,2252943,1007,0.7,1,1,"Ash","G",207,1000
+679757,329845,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (FL1,MO1) - NFY09111G",2019-04-01,2252956,1007,0.74,1,1,"Ash","G",207,1000
+679770,329852,"sub_sample_food","Proximates, Greek yogurt, FAGE PLAIN NONFAT (IN1,NY1) - NFY09112A",2019-04-01,2252969,1007,0.71,1,1,"Ash","G",207,1000
+679783,329869,"sub_sample_food","Proximates, Greek yogurt, CHOBANI PLAIN NON-FAT (CA2,NC1) - NFY09110R",2019-04-01,2252982,1007,0.69,1,1,"Ash","G",207,1000
+603682,174779,"sr_legacy_food","Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C",2019-04-01,1887373,1279,0,0,40,"MUFA 22:1","G",630,12500
+605537,174802,"sr_legacy_food","Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating",2019-04-01,1889297,1003,5.71,0,44,"Protein","G",203,600
+605230,174798,"sr_legacy_food","Snacks, candy bits, yogurt covered with vitamin C",2019-04-01,1888919,1259,0.006,0,40,"SFA 4:0","G",607,9800
+583433,174535,"sr_legacy_food","Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve",2019-04-01,1867141,1265,0.129,0,41,"SFA 16:0","G",613,10700
+583394,174534,"sr_legacy_food","Split pea soup, canned, reduced sodium, prepared with water or ready-to serve",2019-04-01,1867071,1266,0.09,0,41,"SFA 18:0","G",614,10900
+638712,175230,"sr_legacy_food","SILK Banana-Strawberry soy yogurt",2019-04-01,1922377,2000,10.59,1,44,"Sugars, total including NLEA","G",269,1510
+638656,175227,"sr_legacy_food","SILK Plain soy yogurt",2019-04-01,1922332,1005,9.69,1,44,"Carbohydrate, by difference","G",205,1110
+638665,175228,"sr_legacy_food","SILK Strawberry soy yogurt",2019-04-01,1922353,1003,2.35,1,44,"Protein","G",203,600
+638682,175229,"sr_legacy_food","SILK Key Lime soy yogurt",2019-04-01,1922356,1003,2.35,1,44,"Protein","G",203,600
+638612,175225,"sr_legacy_food","SILK Vanilla soy yogurt (family size)",2019-04-01,1922287,1003,2.64,1,44,"Protein","G",203,600
+638630,175226,"sr_legacy_food","SILK Vanilla soy yogurt (single serving size)",2019-04-01,1922309,1003,2.94,1,44,"Protein","G",203,600
+626644,175056,"sr_legacy_food","Crackers, saltines, low salt (includes oyster, soda, soup)",2019-04-01,1910372,1003,9.5,8,1,"Protein","G",203,600
+626781,175057,"sr_legacy_food","Crackers, saltines, unsalted tops (includes oyster, soda, soup)",2019-04-01,1910501,1079,3,0,20,"Fiber, total dietary","G",291,1200
+107520,168815,"sr_legacy_food","Frozen yogurts, vanilla, soft-serve",2019-04-01,1391172,1018,0,0,41,"Alcohol, ethyl","G",221,18200
+120293,168984,"sr_legacy_food","Stew/soup, caribou (Alaska Native)",2019-04-01,1403967,1003,3.8,1,2,"Protein","G",203,600
+109651,168848,"sr_legacy_food","Frozen yogurts, chocolate, soft-serve",2019-04-01,1393354,1005,24.9,0,49,"Carbohydrate, by difference","G",205,1110
+43795,168068,"sr_legacy_food","Restaurant, Latino, black bean soup",2019-04-01,1327507,1273,0.006,5,1,"SFA 22:0","G",624,11200
+43911,168069,"sr_legacy_food","Restaurant, Latino, tripe soup",2019-04-01,1327585,1323,0.024,6,1,"MUFA 17:1","G",687,12000
+4784,167569,"sr_legacy_food","Candies, confectioner's coating, yogurt",2019-04-01,1288414,1279,0,0,39,"MUFA 22:1","G",630,12500
+16832,167726,"sr_legacy_food","Babyfood, mixed fruit yogurt, strained",2019-04-01,1300546,2000,11.74,0,39,"Sugars, total including NLEA","G",269,1510
+16552,167722,"sr_legacy_food","Tofu yogurt",2019-04-01,1300226,2000,1.24,0,16,"Sugars, total including NLEA","G",269,1510
+14145,167690,"sr_legacy_food","Babyfood, apple yogurt dessert, strained",2019-04-01,1297876,2000,12.02,0,51,"Sugars, total including NLEA","G",269,1510
+49360,168133,"sr_legacy_food","Babyfood, dessert, peach yogurt",2019-04-01,1333084,1007,0.45,0,39,"Ash","G",207,1000
+49511,168135,"sr_legacy_food","Babyfood, dessert, banana yogurt, strained",2019-04-01,1333239,2000,12.2,0,44,"Sugars, total including NLEA","G",269,1510
+49441,168134,"sr_legacy_food","Babyfood, dessert, blueberry yogurt, strained",2019-04-01,1333157,2000,13.62,0,39,"Sugars, total including NLEA","G",269,1510
+47181,168103,"sr_legacy_food","Frozen yogurts, chocolate, nonfat milk, sweetened without sugar",2019-04-01,1330905,2000,12.61,0,52,"Sugars, total including NLEA","G",269,1510
+47321,168105,"sr_legacy_food","Frozen yogurts, flavors other than chocolate",2019-04-01,1331004,2000,19.92,0,16,"Sugars, total including NLEA","G",269,1510
+47250,168104,"sr_legacy_food","Frozen yogurts, chocolate",2019-04-01,1330950,2000,19.24,0,16,"Sugars, total including NLEA","G",269,1510
+46265,168090,"sr_legacy_food","Babyfood, banana juice with low fat yogurt",2019-04-01,1329997,1007,0.66,0,67,"Ash","G",207,1000
+46346,168091,"sr_legacy_food","Babyfood, mixed fruit juice with low fat yogurt",2019-04-01,1330072,2000,10.8,0,67,"Sugars, total including NLEA","G",269,1510
+320095,171363,"sr_legacy_food","Babyfood, cereal, oatmeal, with applesauce and bananas, junior, fortified",2019-04-01,1603793,2000,8.85,0,44,"Sugars, total including NLEA","G",269,1510
+319209,171350,"sr_legacy_food","Babyfood, fruit, papaya and applesauce with tapioca, strained",2019-04-01,1602885,1005,18.9,0,49,"Carbohydrate, by difference","G",205,1110
+320007,171362,"sr_legacy_food","Babyfood, cereal, oatmeal, with applesauce and bananas, strained",2019-04-01,1603718,2000,8.85,0,44,"Sugars, total including NLEA","G",269,1510
+318778,171343,"sr_legacy_food","Babyfood, fruit, applesauce and pineapple, strained",2019-04-01,1602490,1005,10.1,0,49,"Carbohydrate, by difference","G",205,1110
+318835,171344,"sr_legacy_food","Babyfood, fruit, applesauce and pineapple, junior",2019-04-01,1602533,1005,10.5,0,49,"Carbohydrate, by difference","G",205,1110
+340965,171608,"sr_legacy_food","Potato soup, instant, dry mix",2019-04-01,1624631,1005,76.14,0,51,"Carbohydrate, by difference","G",205,1110
+339986,171594,"sr_legacy_food","Soup, vegetable soup, condensed, low sodium, prepared with equal volume water",2019-04-01,1623651,1264,0.001,0,65,"SFA 14:0","G",612,10500
+404172,172352,"sr_legacy_food","Margarine-like spread with yogurt, 70% fat, stick, with salt",2019-04-01,1687858,1270,1.4,0,20,"PUFA 18:3","G",619,13900
+398672,172278,"sr_legacy_food","Babyfood, fruit, applesauce, junior",2019-04-01,1682389,1005,10.3,0,49,"Carbohydrate, by difference","G",205,1110
+268109,170775,"sr_legacy_food","Fast foods, strawberry banana smoothie made with ice and low-fat yogurt",2019-04-01,1551787,1270,0.019,0,40,"PUFA 18:3","G",619,13900
+285740,170970,"sr_legacy_food","Babyfood, cereal, rice, with applesauce and bananas, strained",2019-04-01,1569406,2000,2.24,0,39,"Sugars, total including NLEA","G",269,1510
+286954,170987,"sr_legacy_food","Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA fortified",2019-04-01,1570611,1273,0,0,40,"SFA 22:0","G",624,11200
+287232,170990,"sr_legacy_food","Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron fortified",2019-04-01,1570893,1273,0.001,0,40,"SFA 22:0","G",624,11200
+285390,170966,"sr_legacy_food","Babyfood, cereal, mixed, with applesauce and bananas, strained",2019-04-01,1569097,1003,0.71,0,44,"Protein","G",203,600
+285491,170967,"sr_legacy_food","Babyfood, cereal, mixed, with applesauce and bananas, junior, fortified",2019-04-01,1569191,2000,11.1,0,44,"Sugars, total including NLEA","G",269,1510
+284119,170948,"sr_legacy_food","Babyfood, fruit, applesauce and apricots, junior",2019-04-01,1567840,1005,12.4,0,49,"Carbohydrate, by difference","G",205,1110
+284095,170947,"sr_legacy_food","Babyfood, fruit, applesauce and apricots, strained",2019-04-01,1567713,1014,0.01,0,39,"Maltose","G",214,2000
+284382,170951,"sr_legacy_food","Babyfood, fruit, applesauce with banana, junior",2019-04-01,1568012,1279,0,0,41,"MUFA 22:1","G",630,12500
+284268,170950,"sr_legacy_food","Babyfood, fruit, applesauce and cherries, junior",2019-04-01,1567985,2000,10.61,0,16,"Sugars, total including NLEA","G",269,1510
+284198,170949,"sr_legacy_food","Babyfood, fruit, applesauce and cherries, strained",2019-04-01,1567906,2000,10.81,0,39,"Sugars, total including NLEA","G",269,1510

@@ -1,0 +1,3026 @@
+drug_name,webscraping_name,Condition,Rx/OTC,Pregnancy,CSA,Alcohol
+adderall,adderall,Attention Deficit Disorder,Rx,C,2,X
+vyvanse,vyvanse,Attention Deficit Disorder,Rx,C,2,X
+adderall xr,adderall,Attention Deficit Disorder,Rx,C,2,X
+concerta,concerta,Attention Deficit Disorder,Rx,C,2,X
+adine  off-label,adine,Attention Deficit Disorder,Rx,C,N,
+methylphenidate,methylphenidate,Attention Deficit Disorder,Rx,C,2,X
+strattera,strattera,Attention Deficit Disorder,Rx,C,N,
+dexedrine,dexedrine,Attention Deficit Disorder,Rx,C,2,X
+ritalin,ritalin,Attention Deficit Disorder,Rx,C,2,X
+amphetamine / dextroamphetamine,amphetamine,Attention Deficit Disorder,Rx,C,2,X
+dextroamphetamine,dextroamphetamine,Attention Deficit Disorder,Rx,C,2,X
+clonidine,clonidine,Attention Deficit Disorder,Rx,C,N,X
+intuniv,intuniv,Attention Deficit Disorder,Rx,B,N,X
+pion  off-label,pion,Attention Deficit Disorder,Rx,C,N,X
+desoxyn,desoxyn,Attention Deficit Disorder,Rx,C,2,X
+focalin,focalin,Attention Deficit Disorder,Rx,C,2,
+guanfacine,guanfacine,Attention Deficit Disorder,Rx,B,N,X
+lisdexamfetamine,lisdexamfetamine,Attention Deficit Disorder,Rx,C,2,X
+atomoxetine,atomoxetine,Attention Deficit Disorder,Rx,C,N,
+daytrana,daytrana,Attention Deficit Disorder,Rx,C,2,X
+focalin xr,focalin,Attention Deficit Disorder,Rx,C,2,
+amphetamine,amphetamine,Attention Deficit Disorder,Rx,C,2,X
+kapvay,kapvay,Attention Deficit Disorder,Rx,C,N,X
+methylin,methylin,Attention Deficit Disorder,Rx,C,2,X
+quillivant xr,quillivant,Attention Deficit Disorder,Rx,C,2,X
+ritalin la,ritalin,Attention Deficit Disorder,Rx,C,2,X
+dexmethylphenidate,dexmethylphenidate,Attention Deficit Disorder,Rx,C,2,
+methamphetamine,methamphetamine,Attention Deficit Disorder,Rx,C,2,X
+metadate cd,metadate,Attention Deficit Disorder,Rx,C,2,X
+inil  off-label,inil,Attention Deficit Disorder,Rx,C,4,
+methylin er,methylin,Attention Deficit Disorder,Rx,C,2,X
+adhansia xr,adhansia,Attention Deficit Disorder,Rx,C,2,X
+adzenys xr-odt,adzenys,Attention Deficit Disorder,Rx,C,2,X
+aptensio xr,aptensio,Attention Deficit Disorder,Rx,C,2,X
+afinil  off-label,afinil,Attention Deficit Disorder,Rx,C,4,
+cotempla xr-odt,cotempla,Attention Deficit Disorder,Rx,C,2,X
+nlafaxine  off-label,nlafaxine,Attention Deficit Disorder,Rx,C,N,X
+evekeo,evekeo,Attention Deficit Disorder,Rx,C,2,X
+jornay pm,jornay,Attention Deficit Disorder,Rx,C,2,X
+mydayis,mydayis,Attention Deficit Disorder,Rx,C,2,X
+-3 polyunsaturated fatty acids  off-label,3,Attention Deficit Disorder,Rx/OTC,C,N,
+procentra,procentra,Attention Deficit Disorder,Rx,C,2,X
+quillichew er,quillichew,Attention Deficit Disorder,Rx,C,2,X
+relexxii,relexxii,Attention Deficit Disorder,Rx,C,2,X
+iline  off-label,iline,Attention Deficit Disorder,Rx,C,N,X
+zenzedi,zenzedi,Attention Deficit Disorder,Rx,C,2,X
+adzenys er,adzenys,Attention Deficit Disorder,Rx,C,2,X
+ramine  off-label,ramine,Attention Deficit Disorder,Rx,N,N,X
+dyanavel xr,dyanavel,Attention Deficit Disorder,Rx,C,2,X
+evekeo odt,evekeo,Attention Deficit Disorder,Rx,C,2,X
+amine  off-label,amine,Attention Deficit Disorder,Rx,N,N,X
+azstarys,azstarys,Attention Deficit Disorder,Rx,,2,
+dexmethylphenidate / serdexmethylphenidate,dexmethylphenidate,Attention Deficit Disorder,Rx,,2,
+qelbree,qelbree,Attention Deficit Disorder,Rx,,N,
+viloxazine,viloxazine,Attention Deficit Disorder,Rx,,N,
+hydroxyzine,hydroxyzine,Allergies,Rx,N,N,X
+levocetirizine,levocetirizine,Allergies,Rx/OTC,B,N,X
+loratadine,loratadine,Allergies,Rx/OTC,B,N,
+xyzal,xyzal,Allergies,Rx,B,N,X
+doxylamine,doxylamine,Allergies,Rx/OTC,B,N,X
+corticotropin,corticotropin,Allergies,Rx,C,N,
+acthar,acthar,Allergies,Rx,C,N,
+chlorpheniramine / ibuprofen / phenylephrine,chlorpheniramine,Allergies,OTC,,N,X
+dexbrompheniramine,dexbrompheniramine,Allergies,OTC,C,N,X
+ala-hist ir,ala,Allergies,OTC,C,N,X
+dexbrompheniramine / phenylephrine,dexbrompheniramine,Allergies,OTC,C,N,X
+care one sleep aid,care,Allergies,Rx/OTC,B,N,X
+equaline sleep aid,equaline,Allergies,Rx/OTC,B,N,X
+equate sleep aid,equate,Allergies,Rx/OTC,B,N,X
+h.p. acthar gel,h,Allergies,Rx,C,N,
+aricept,aricept,Alzheimer's Disease,Rx,C,N,
+namenda,namenda,Alzheimer's Disease,Rx,B,N,
+donepezil,donepezil,Alzheimer's Disease,Rx,C,N,
+memantine,memantine,Alzheimer's Disease,Rx,B,N,
+rcept  off-label,rcept,Alzheimer's Disease,Rx,B,N,
+exelon,exelon,Alzheimer's Disease,Rx,B,N,
+namenda xr,namenda,Alzheimer's Disease,Rx,B,N,
+galantamine,galantamine,Alzheimer's Disease,Rx,C,N,
+rivastigmine,rivastigmine,Alzheimer's Disease,Rx,B,N,
+aricept odt,aricept,Alzheimer's Disease,Rx,C,N,
+namzaric,namzaric,Alzheimer's Disease,Rx,C,N,
+vitamin e,vitamin,Alzheimer's Disease,Rx/OTC,C,N,
+donepezil / memantine,donepezil,Alzheimer's Disease,Rx,C,N,
+razadyne,razadyne,Alzheimer's Disease,Rx,C,N,
+razadyne er,razadyne,Alzheimer's Disease,Rx,C,N,
+alpha e,alpha,Alzheimer's Disease,Rx/OTC,C,N,
+ergoloid mesylates,ergoloid,Alzheimer's Disease,Rx,N,N,
+hydergine,hydergine,Alzheimer's Disease,Rx,N,N,
+aqua-e,aqua,Alzheimer's Disease,Rx/OTC,C,N,
+aqua gem-e,aqua,Alzheimer's Disease,Rx/OTC,C,N,
+aquasol e,aquasol,Alzheimer's Disease,Rx/OTC,C,N,
+aquavite-e,aquavite,Alzheimer's Disease,Rx/OTC,C,N,
+e-400 clear,e,Alzheimer's Disease,Rx/OTC,C,N,
+e-600,e,Alzheimer's Disease,Rx/OTC,C,N,
+e-gems,e,Alzheimer's Disease,Rx/OTC,C,N,
+e pherol,e,Alzheimer's Disease,Rx/OTC,C,N,
+aducanumab,aducanumab,Alzheimer's Disease,Rx,,N,
+aduhelm,aduhelm,Alzheimer's Disease,Rx,,N,
+epoetin alfa,epoetin,Anemia,Rx,C,N,
+multivitamin with iron,multivitamin,Anemia,Rx/OTC,C,N,
+procrit,procrit,Anemia,Rx,C,N,
+vitamin b6,vitamin,Anemia,Rx/OTC,C,N,
+revlimid,revlimid,Anemia,Rx,X,N,
+epogen,epogen,Anemia,Rx,C,N,
+ferralet 90,ferralet,Anemia,Rx/OTC,C,N,
+anadrol-50,anadrol,Anemia,Rx,X,3,
+integra plus,integra,Anemia,Rx/OTC,C,N,
+integra,integra,Anemia,Rx/OTC,C,N,
+pyridoxine,pyridoxine,Anemia,Rx/OTC,C,N,
+aminoxin,aminoxin,Anemia,Rx/OTC,C,N,
+iron-150,iron,Anemia,Rx/OTC,C,N,
+ferocon,ferocon,Anemia,Rx/OTC,C,N,
+fusion plus,fusion,Anemia,Rx/OTC,C,N,
+integra f,integra,Anemia,Rx/OTC,C,N,
+chromagen,chromagen,Anemia,Rx/OTC,C,N,
+ferrex 150 forte,ferrex,Anemia,Rx/OTC,C,N,
+oxymetholone,oxymetholone,Anemia,Rx,X,3,
+biferarx,biferarx,Anemia,Rx/OTC,C,N,
+dialyvite,dialyvite,Anemia,Rx/OTC,C,N,
+lenalidomide,lenalidomide,Anemia,Rx,X,N,
+retacrit,retacrit,Anemia,Rx,C,N,
+fe c tab plus,fe,Anemia,Rx/OTC,C,N,
+ferrex 150 forte plus,ferrex,Anemia,Rx/OTC,C,N,
+multigen,multigen,Anemia,Rx/OTC,C,N,
+enlyte,enlyte,Anemia,Rx/OTC,C,N,
+ferrex 28,ferrex,Anemia,Rx/OTC,C,N,
+ferotrin,ferotrin,Anemia,Rx/OTC,C,N,
+ferrogels forte,ferrogels,Anemia,Rx/OTC,C,N,
+folitab 500,folitab,Anemia,Rx/OTC,C,N,
+maxaron forte,maxaron,Anemia,Rx/OTC,C,N,
+multigen plus,multigen,Anemia,Rx/OTC,C,N,
+nephron-fa,nephron,Anemia,Rx/OTC,C,N,
+hematogen forte,hematogen,Anemia,Rx/OTC,C,N,
+iferex 150 forte,iferex,Anemia,Rx/OTC,C,N,
+irospan 24 / 6,irospan,Anemia,Rx/OTC,C,N,
+luspatercept,luspatercept,Anemia,Rx,,N,
+multigen folic,multigen,Anemia,Rx/OTC,C,N,
+nufera,nufera,Anemia,Rx/OTC,C,N,
+reblozyl,reblozyl,Anemia,Rx,,N,
+taron forte,taron,Anemia,Rx/OTC,C,N,
+tricon,tricon,Anemia,Rx/OTC,C,N,
+active fe,active,Anemia,Rx/OTC,C,N,
+feriva,feriva,Anemia,Rx/OTC,C,N,
+ferivafa,ferivafa,Anemia,Rx/OTC,C,N,
+mykidz iron,mykidz,Anemia,Rx/OTC,C,N,
+xanax,xanax,Anxiety,Rx,D,4,X
+zepam  off-label,zepam,Anxiety,Rx,D,4,X
+alprazolam,alprazolam,Anxiety,Rx,D,4,X
+lorazepam,lorazepam,Anxiety,Rx,D,4,X
+ativan,ativan,Anxiety,Rx,D,4,X
+buspirone,buspirone,Anxiety,Rx,B,N,X
+hydroxyzine,hydroxyzine,Anxiety,Rx,N,N,X
+lexapro,lexapro,Anxiety,Rx,C,N,X
+buspar,buspar,Anxiety,Rx,B,N,X
+valium,valium,Anxiety,Rx,D,4,X
+diazepam,diazepam,Anxiety,Rx,D,4,X
+escitalopram,escitalopram,Anxiety,Rx,C,N,X
+entin  off-label,entin,Anxiety,Rx,C,N,X
+cymbalta,cymbalta,Anxiety,Rx,C,N,X
+anolol  off-label,anolol,Anxiety,Rx,C,N,X
+effexor xr,effexor,Anxiety,Rx,C,N,X
+pion  off-label,pion,Anxiety,Rx,C,N,X
+done  off-label,done,Anxiety,Rx,C,N,X
+paxil,paxil,Anxiety,Rx,D,N,X
+dine  off-label,dine,Anxiety,Rx,C,N,X
+duloxetine,duloxetine,Anxiety,Rx,C,N,X
+venlafaxine,venlafaxine,Anxiety,Rx,C,N,X
+zapine  off-label,zapine,Anxiety,Rx,C,N,X
+paroxetine,paroxetine,Anxiety,Rx,D,N,X
+alprazolam intensol,alprazolam,Anxiety,Rx,D,4,X
+rigine  off-label,rigine,Anxiety,Rx,C,N,X
+dol  off-label,dol,Anxiety,Rx,C,4,X
+atenolol,atenolol,Anxiety,Rx,D,N,X
+ridone  off-label,ridone,Anxiety,Rx,C,N,X
+tenormin,tenormin,Anxiety,Rx,D,N,X
+tranxene,tranxene,Anxiety,Rx,N,4,X
+lorazepam intensol,lorazepam,Anxiety,Rx,D,4,X
+clorazepate,clorazepate,Anxiety,Rx,N,4,X
+doxepin,doxepin,Anxiety,Rx,N,N,X
+oxazepam,oxazepam,Anxiety,Rx,N,4,X
+paxil cr,paxil,Anxiety,Rx,D,N,X
+amitriptyline / perphenazine,amitriptyline,Anxiety,Rx,N,N,X
+chlordiazepoxide,chlordiazepoxide,Anxiety,Rx,N,4,X
+nlafaxine  off-label,nlafaxine,Anxiety,Rx,C,N,X
+diazepam intensol,diazepam,Anxiety,Rx,D,4,X
+loreev xr,loreev,Anxiety,Rx,D,4,X
+bazepine  off-label,bazepine,Anxiety,Rx,C,N,X
+pexeva,pexeva,Anxiety,Rx,D,N,X
+toin  off-label,toin,Anxiety,Rx,D,N,X
+prochlorperazine,prochlorperazine,Anxiety,Rx/OTC,N,N,X
+amitriptyline / chlordiazepoxide,amitriptyline,Anxiety,Rx,N,4,X
+compro,compro,Anxiety,Rx/OTC,N,N,X
+corgard,corgard,Anxiety,Rx,C,N,X
+meprobamate,meprobamate,Anxiety,Rx,N,4,X
+nadolol,nadolol,Anxiety,Rx,C,N,X
+odone  off-label,odone,Anxiety,Rx,C,N,X
+trifluoperazine,trifluoperazine,Anxiety,Rx,N,N,X
+odone  off-label,odone,Anxiety,Rx,C,N,X
+tranxene t-tab,tranxene,Anxiety,Rx,N,4,X
+methotrexate,methotrexate,Rheumatoid Arthritis,Rx,X,N,X
+enbrel,enbrel,Rheumatoid Arthritis,Rx,B,N,
+humira,humira,Rheumatoid Arthritis,Rx,B,N,
+sulfasalazine,sulfasalazine,Rheumatoid Arthritis,Rx,B,N,
+prednisone,prednisone,Rheumatoid Arthritis,Rx,C,N,
+celebrex,celebrex,Rheumatoid Arthritis,Rx,C,N,
+meloxicam,meloxicam,Rheumatoid Arthritis,Rx,C,N,X
+hydroxychloroquine,hydroxychloroquine,Rheumatoid Arthritis,Rx,N,N,
+remicade,remicade,Rheumatoid Arthritis,Rx,B,N,
+plaquenil,plaquenil,Rheumatoid Arthritis,Rx,N,N,
+orencia,orencia,Rheumatoid Arthritis,Rx,C,N,
+cimzia,cimzia,Rheumatoid Arthritis,Rx,B,N,
+etanercept,etanercept,Rheumatoid Arthritis,Rx,B,N,
+simponi,simponi,Rheumatoid Arthritis,Rx,B,N,
+adalimumab,adalimumab,Rheumatoid Arthritis,Rx,B,N,
+azulfidine,azulfidine,Rheumatoid Arthritis,Rx,B,N,
+rituximab,rituximab,Rheumatoid Arthritis,Rx,C,N,
+abatacept,abatacept,Rheumatoid Arthritis,Rx,C,N,
+avsola,avsola,Rheumatoid Arthritis,Rx,B,N,
+inflectra,inflectra,Rheumatoid Arthritis,Rx,B,N,
+renflexis,renflexis,Rheumatoid Arthritis,Rx,B,N,
+leflunomide,leflunomide,Rheumatoid Arthritis,Rx,X,N,X
+actemra,actemra,Rheumatoid Arthritis,Rx,C,N,
+diclofenac,diclofenac,Rheumatoid Arthritis,Rx,D,N,X
+arava,arava,Rheumatoid Arthritis,Rx,X,N,X
+mobic,mobic,Rheumatoid Arthritis,Rx,C,N,X
+naproxen,naproxen,Rheumatoid Arthritis,Rx/OTC,C,N,X
+celecoxib,celecoxib,Rheumatoid Arthritis,Rx,C,N,
+ibuprofen,ibuprofen,Rheumatoid Arthritis,Rx/OTC,C,N,X
+off-label,off,Rheumatoid Arthritis,Rx,C,2,X
+rituxan,rituxan,Rheumatoid Arthritis,Rx,C,N,
+xeljanz,xeljanz,Rheumatoid Arthritis,Rx,C,N,
+minophen / hydrocodone  off-label,minophen,Rheumatoid Arthritis,Rx,C,2,X
+aspirin,aspirin,Rheumatoid Arthritis,Rx/OTC,N,N,X
+astatin  off-label,astatin,Rheumatoid Arthritis,Rx,X,N,X
+aleve,aleve,Rheumatoid Arthritis,Rx/OTC,C,N,X
+arthritis pain,arthritis,Rheumatoid Arthritis,Rx/OTC,N,N,X
+aspergum,aspergum,Rheumatoid Arthritis,Rx/OTC,N,N,X
+aspiritab,aspiritab,Rheumatoid Arthritis,Rx/OTC,N,N,X
+aspirtab,aspirtab,Rheumatoid Arthritis,Rx/OTC,N,N,X
+bayer aspirin,bayer,Rheumatoid Arthritis,Rx/OTC,N,N,X
+bayer aspirin extra strength plus,bayer,Rheumatoid Arthritis,Rx/OTC,N,N,X
+easprin,easprin,Rheumatoid Arthritis,Rx,N,N,X
+ecotrin,ecotrin,Rheumatoid Arthritis,Rx/OTC,N,N,X
+ecpirin,ecpirin,Rheumatoid Arthritis,Rx/OTC,N,N,X
+entercote,entercote,Rheumatoid Arthritis,Rx/OTC,N,N,X
+genacote,genacote,Rheumatoid Arthritis,Rx/OTC,N,N,X
+halfprin,halfprin,Rheumatoid Arthritis,Rx/OTC,N,N,X
+nabumetone,nabumetone,Rheumatoid Arthritis,Rx,C,N,X
+norwich aspirin,norwich,Rheumatoid Arthritis,Rx/OTC,N,N,X
+rayos,rayos,Rheumatoid Arthritis,Rx,C,N,
+vazalore,vazalore,Rheumatoid Arthritis,Rx/OTC,N,N,X
+vimovo,vimovo,Rheumatoid Arthritis,Rx,C,N,X
+advil,advil,Rheumatoid Arthritis,Rx/OTC,C,N,X
+etodolac,etodolac,Rheumatoid Arthritis,Rx,C,N,X
+b  off-label,b,Rheumatoid Arthritis,Rx,C,2,X
+methylprednisolone,methylprednisolone,Rheumatoid Arthritis,Rx,C,N,
+motrin,motrin,Rheumatoid Arthritis,Rx/OTC,C,N,X
+naprosyn,naprosyn,Rheumatoid Arthritis,Rx/OTC,C,N,X
+proprinal,proprinal,Rheumatoid Arthritis,Rx/OTC,C,N,X
+tocilizumab,tocilizumab,Rheumatoid Arthritis,Rx,C,N,
+voltaren,voltaren,Rheumatoid Arthritis,Rx,D,N,X
+a-g profen,a,Rheumatoid Arthritis,Rx/OTC,C,N,X
+actiprofen,actiprofen,Rheumatoid Arthritis,Rx/OTC,C,N,X
+addaprin,addaprin,Rheumatoid Arthritis,Rx/OTC,C,N,X
+azathioprine,azathioprine,Rheumatoid Arthritis,Rx,D,N,
+ycline  off-label,ycline,Rheumatoid Arthritis,Rx,D,N,X
+duexis,duexis,Rheumatoid Arthritis,Rx,C,N,X
+genpril,genpril,Rheumatoid Arthritis,Rx/OTC,C,N,X
+ibu-200,ibu,Rheumatoid Arthritis,Rx/OTC,C,N,X
+medrol,medrol,Rheumatoid Arthritis,Rx,C,N,
+midol ib,midol,Rheumatoid Arthritis,Rx/OTC,C,N,X
+motrin ib,motrin,Rheumatoid Arthritis,Rx/OTC,C,N,X
+nuprin,nuprin,Rheumatoid Arthritis,Rx/OTC,C,N,X
+rasuvo,rasuvo,Rheumatoid Arthritis,Rx,X,N,X
+xeljanz xr,xeljanz,Rheumatoid Arthritis,Rx,C,N,
+aflaxen,aflaxen,Rheumatoid Arthritis,Rx/OTC,C,N,X
+all day pain relief,all,Rheumatoid Arthritis,Rx/OTC,C,N,X
+all day relief,all,Rheumatoid Arthritis,Rx/OTC,C,N,X
+anaprox,anaprox,Rheumatoid Arthritis,Rx/OTC,C,N,X
+anaprox-ds,anaprox,Rheumatoid Arthritis,Rx/OTC,C,N,X
+arthrotec,arthrotec,Rheumatoid Arthritis,Rx,X,N,X
+cataflam,cataflam,Rheumatoid Arthritis,Rx,D,N,X
+dexamethasone,dexamethasone,Rheumatoid Arthritis,Rx,C,N,
+ec-naprosyn,ec,Rheumatoid Arthritis,Rx/OTC,C,N,X
+flanax pain reliever,flanax,Rheumatoid Arthritis,Rx/OTC,C,N,X
+imuran,imuran,Rheumatoid Arthritis,Rx,D,N,
+indomethacin,indomethacin,Rheumatoid Arthritis,Rx,C,N,X
+infliximab,infliximab,Rheumatoid Arthritis,Rx,B,N,
+lofena,lofena,Rheumatoid Arthritis,Rx,D,N,X
+methylprednisolone dose pack,methylprednisolone,Rheumatoid Arthritis,Rx,C,N,
+midol extended relief,midol,Rheumatoid Arthritis,Rx/OTC,C,N,X
+naprelan,naprelan,Rheumatoid Arthritis,Rx/OTC,C,N,X
+otrexup,otrexup,Rheumatoid Arthritis,Rx,X,N,X
+oxaprozin,oxaprozin,Rheumatoid Arthritis,Rx,C,N,X
+piroxicam,piroxicam,Rheumatoid Arthritis,Rx,C,N,X
+rinvoq,rinvoq,Rheumatoid Arthritis,Rx,,N,
+salsalate,salsalate,Rheumatoid Arthritis,Rx,C,N,X
+sulindac,sulindac,Rheumatoid Arthritis,Rx,C,N,X
+trexall,trexall,Rheumatoid Arthritis,Rx,X,N,X
+triamcinolone,triamcinolone,Rheumatoid Arthritis,Rx,C,N,
+minophen / tramadol  off-label,minophen,Rheumatoid Arthritis,Rx,C,4,X
+anakinra,anakinra,Rheumatoid Arthritis,Rx,B,N,
+ia  off-label,ia,Rheumatoid Arthritis,Rx,C,2,X
+aristospan,aristospan,Rheumatoid Arthritis,Rx,C,N,
+auranofin,auranofin,Rheumatoid Arthritis,Rx,C,N,
+azulfidine en-tabs,azulfidine,Rheumatoid Arthritis,Rx,B,N,
+certolizumab,certolizumab,Rheumatoid Arthritis,Rx,B,N,
+clinacort,clinacort,Rheumatoid Arthritis,Rx,C,N,
+cortisone,cortisone,Rheumatoid Arthritis,Rx,N,N,
+cyclosporine,cyclosporine,Rheumatoid Arthritis,Rx,C,N,
+daypro,daypro,Rheumatoid Arthritis,Rx,C,N,X
+de-sone la,de,Rheumatoid Arthritis,Rx,C,N,
+depo-medrol,depo,Rheumatoid Arthritis,Rx,C,N,
+dexamethasone intensol,dexamethasone,Rheumatoid Arthritis,Rx,C,N,
+diclofenac / misoprostol,diclofenac,Rheumatoid Arthritis,Rx,X,N,X
+dxevo,dxevo,Rheumatoid Arthritis,Rx,C,N,
+esomeprazole / naproxen,esomeprazole,Rheumatoid Arthritis,Rx,C,N,X
+golimumab,golimumab,Rheumatoid Arthritis,Rx,B,N,
+indocin,indocin,Rheumatoid Arthritis,Rx,C,N,X
+kenalog-10,kenalog,Rheumatoid Arthritis,Rx,C,N,
+kenalog-40,kenalog,Rheumatoid Arthritis,Rx,C,N,
+ketoprofen,ketoprofen,Rheumatoid Arthritis,Rx/OTC,C,N,X
+kevzara,kevzara,Rheumatoid Arthritis,Rx,,N,
+kineret,kineret,Rheumatoid Arthritis,Rx,B,N,
+medrol dosepak,medrol,Rheumatoid Arthritis,Rx,C,N,
+ycline  off-label,ycline,Rheumatoid Arthritis,Rx,D,N,
+henolate mofetil  off-label,henolate,Rheumatoid Arthritis,Rx,D,N,
+olumiant,olumiant,Rheumatoid Arthritis,Rx,,N,
+toin  off-label,toin,Rheumatoid Arthritis,Rx,D,N,X
+reditrex,reditrex,Rheumatoid Arthritis,Rx,X,N,X
+ridaura,ridaura,Rheumatoid Arthritis,Rx,C,N,
+simponi aria,simponi,Rheumatoid Arthritis,Rx,B,N,
+solu-medrol,solu,Rheumatoid Arthritis,Rx,C,N,
+tofacitinib,tofacitinib,Rheumatoid Arthritis,Rx,C,N,
+abrilada,abrilada,Rheumatoid Arthritis,Rx,B,N,
+acetaminophen / aspirin,acetaminophen,Rheumatoid Arthritis,OTC,N,N,X
+acthar,acthar,Rheumatoid Arthritis,Rx,C,N,
+uzumab  off-label,uzumab,Rheumatoid Arthritis,Rx,C,N,
+amjevita,amjevita,Rheumatoid Arthritis,Rx,B,N,
+arthricream,arthricream,Rheumatoid Arthritis,OTC,N,N,
+asper-flex,asper,Rheumatoid Arthritis,OTC,N,N,
+azasan,azasan,Rheumatoid Arthritis,Rx,D,N,
+baricitinib,baricitinib,Rheumatoid Arthritis,Rx,,N,
+boroleum,boroleum,Rheumatoid Arthritis,Rx/OTC,N,N,
+or / menthol / methyl salicylate  off-label,or,Rheumatoid Arthritis,OTC,,N,
+castiva cooling,castiva,Rheumatoid Arthritis,Rx/OTC,N,N,
+clinoril,clinoril,Rheumatoid Arthritis,Rx,C,N,X
+sic  off-label,sic,Rheumatoid Arthritis,Rx,C,2,X
+corticotropin,corticotropin,Rheumatoid Arthritis,Rx,C,N,
+cuprimine,cuprimine,Rheumatoid Arthritis,Rx,D,N,
+phosphamide  off-label,phosphamide,Rheumatoid Arthritis,Rx,D,N,
+cyltezo,cyltezo,Rheumatoid Arthritis,Rx,B,N,
+d-penamine,d,Rheumatoid Arthritis,Rx,D,N,
+daypro alta,daypro,Rheumatoid Arthritis,Rx,C,N,X
+depen,depen,Rheumatoid Arthritis,Rx,D,N,
+depen titratabs,depen,Rheumatoid Arthritis,Rx,D,N,
+diflunisal,diflunisal,Rheumatoid Arthritis,Rx,C,N,
+dolobid,dolobid,Rheumatoid Arthritis,Rx,C,N,
+erelzi,erelzi,Rheumatoid Arthritis,Rx,B,N,
+eticovo,eticovo,Rheumatoid Arthritis,Rx,B,N,
+eucalyptamint,eucalyptamint,Rheumatoid Arthritis,Rx/OTC,N,N,
+exocaine plus,exocaine,Rheumatoid Arthritis,Rx/OTC,N,N,
+famotidine / ibuprofen,famotidine,Rheumatoid Arthritis,Rx,C,N,X
+feldene,feldene,Rheumatoid Arthritis,Rx,C,N,X
+fenoprofen,fenoprofen,Rheumatoid Arthritis,Rx,D,N,X
+fenortho,fenortho,Rheumatoid Arthritis,Rx,D,N,X
+flurbiprofen,flurbiprofen,Rheumatoid Arthritis,Rx,C,N,X
+gengraf,gengraf,Rheumatoid Arthritis,Rx,C,N,
+gordogesic,gordogesic,Rheumatoid Arthritis,Rx/OTC,N,N,
+h.p. acthar gel,h,Rheumatoid Arthritis,Rx,C,N,
+hadlima,hadlima,Rheumatoid Arthritis,Rx,B,N,
+heet triple action,heet,Rheumatoid Arthritis,Rx/OTC,N,N,
+hulio,hulio,Rheumatoid Arthritis,Rx,B,N,
+off-label,off,Rheumatoid Arthritis,Rx,C,2,X
+hyrimoz,hyrimoz,Rheumatoid Arthritis,Rx,B,N,
+indocin sr,indocin,Rheumatoid Arthritis,Rx,C,N,X
+feron gamma-1b  off-label,feron,Rheumatoid Arthritis,Rx,C,N,
+ixifi,ixifi,Rheumatoid Arthritis,Rx,B,N,
+t plus  off-label,t,Rheumatoid Arthritis,Rx,C,2,X
+meclofenamate,meclofenamate,Rheumatoid Arthritis,Rx,N,N,X
+mentholatum deep heating,mentholatum,Rheumatoid Arthritis,Rx/OTC,N,N,
+methyl salicylate,methyl,Rheumatoid Arthritis,Rx/OTC,N,N,
+myoflex,myoflex,Rheumatoid Arthritis,OTC,N,N,
+nalfon,nalfon,Rheumatoid Arthritis,Rx,D,N,X
+neoral,neoral,Rheumatoid Arthritis,Rx,C,N,
+penicillamine,penicillamine,Rheumatoid Arthritis,Rx,D,N,
+relafen ds,relafen,Rheumatoid Arthritis,Rx,C,N,X
+salonpas pain patch,salonpas,Rheumatoid Arthritis,Rx/OTC,N,N,
+sarilumab,sarilumab,Rheumatoid Arthritis,Rx,,N,
+satogesic,satogesic,Rheumatoid Arthritis,Rx/OTC,N,N,
+cycline  off-label,cycline,Rheumatoid Arthritis,Rx,D,N,
+codophen low 90  off-label,codophen,Rheumatoid Arthritis,Rx,C,2,X
+tolmetin,tolmetin,Rheumatoid Arthritis,Rx,C,N,X
+trolamine salicylate,trolamine,Rheumatoid Arthritis,OTC,N,N,
+upadacitinib,upadacitinib,Rheumatoid Arthritis,Rx,,N,
+o  off-label,o,Rheumatoid Arthritis,Rx,D,N,
+off-label,off,Rheumatoid Arthritis,Rx,C,2,X
+singulair,singulair,Asthma,Rx,B,N,
+montelukast,montelukast,Asthma,Rx,B,N,
+prednisone,prednisone,Asthma,Rx,C,N,
+fasenra,fasenra,Asthma,Rx,,N,
+trelegy ellipta,trelegy,Asthma,Rx,,N,
+benralizumab,benralizumab,Asthma,Rx,,N,
+dulera,dulera,Asthma,Rx,C,N,
+atrovent,atrovent,Asthma,Rx,B,N,
+breo ellipta,breo,Asthma,Rx,C,N,
+ipratropium,ipratropium,Asthma,Rx,B,N,
+methylprednisolone,methylprednisolone,Asthma,Rx,C,N,
+alvesco,alvesco,Asthma,Rx,C,N,
+atrovent hfa,atrovent,Asthma,Rx,B,N,
+dexamethasone,dexamethasone,Asthma,Rx,C,N,
+levalbuterol,levalbuterol,Asthma,Rx,C,N,
+rayos,rayos,Asthma,Rx,C,N,
+fluticasone / vilanterol,fluticasone,Asthma,Rx,C,N,
+formoterol / mometasone,formoterol,Asthma,Rx,C,N,
+ipratropium inhalation solution,ipratropium,Asthma,Rx,B,N,
+methylprednisolone dose pack,methylprednisolone,Asthma,Rx,C,N,
+triamcinolone,triamcinolone,Asthma,Rx,C,N,
+kenalog-40,kenalog,Asthma,Rx,C,N,
+medrol,medrol,Asthma,Rx,C,N,
+depo-medrol,depo,Asthma,Rx,C,N,
+dexamethasone intensol,dexamethasone,Asthma,Rx,C,N,
+medrol dosepak,medrol,Asthma,Rx,C,N,
+solu-medrol,solu,Asthma,Rx,C,N,
+xopenex,xopenex,Asthma,Rx,C,N,
+xopenex hfa,xopenex,Asthma,Rx,C,N,
+ciclesonide,ciclesonide,Asthma,Rx,C,N,
+de-sone la,de,Asthma,Rx,C,N,
+dxevo,dxevo,Asthma,Rx,C,N,
+dyphylline / guaifenesin,dyphylline,Asthma,Rx,C,N,
+ipratropium inhalation aerosol,ipratropium,Asthma,Rx,B,N,
+nucala,nucala,Asthma,Rx,N,N,
+ine  off-label,ine,Asthma,Rx/OTC,C,N,
+cinqair,cinqair,Asthma,Rx,,N,
+mepolizumab,mepolizumab,Asthma,Rx,N,N,
+reslizumab,reslizumab,Asthma,Rx,,N,
+difil-g forte,difil,Asthma,Rx,C,N,
+dilex-g 400,dilex,Asthma,Rx,C,N,
+dy-g,dy,Asthma,Rx,C,N,
+fluticasone / umeclidinium / vilanterol,fluticasone,Asthma,Rx,,N,
+tezspire,tezspire,Asthma,Rx,,U,
+xopenex concentrate,xopenex,Asthma,Rx,C,N,
+abilify,abilify,Autism,Rx,C,N,X
+risperidone,risperidone,Autism,Rx,C,N,X
+risperdal,risperdal,Autism,Rx,C,N,X
+aripiprazole,aripiprazole,Autism,Rx,C,N,X
+effexor,effexor,Autism,Rx,C,N,X
+venlafaxine,venlafaxine,Autism,Rx,C,N,X
+effexor xr,effexor,Autism,Rx,C,N,X
+geodon,geodon,Autism,Rx,C,N,X
+tine  off-label,tine,Autism,Rx,B,N,
+ziprasidone,ziprasidone,Autism,Rx,C,N,X
+eridone  off-label,eridone,Autism,Rx,C,N,X
+anide  off-label,anide,Autism,Rx,C,N,X
+omeprazole,omeprazole,Barrett's Esophagus,Rx/OTC,C,N,
+pantoprazole,pantoprazole,Barrett's Esophagus,Rx,B,N,
+nexium,nexium,Barrett's Esophagus,Rx,C,N,
+protonix,protonix,Barrett's Esophagus,Rx,B,N,
+prilosec,prilosec,Barrett's Esophagus,Rx,C,N,
+dexilant,dexilant,Barrett's Esophagus,Rx,B,N,
+esomeprazole,esomeprazole,Barrett's Esophagus,Rx/OTC,C,N,
+lansoprazole,lansoprazole,Barrett's Esophagus,Rx/OTC,B,N,
+prevacid,prevacid,Barrett's Esophagus,Rx,B,N,
+aciphex,aciphex,Barrett's Esophagus,Rx,B,N,
+protonix iv,protonix,Barrett's Esophagus,Rx,B,N,
+rabeprazole,rabeprazole,Barrett's Esophagus,Rx,B,N,
+dexlansoprazole,dexlansoprazole,Barrett's Esophagus,Rx,B,N,
+nexium iv,nexium,Barrett's Esophagus,Rx,C,N,
+prevacid otc,prevacid,Barrett's Esophagus,OTC,B,N,
+prevacid solutab,prevacid,Barrett's Esophagus,Rx,B,N,
+blephamide,blephamide,Blepharitis,Rx,C,N,
+maxitrol,maxitrol,Blepharitis,Rx,C,N,
+neo-poly-dex,neo,Blepharitis,Rx,C,N,
+dexamethasone / neomycin / polymyxin b,dexamethasone,Blepharitis,Rx,C,N,
+pred-g s.o.p.,pred,Blepharitis,Rx,C,N,
+prednisolone / sulfacetamide sodium,prednisolone,Blepharitis,Rx,C,N,
+cortisporin ophthalmic suspension,cortisporin,Blepharitis,Rx,C,N,
+hydrocortisone / neomycin / polymyxin b,hydrocortisone,Blepharitis,Rx,C,N,
+bacitracin / polymyxin b,bacitracin,Blepharitis,Rx,C,N,
+ak-poly-bac,ak,Blepharitis,Rx,C,N,
+bacitracin / neomycin / polymyxin b,bacitracin,Blepharitis,Rx,C,N,
+gentamicin / prednisolone,gentamicin,Blepharitis,Rx,C,N,
+blephamide s.o.p.,blephamide,Blepharitis,Rx,C,N,
+neo-polycin,neo,Blepharitis,Rx,C,N,
+neocidin,neocidin,Blepharitis,Rx,C,N,
+npd ophthalmic ointment,npd,Blepharitis,Rx,C,N,
+poly-dex,poly,Blepharitis,Rx,C,N,
+polycin,polycin,Blepharitis,Rx,C,N,
+pred-g,pred,Blepharitis,Rx,C,N,
+mucinex,mucinex,Bronchitis,Rx/OTC,C,N,
+azithromycin dose pack,azithromycin,Bronchitis,Rx,B,N,
+azithromycin,azithromycin,Bronchitis,Rx,B,N,
+doxycycline,doxycycline,Bronchitis,Rx,D,N,X
+amoxicillin,amoxicillin,Bronchitis,Rx,B,N,
+guaifenesin,guaifenesin,Bronchitis,Rx/OTC,C,N,
+levofloxacin,levofloxacin,Bronchitis,Rx,C,N,
+augmentin,augmentin,Bronchitis,Rx,B,N,
+levaquin,levaquin,Bronchitis,Rx,C,N,
+zithromax,zithromax,Bronchitis,Rx,B,N,
+clarithromycin,clarithromycin,Bronchitis,Rx,C,N,
+amoxicillin / clavulanate,amoxicillin,Bronchitis,Rx,B,N,
+cefdinir,cefdinir,Bronchitis,Rx,B,N,
+ciprofloxacin,ciprofloxacin,Bronchitis,Rx,C,N,
+amoxil,amoxil,Bronchitis,Rx,B,N,
+cipro,cipro,Bronchitis,Rx,C,N,
+avelox,avelox,Bronchitis,Rx,C,N,
+cefuroxime,cefuroxime,Bronchitis,Rx,B,N,
+bactrim,bactrim,Bronchitis,Rx,D,N,X
+sulfamethoxazole / trimethoprim,sulfamethoxazole,Bronchitis,Rx,D,N,X
+bactrim ds,bactrim,Bronchitis,Rx,D,N,X
+erythromycin,erythromycin,Bronchitis,Rx,B,N,X
+ceftin,ceftin,Bronchitis,Rx,B,N,
+ceftriaxone,ceftriaxone,Bronchitis,Rx,B,N,
+doxy 100,doxy,Bronchitis,Rx,D,N,X
+apo-amoxi,apo,Bronchitis,Rx,B,N,
+beclomethasone,beclomethasone,Bronchitis,Rx,C,N,
+moxifloxacin,moxifloxacin,Bronchitis,Rx,C,N,
+vibramycin,vibramycin,Bronchitis,Rx,D,N,X
+cefixime,cefixime,Bronchitis,Rx,B,N,
+mucinex maximum strength,mucinex,Bronchitis,Rx/OTC,C,N,
+septra ds,septra,Bronchitis,Rx,D,N,X
+cipro i.v.,cipro,Bronchitis,Rx,C,N,
+cipro xr,cipro,Bronchitis,Rx,C,N,
+doryx,doryx,Bronchitis,Rx,D,N,X
+doryx mpc,doryx,Bronchitis,Rx,D,N,X
+monodox,monodox,Bronchitis,Rx,D,N,X
+morgidox,morgidox,Bronchitis,Rx,D,N,X
+oraxyl,oraxyl,Bronchitis,Rx,D,N,X
+septra,septra,Bronchitis,Rx,D,N,X
+ampicillin,ampicillin,Bronchitis,Rx,B,N,
+augmentin xr,augmentin,Bronchitis,Rx,B,N,
+biaxin xl,biaxin,Bronchitis,Rx,C,N,
+cefpodoxime,cefpodoxime,Bronchitis,Rx,B,N,
+cefprozil,cefprozil,Bronchitis,Rx,B,N,
+ery-tab,ery,Bronchitis,Rx,B,N,X
+guaifenex g,guaifenex,Bronchitis,Rx/OTC,C,N,
+mucinex for kids,mucinex,Bronchitis,Rx/OTC,C,N,
+robafen,robafen,Bronchitis,Rx/OTC,C,N,
+suprax,suprax,Bronchitis,Rx,B,N,
+tetracycline,tetracycline,Bronchitis,Rx,D,N,
+achromycin v,achromycin,Bronchitis,Rx,D,N,
+ala-tet,ala,Bronchitis,Rx,D,N,
+altarussin,altarussin,Bronchitis,Rx/OTC,C,N,
+amibid la,amibid,Bronchitis,Rx/OTC,C,N,
+amoclan,amoclan,Bronchitis,Rx,B,N,
+balminil expectorant,balminil,Bronchitis,Rx/OTC,C,N,
+benylin e,benylin,Bronchitis,Rx/OTC,C,N,
+bidex-400,bidex,Bronchitis,Rx/OTC,C,N,
+brodspec,brodspec,Bronchitis,Rx,D,N,
+cefaclor,cefaclor,Bronchitis,Rx,B,N,
+cefzil,cefzil,Bronchitis,Rx,B,N,
+co-trimoxazole,co,Bronchitis,Rx,D,N,X
+dicloxacillin,dicloxacillin,Bronchitis,Rx,B,N,
+drituss g,drituss,Bronchitis,Rx/OTC,C,N,
+e.e.s. granules,e,Bronchitis,Rx,B,N,X
+eryc,eryc,Bronchitis,Rx,B,N,X
+eryped,eryped,Bronchitis,Rx,B,N,X
+erythrocin,erythrocin,Bronchitis,Rx,B,N,X
+erythrocin lactobionate,erythrocin,Bronchitis,Rx,B,N,X
+fenesin ir,fenesin,Bronchitis,Rx/OTC,C,N,
+floxin,floxin,Bronchitis,Rx,C,N,
+gemifloxacin,gemifloxacin,Bronchitis,Rx,C,N,
+guaifenex la,guaifenex,Bronchitis,Rx/OTC,C,N,
+guiatuss,guiatuss,Bronchitis,Rx/OTC,C,N,
+hytuss,hytuss,Bronchitis,Rx/OTC,C,N,
+ofloxacin,ofloxacin,Bronchitis,Rx,C,N,
+pce dispertab,pce,Bronchitis,Rx,B,N,X
+scot-tussin expectorant,scot,Bronchitis,Rx/OTC,C,N,
+sulfatrim pediatric,sulfatrim,Bronchitis,Rx,D,N,X
+tussin expectorant,tussin,Bronchitis,Rx/OTC,C,N,
+xpect,xpect,Bronchitis,Rx/OTC,C,N,
+zinacef,zinacef,Bronchitis,Rx,B,N,
+avelox i.v.,avelox,Bronchitis,Rx,C,N,
+cilastatin / imipenem,cilastatin,Bronchitis,Rx,C,N,
+difil-g forte,difil,Bronchitis,Rx,C,N,
+dilex-g 400,dilex,Bronchitis,Rx,C,N,
+dy-g,dy,Bronchitis,Rx,C,N,
+dycill,dycill,Bronchitis,Rx,B,N,
+dynapen,dynapen,Bronchitis,Rx,B,N,
+dyphylline / guaifenesin,dyphylline,Bronchitis,Rx,C,N,
+factive,factive,Bronchitis,Rx,C,N,
+primaxin iv,primaxin,Bronchitis,Rx,C,N,
+sulfamethoxazole / trimethoprim,sulfamethoxazole,Superficial Bacterial Skin Infection,Rx,D,N,X
+bactrim,bactrim,Superficial Bacterial Skin Infection,Rx,D,N,X
+bactrim ds,bactrim,Superficial Bacterial Skin Infection,Rx,D,N,X
+bacitracin,bacitracin,Superficial Bacterial Skin Infection,Rx/OTC,N,N,
+neosporin,neosporin,Superficial Bacterial Skin Infection,OTC,N,N,
+triple antibiotic,triple,Superficial Bacterial Skin Infection,OTC,N,N,
+co-trimoxazole,co,Superficial Bacterial Skin Infection,Rx,D,N,X
+septra,septra,Superficial Bacterial Skin Infection,Rx,D,N,X
+septra ds,septra,Superficial Bacterial Skin Infection,Rx,D,N,X
+bacitracin / neomycin / polymyxin b,bacitracin,Superficial Bacterial Skin Infection,OTC,N,N,
+sulfatrim pediatric,sulfatrim,Superficial Bacterial Skin Infection,Rx,D,N,X
+a + d cracked skin relief,a,Superficial Bacterial Skin Infection,OTC,N,N,
+cortisporin cream,cortisporin,Superficial Bacterial Skin Infection,Rx,C,N,
+benzalkonium chloride / lidocaine,benzalkonium,Superficial Bacterial Skin Infection,OTC,N,N,
+cortisporin ointment,cortisporin,Superficial Bacterial Skin Infection,Rx,C,N,
+hydrocortisone / neomycin / polymyxin b,hydrocortisone,Superficial Bacterial Skin Infection,Rx,C,N,
+neosporin + pain relief ointment,neosporin,Superficial Bacterial Skin Infection,OTC,N,N,
+antibiotic plus pain relief,antibiotic,Superficial Bacterial Skin Infection,OTC,N,N,
+bacitracin / polymyxin b,bacitracin,Superficial Bacterial Skin Infection,OTC,N,N,
+fluocinolone / neomycin,fluocinolone,Superficial Bacterial Skin Infection,Rx,N,N,
+neomycin / polymyxin b / pramoxine,neomycin,Superficial Bacterial Skin Infection,OTC,N,N,
+bacitracin / hydrocortisone / neomycin / polymyxin b,bacitracin,Superficial Bacterial Skin Infection,Rx,C,N,
+bacitracin / neomycin / polymyxin b / pramoxine,bacitracin,Superficial Bacterial Skin Infection,OTC,N,N,
+ammoniated mercury,ammoniated,Superficial Bacterial Skin Infection,Rx,,N,
+curad triple antibiotic,curad,Superficial Bacterial Skin Infection,OTC,N,N,
+first aid antiseptic,first,Superficial Bacterial Skin Infection,OTC,N,N,
+medi-quik,medi,Superficial Bacterial Skin Infection,OTC,N,N,
+neo-synalar,neo,Superficial Bacterial Skin Infection,Rx,N,N,
+furosemide,furosemide,Congestive Heart Failure,Rx,C,N,X
+carvedilol,carvedilol,Congestive Heart Failure,Rx,C,N,X
+lasix,lasix,Congestive Heart Failure,Rx,C,N,X
+spironolactone,spironolactone,Congestive Heart Failure,Rx,C,N,X
+coreg,coreg,Congestive Heart Failure,Rx,C,N,X
+lisinopril,lisinopril,Congestive Heart Failure,Rx,D,N,
+digoxin,digoxin,Congestive Heart Failure,Rx,C,N,
+farxiga,farxiga,Congestive Heart Failure,Rx,C,N,X
+metoprolol,metoprolol,Congestive Heart Failure,Rx,C,N,X
+dapagliflozin,dapagliflozin,Congestive Heart Failure,Rx,C,N,X
+isosorbide mononitrate,isosorbide,Congestive Heart Failure,Rx,C,N,
+amlodipine,amlodipine,Congestive Heart Failure,Rx,C,N,
+aldactone,aldactone,Congestive Heart Failure,Rx,C,N,X
+entresto,entresto,Congestive Heart Failure,Rx,,N,
+warfarin,warfarin,Congestive Heart Failure,Rx,D,N,X
+accupril,accupril,Congestive Heart Failure,Rx,D,N,
+cardizem,cardizem,Congestive Heart Failure,Rx,C,N,
+coumadin,coumadin,Congestive Heart Failure,Rx,D,N,X
+norvasc,norvasc,Congestive Heart Failure,Rx,C,N,
+altace,altace,Congestive Heart Failure,Rx,D,N,
+lanoxin,lanoxin,Congestive Heart Failure,Rx,C,N,
+toprol-xl,toprol,Congestive Heart Failure,Rx,C,N,X
+diovan,diovan,Congestive Heart Failure,Rx,D,N,
+hydralazine,hydralazine,Congestive Heart Failure,Rx,C,N,
+nitrostat,nitrostat,Congestive Heart Failure,Rx,C,N,X
+nitroglycerin,nitroglycerin,Congestive Heart Failure,Rx,C,N,X
+bisoprolol,bisoprolol,Congestive Heart Failure,Rx,C,N,X
+prinivil,prinivil,Congestive Heart Failure,Rx,D,N,
+zestril,zestril,Congestive Heart Failure,Rx,D,N,
+diltiazem,diltiazem,Congestive Heart Failure,Rx,C,N,
+ramipril,ramipril,Congestive Heart Failure,Rx,D,N,
+torsemide,torsemide,Congestive Heart Failure,Rx,B,N,X
+enalapril,enalapril,Congestive Heart Failure,Rx,D,N,
+rbide dinitrate  off-label,rbide,Congestive Heart Failure,Rx,C,N,
+urinol  off-label,urinol,Congestive Heart Failure,Rx,C,N,
+vasotec,vasotec,Congestive Heart Failure,Rx,D,N,
+apresoline,apresoline,Congestive Heart Failure,Rx,C,N,
+valsartan,valsartan,Congestive Heart Failure,Rx,D,N,
+atacand,atacand,Congestive Heart Failure,Rx,D,N,
+coreg cr,coreg,Congestive Heart Failure,Rx,C,N,X
+eplerenone,eplerenone,Congestive Heart Failure,Rx,B,N,X
+lotensin,lotensin,Congestive Heart Failure,Rx,D,N,X
+qbrelis,qbrelis,Congestive Heart Failure,Rx,D,N,
+benazepril,benazepril,Congestive Heart Failure,Rx,D,N,X
+candesartan,candesartan,Congestive Heart Failure,Rx,D,N,
+cartia xt,cartia,Congestive Heart Failure,Rx,C,N,
+digox,digox,Congestive Heart Failure,Rx,C,N,
+kapspargo sprinkle,kapspargo,Congestive Heart Failure,Rx,C,N,X
+nifedipine,nifedipine,Congestive Heart Failure,Rx,C,N,
+quinapril,quinapril,Congestive Heart Failure,Rx,D,N,
+sacubitril / valsartan,sacubitril,Congestive Heart Failure,Rx,,N,
+captopril,captopril,Congestive Heart Failure,Rx,D,N,
+cardizem cd,cardizem,Congestive Heart Failure,Rx,C,N,
+carospir,carospir,Congestive Heart Failure,Rx,C,N,X
+corlanor,corlanor,Congestive Heart Failure,Rx,N,N,
+demadex,demadex,Congestive Heart Failure,Rx,B,N,X
+digitek,digitek,Congestive Heart Failure,Rx,C,N,
+dobutamine,dobutamine,Congestive Heart Failure,Rx,B,N,
+hydrochlorothiazide / lisinopril,hydrochlorothiazide,Congestive Heart Failure,Rx,D,N,X
+ivabradine,ivabradine,Congestive Heart Failure,Rx,N,N,
+jantoven,jantoven,Congestive Heart Failure,Rx,D,N,X
+milrinone,milrinone,Congestive Heart Failure,Rx,C,N,
+perindopril,perindopril,Congestive Heart Failure,Rx,D,N,
+bidil,bidil,Congestive Heart Failure,Rx,C,N,
+cardizem la,cardizem,Congestive Heart Failure,Rx,C,N,
+clinacort,clinacort,Congestive Heart Failure,Rx,C,N,
+dilacor xr,dilacor,Congestive Heart Failure,Rx,C,N,
+dilt-xr,dilt,Congestive Heart Failure,Rx,C,N,
+diltia xt,diltia,Congestive Heart Failure,Rx,C,N,
+diltzac,diltzac,Congestive Heart Failure,Rx,C,N,
+dobutrex,dobutrex,Congestive Heart Failure,Rx,B,N,
+epaned,epaned,Congestive Heart Failure,Rx,D,N,
+hydralazine / isosorbide dinitrate,hydralazine,Congestive Heart Failure,Rx,C,N,
+hydrochlorothiazide / spironolactone,hydrochlorothiazide,Congestive Heart Failure,Rx,C,N,X
+inspra,inspra,Congestive Heart Failure,Rx,B,N,X
+trate  off-label,trate,Congestive Heart Failure,Rx,C,N,
+kenalog-40,kenalog,Congestive Heart Failure,Rx,C,N,
+matzim la,matzim,Congestive Heart Failure,Rx,C,N,
+minipress,minipress,Congestive Heart Failure,Rx,C,N,X
+minitran,minitran,Congestive Heart Failure,Rx,C,N,X
+nitro-bid,nitro,Congestive Heart Failure,Rx,C,N,X
+nitro-dur,nitro,Congestive Heart Failure,Rx,C,N,X
+nitro-time,nitro,Congestive Heart Failure,Rx,C,N,X
+nitrolingual pumpspray,nitrolingual,Congestive Heart Failure,Rx,C,N,X
+nitromist,nitromist,Congestive Heart Failure,Rx,C,N,X
+nitro td patch-a,nitro,Congestive Heart Failure,Rx,C,N,X
+prazosin,prazosin,Congestive Heart Failure,Rx,C,N,X
+taztia xt,taztia,Congestive Heart Failure,Rx,C,N,
+tiadylt er,tiadylt,Congestive Heart Failure,Rx,C,N,
+tiazac,tiazac,Congestive Heart Failure,Rx,C,N,
+triamcinolone,triamcinolone,Congestive Heart Failure,Rx,C,N,
+aldactazide,aldactazide,Congestive Heart Failure,Rx,C,N,X
+amiloride / hydrochlorothiazide,amiloride,Congestive Heart Failure,Rx,B,N,X
+amiloride,amiloride,Congestive Heart Failure,Rx,B,N,X
+captopril / hydrochlorothiazide,captopril,Congestive Heart Failure,Rx,D,N,X
+cardene iv,cardene,Congestive Heart Failure,Rx,C,N,
+rate-sr  off-label,rate,Congestive Heart Failure,Rx,C,N,
+enalapril / hydrochlorothiazide,enalapril,Congestive Heart Failure,Rx,D,N,X
+fosinopril,fosinopril,Congestive Heart Failure,Rx,D,N,
+ron  off-label,ron,Congestive Heart Failure,Rx,C,N,
+il titradose  off-label,il,Congestive Heart Failure,Rx,C,N,
+midamor,midamor,Congestive Heart Failure,Rx,B,N,X
+moexipril,moexipril,Congestive Heart Failure,Rx,D,N,
+nicardipine,nicardipine,Congestive Heart Failure,Rx,C,N,
+nipride rtu,nipride,Congestive Heart Failure,Rx,C,N,
+nitropress,nitropress,Congestive Heart Failure,Rx,C,N,
+nitroprusside,nitroprusside,Congestive Heart Failure,Rx,C,N,
+soaanz,soaanz,Congestive Heart Failure,Rx,B,N,X
+trandolapril,trandolapril,Congestive Heart Failure,Rx,D,N,
+vaseretic,vaseretic,Congestive Heart Failure,Rx,D,N,X
+zestoretic,zestoretic,Congestive Heart Failure,Rx,D,N,X
+lotemax,lotemax,Conjunctivitis,Rx,C,N,
+sulfacetamide sodium,sulfacetamide,Conjunctivitis,Rx,C,N,
+alrex,alrex,Conjunctivitis,Rx,C,N,
+dexamethasone,dexamethasone,Conjunctivitis,Rx,C,N,
+diclofenac,diclofenac,Conjunctivitis,Rx,C,N,
+zymar,zymar,Conjunctivitis,Rx,C,N,
+maxidex,maxidex,Conjunctivitis,Rx,C,N,
+alomide,alomide,Conjunctivitis,Rx,B,N,
+loteprednol,loteprednol,Conjunctivitis,Rx,C,N,
+gatifloxacin,gatifloxacin,Conjunctivitis,Rx,C,N,
+zymaxid,zymaxid,Conjunctivitis,Rx,C,N,
+voltaren ophthalmic,voltaren,Conjunctivitis,Rx,C,N,
+ceftriaxone,ceftriaxone,Conjunctivitis,Rx,B,N,
+bleph-10,bleph,Conjunctivitis,Rx,C,N,
+triamcinolone,triamcinolone,Conjunctivitis,Rx,C,N,
+clinacort,clinacort,Conjunctivitis,Rx,C,N,
+kenalog-40,kenalog,Conjunctivitis,Rx,C,N,
+cortisone,cortisone,Conjunctivitis,Rx,N,N,
+lodoxamide,lodoxamide,Conjunctivitis,Rx,B,N,
+docusate,docusate,Constipation,Rx/OTC,N,N,
+miralax,miralax,Constipation,Rx/OTC,C,N,
+colace,colace,Constipation,Rx/OTC,N,N,
+dulcolax,dulcolax,Constipation,OTC,B,N,
+polyethylene glycol 3350,polyethylene,Constipation,Rx/OTC,C,N,
+bisacodyl,bisacodyl,Constipation,OTC,B,N,
+linzess,linzess,Constipation,Rx,C,N,
+dulcolax stool softener,dulcolax,Constipation,Rx/OTC,N,N,
+milk of magnesia,milk,Constipation,Rx/OTC,N,N,
+amitiza,amitiza,Constipation,Rx,C,N,
+magnesium oxide,magnesium,Constipation,Rx/OTC,C,N,
+metamucil,metamucil,Constipation,OTC,N,N,
+magnesium citrate,magnesium,Constipation,Rx/OTC,C,N,
+citrucel,citrucel,Constipation,Rx/OTC,N,N,
+doc-q-lace,doc,Constipation,Rx/OTC,N,N,
+fibercon,fibercon,Constipation,OTC,N,N,
+phillips' milk of magnesia,phillips,Constipation,Rx/OTC,N,N,
+fleet enema,fleet,Constipation,Rx/OTC,C,N,
+glycolax,glycolax,Constipation,Rx/OTC,C,N,
+dok,dok,Constipation,Rx/OTC,N,N,
+psyllium,psyllium,Constipation,OTC,N,N,
+magnesium hydroxide,magnesium,Constipation,Rx/OTC,N,N,
+surfak,surfak,Constipation,Rx/OTC,N,N,
+clearlax,clearlax,Constipation,Rx/OTC,C,N,
+enemeez mini,enemeez,Constipation,Rx/OTC,N,N,
+linaclotide,linaclotide,Constipation,Rx,C,N,
+bisa-lax,bisa,Constipation,OTC,B,N,
+colace micro-enema,colace,Constipation,Rx/OTC,N,N,
+correctol,correctol,Constipation,OTC,B,N,
+diocto,diocto,Constipation,Rx/OTC,N,N,
+docuprene,docuprene,Constipation,Rx/OTC,N,N,
+fleet bisacodyl,fleet,Constipation,OTC,B,N,
+lubiprostone,lubiprostone,Constipation,Rx,C,N,
+citrate of magnesia,citrate,Constipation,Rx/OTC,C,N,
+peg3350,peg3350,Constipation,Rx/OTC,C,N,
+phillips' cramp-free,phillips,Constipation,Rx/OTC,C,N,
+purelax,purelax,Constipation,Rx/OTC,C,N,
+citroma,citroma,Constipation,Rx/OTC,C,N,
+gavilax,gavilax,Constipation,Rx/OTC,C,N,
+gialax,gialax,Constipation,Rx/OTC,C,N,
+konsyl,konsyl,Constipation,OTC,N,N,
+mag-oxide,mag,Constipation,Rx/OTC,C,N,
+methylcellulose,methylcellulose,Constipation,Rx/OTC,N,N,
+sodium biphosphate / sodium phosphate,sodium,Constipation,Rx/OTC,C,N,
+sunmark clearlax,sunmark,Constipation,Rx/OTC,C,N,
+uro-mag,uro,Constipation,Rx/OTC,C,N,
+fleet glycerin suppositories adult,fleet,Constipation,Rx/OTC,C,N,
+glycerin,glycerin,Constipation,Rx/OTC,C,N,
+hydrocil,hydrocil,Constipation,OTC,N,N,
+laxmar,laxmar,Constipation,OTC,N,N,
+natural fiber therapy,natural,Constipation,OTC,N,N,
+polycarbophil,polycarbophil,Constipation,OTC,N,N,
+reguloid,reguloid,Constipation,OTC,N,N,
+dulcolax milk of magnesia,dulcolax,Constipation,Rx/OTC,N,N,
+equalactin,equalactin,Constipation,OTC,N,N,
+ex-lax milk of magnesia,ex,Constipation,Rx/OTC,N,N,
+fiber lax,fiber,Constipation,OTC,N,N,
+fiber laxative,fiber,Constipation,OTC,N,N,
+fleet glycerin suppositories pediatric,fleet,Constipation,Rx/OTC,C,N,
+fleet phospho soda,fleet,Constipation,Rx/OTC,C,N,
+mineral oil,mineral,Constipation,Rx/OTC,N,N,
+osmoprep,osmoprep,Constipation,Rx/OTC,C,N,
+pedia-lax chewable tablets,pedia,Constipation,Rx/OTC,N,N,
+pedia-lax liquid glycerin suppositories,pedia,Constipation,Rx/OTC,C,N,
+sani-supp,sani,Constipation,Rx/OTC,C,N,
+sorbitol,sorbitol,Constipation,Rx/OTC,N,N,
+benzocaine / docusate,benzocaine,Constipation,Rx/OTC,N,N,
+disposable enema,disposable,Constipation,Rx/OTC,C,N,
+fibertab,fibertab,Constipation,OTC,N,N,
+potassium phosphate,potassium,Constipation,Rx/OTC,C,N,
+opril  off-label,opril,Coronary Artery Disease,Rx,D,N,
+amlodipine,amlodipine,Coronary Artery Disease,Rx,C,N,
+norvasc,norvasc,Coronary Artery Disease,Rx,C,N,
+xarelto,xarelto,Coronary Artery Disease,Rx,C,N,
+brilinta,brilinta,Coronary Artery Disease,Rx,C,N,
+rivaroxaban,rivaroxaban,Coronary Artery Disease,Rx,C,N,
+ticagrelor,ticagrelor,Coronary Artery Disease,Rx,C,N,
+amlodipine / atorvastatin,amlodipine,Coronary Artery Disease,Rx,X,N,X
+perindopril,perindopril,Coronary Artery Disease,Rx,D,N,
+isoxsuprine,isoxsuprine,Coronary Artery Disease,Rx,C,N,
+katerzia,katerzia,Coronary Artery Disease,Rx,C,N,
+caduet,caduet,Coronary Artery Disease,Rx,X,N,X
+genase  off-label,genase,Dermal Ulcer,Rx,N,N,
+iodosorb,iodosorb,Dermal Ulcer,Rx/OTC,N,N,
+becaplermin,becaplermin,Dermal Ulcer,Rx,C,N,
+cadexomer iodine,cadexomer,Dermal Ulcer,Rx/OTC,N,N,
+xarelto,xarelto,Deep Vein Thrombosis,Rx,C,N,
+eliquis,eliquis,Deep Vein Thrombosis,Rx,B,N,
+enoxaparin,enoxaparin,Deep Vein Thrombosis,Rx,B,N,
+rivaroxaban,rivaroxaban,Deep Vein Thrombosis,Rx,C,N,
+lovenox,lovenox,Deep Vein Thrombosis,Rx,B,N,
+apixaban,apixaban,Deep Vein Thrombosis,Rx,B,N,
+heparin,heparin,Deep Vein Thrombosis,Rx,C,N,
+pradaxa,pradaxa,Deep Vein Thrombosis,Rx,C,N,
+arixtra,arixtra,Deep Vein Thrombosis,Rx,B,N,
+dabigatran,dabigatran,Deep Vein Thrombosis,Rx,C,N,
+fondaparinux,fondaparinux,Deep Vein Thrombosis,Rx,B,N,
+edoxaban,edoxaban,Deep Vein Thrombosis,Rx,C,N,
+savaysa,savaysa,Deep Vein Thrombosis,Rx,C,N,
+urokinase,urokinase,Deep Vein Thrombosis,Rx,B,N,
+lvp solution,lvp,Dehydration,Rx,C,N,
+isolyte s,isolyte,Dehydration,Rx,C,N,
+normosol-r,normosol,Dehydration,Rx,C,N,
+plasma-lyte 148,plasma,Dehydration,Rx,C,N,
+isolyte s ph 7.4,isolyte,Dehydration,Rx,C,N,
+haloperidol,haloperidol,Dementia,Rx,C,N,X
+haldol,haldol,Dementia,Rx,C,N,X
+hydergine,hydergine,Dementia,Rx,N,N,
+haldol decanoate,haldol,Dementia,Rx,C,N,X
+ergoloid mesylates,ergoloid,Dementia,Rx,N,N,
+cymbalta,cymbalta,Depression,Rx,C,N,X
+bupropion,bupropion,Depression,Rx,C,N,X
+zoloft,zoloft,Depression,Rx,C,N,X
+lexapro,lexapro,Depression,Rx,C,N,X
+sertraline,sertraline,Depression,Rx,C,N,X
+citalopram,citalopram,Depression,Rx,C,N,X
+prozac,prozac,Depression,Rx,C,N,X
+fluoxetine,fluoxetine,Depression,Rx,C,N,X
+wellbutrin xl,wellbutrin,Depression,Rx,C,N,X
+celexa,celexa,Depression,Rx,C,N,X
+escitalopram,escitalopram,Depression,Rx,C,N,X
+venlafaxine,venlafaxine,Depression,Rx,C,N,X
+trintellix,trintellix,Depression,Rx,C,N,X
+abilify,abilify,Depression,Rx,C,N,X
+effexor xr,effexor,Depression,Rx,C,N,X
+duloxetine,duloxetine,Depression,Rx,C,N,X
+rexulti,rexulti,Depression,Rx,,N,X
+vortioxetine,vortioxetine,Depression,Rx,C,N,X
+brexpiprazole,brexpiprazole,Depression,Rx,,N,X
+trazodone,trazodone,Depression,Rx,C,N,X
+pristiq,pristiq,Depression,Rx,C,N,X
+mirtazapine,mirtazapine,Depression,Rx,C,N,X
+effexor,effexor,Depression,Rx,C,N,X
+paxil,paxil,Depression,Rx,D,N,X
+remeron,remeron,Depression,Rx,C,N,X
+wellbutrin sr,wellbutrin,Depression,Rx,C,N,X
+paroxetine,paroxetine,Depression,Rx,D,N,X
+viibryd,viibryd,Depression,Rx,C,N,X
+amitriptyline,amitriptyline,Depression,Rx,C,N,X
+zolam  off-label,zolam,Depression,Rx,D,4,X
+rigine  off-label,rigine,Depression,Rx,C,N,X
+seroquel xr,seroquel,Depression,Rx,C,N,X
+dol  off-label,dol,Depression,Rx,C,4,X
+aripiprazole,aripiprazole,Depression,Rx,C,N,X
+quetiapine,quetiapine,Depression,Rx,C,N,X
+deplin,deplin,Depression,Rx,N,N,
+nortriptyline,nortriptyline,Depression,Rx,N,N,X
+zyprexa,zyprexa,Depression,Rx,C,N,X
+desyrel,desyrel,Depression,Rx,C,N,X
+methylphenidate,methylphenidate,Depression,Rx,C,2,X
+budeprion sr,budeprion,Depression,Rx,C,N,X
+desvenlafaxine,desvenlafaxine,Depression,Rx,C,N,X
+desyrel dividose,desyrel,Depression,Rx,C,N,X
+fetzima,fetzima,Depression,Rx,C,N,X
+forfivo xl,forfivo,Depression,Rx,C,N,X
+um  off-label,um,Depression,Rx,D,N,X
+olanzapine,olanzapine,Depression,Rx,C,N,X
+ridone  off-label,ridone,Depression,Rx,C,N,X
+aplenzin,aplenzin,Depression,Rx,C,N,X
+desipramine,desipramine,Depression,Rx,N,N,X
+doxepin,doxepin,Depression,Rx,N,N,X
+irenka,irenka,Depression,Rx,C,N,X
+xamine  off-label,xamine,Depression,Rx,C,N,X
+imipramine,imipramine,Depression,Rx,N,N,X
+l-methylfolate,l,Depression,Rx,N,N,
+methylin er,methylin,Depression,Rx,C,2,X
+inil  off-label,inil,Depression,Rx,C,4,
+nefazodone,nefazodone,Depression,Rx,C,N,X
+n  off-label,n,Depression,Rx/OTC,C,N,X
+paxil cr,paxil,Depression,Rx,D,N,X
+remeron soltab,remeron,Depression,Rx,C,N,X
+abilify mycite,abilify,Depression,Rx,C,N,X
+amitriptyline / chlordiazepoxide,amitriptyline,Depression,Rx,N,4,X
+amoxapine,amoxapine,Depression,Rx,C,N,X
+anafranil,anafranil,Depression,Rx,C,N,X
+clomipramine,clomipramine,Depression,Rx,C,N,X
+emsam,emsam,Depression,Rx,C,N,X
+fluoxetine / olanzapine,fluoxetine,Depression,Rx,C,N,X
+nardil,nardil,Depression,Rx,C,N,X
+norpramin,norpramin,Depression,Rx,N,N,X
+pamelor,pamelor,Depression,Rx,N,N,X
+parnate,parnate,Depression,Rx,N,N,X
+pexeva,pexeva,Depression,Rx,D,N,X
+symbyax,symbyax,Depression,Rx,C,N,X
+vilazodone,vilazodone,Depression,Rx,C,N,X
+zyprexa zydis,zyprexa,Depression,Rx,C,N,X
+amitriptyline / perphenazine,amitriptyline,Depression,Rx,N,N,X
+afinil  off-label,afinil,Depression,Rx,C,4,
+xetine  off-label,xetine,Depression,Rx,C,N,
+aventyl hydrochloride,aventyl,Depression,Rx,N,N,X
+isocarboxazid,isocarboxazid,Depression,Rx,C,N,X
+ine  off-label,ine,Depression,Rx,N,3,X
+levomilnacipran,levomilnacipran,Depression,Rx,C,N,X
+xamfetamine  off-label,xamfetamine,Depression,Rx,C,2,X
+maprotiline,maprotiline,Depression,Rx,B,N,X
+marplan,marplan,Depression,Rx,C,N,X
+eridone  off-label,eridone,Depression,Rx,C,N,X
+phenelzine,phenelzine,Depression,Rx,C,N,X
+selegiline,selegiline,Depression,Rx,C,N,X
+tofranil,tofranil,Depression,Rx,N,N,X
+tranylcypromine,tranylcypromine,Depression,Rx,N,N,X
+trimipramine,trimipramine,Depression,Rx,C,N,X
+vivactil,vivactil,Depression,Rx,N,N,X
+xaquil xr,xaquil,Depression,Rx,N,N,
+esketamine,esketamine,Depression,Rx,,3,X
+l-methylfolate forte,l,Depression,Rx,N,N,
+protriptyline,protriptyline,Depression,Rx,N,N,X
+spravato,spravato,Depression,Rx,,3,X
+surmontil,surmontil,Depression,Rx,C,N,X
+id desiccated  off-label,id,Depression,Rx,A,N,
+metformin,metformin,Diabetes Mellitus Type Ii,Rx,B,N,X
+victoza,victoza,Diabetes Mellitus Type Ii,Rx,C,N,X
+farxiga,farxiga,Diabetes Mellitus Type Ii,Rx,C,N,X
+trulicity,trulicity,Diabetes Mellitus Type Ii,Rx,C,N,X
+liraglutide,liraglutide,Diabetes Mellitus Type Ii,Rx,C,N,X
+ozempic,ozempic,Diabetes Mellitus Type Ii,Rx,,N,X
+rybelsus,rybelsus,Diabetes Mellitus Type Ii,Rx,,N,X
+tresiba,tresiba,Diabetes Mellitus Type Ii,Rx,C,N,X
+dapagliflozin,dapagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+dulaglutide,dulaglutide,Diabetes Mellitus Type Ii,Rx,C,N,X
+soliqua,soliqua,Diabetes Mellitus Type Ii,Rx,,N,X
+insulin degludec,insulin,Diabetes Mellitus Type Ii,Rx,C,N,X
+insulin glargine / lixisenatide,insulin,Diabetes Mellitus Type Ii,Rx,,N,X
+januvia,januvia,Diabetes Mellitus Type Ii,Rx,B,N,X
+glipizide,glipizide,Diabetes Mellitus Type Ii,Rx,C,N,X
+glimepiride,glimepiride,Diabetes Mellitus Type Ii,Rx,C,N,X
+amaryl,amaryl,Diabetes Mellitus Type Ii,Rx,C,N,X
+invokana,invokana,Diabetes Mellitus Type Ii,Rx,C,N,X
+lantus,lantus,Diabetes Mellitus Type Ii,Rx,C,N,X
+actos,actos,Diabetes Mellitus Type Ii,Rx,C,N,X
+levemir,levemir,Diabetes Mellitus Type Ii,Rx,B,N,X
+glucotrol,glucotrol,Diabetes Mellitus Type Ii,Rx,C,N,X
+janumet,janumet,Diabetes Mellitus Type Ii,Rx,B,N,X
+jardiance,jardiance,Diabetes Mellitus Type Ii,Rx,C,N,X
+bydureon,bydureon,Diabetes Mellitus Type Ii,Rx,C,N,X
+byetta,byetta,Diabetes Mellitus Type Ii,Rx,C,N,X
+glumetza,glumetza,Diabetes Mellitus Type Ii,Rx,B,N,X
+lantus solostar,lantus,Diabetes Mellitus Type Ii,Rx,C,N,X
+pioglitazone,pioglitazone,Diabetes Mellitus Type Ii,Rx,C,N,X
+tradjenta,tradjenta,Diabetes Mellitus Type Ii,Rx,B,N,X
+humalog,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+novolog,novolog,Diabetes Mellitus Type Ii,Rx,B,N,X
+sitagliptin,sitagliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+glyburide,glyburide,Diabetes Mellitus Type Ii,Rx,C,N,X
+metformin / sitagliptin,metformin,Diabetes Mellitus Type Ii,Rx,B,N,X
+onglyza,onglyza,Diabetes Mellitus Type Ii,Rx,B,N,X
+prandin,prandin,Diabetes Mellitus Type Ii,Rx,C,N,X
+riomet,riomet,Diabetes Mellitus Type Ii,Rx,B,N,X
+glipizide xl,glipizide,Diabetes Mellitus Type Ii,Rx,C,N,X
+insulin glargine,insulin,Diabetes Mellitus Type Ii,Rx,C,N,X
+novolog flexpen,novolog,Diabetes Mellitus Type Ii,Rx,B,N,X
+avandia,avandia,Diabetes Mellitus Type Ii,Rx,C,N,X
+canagliflozin,canagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+ium picolinate  off-label,ium,Diabetes Mellitus Type Ii,OTC,N,N,
+exenatide,exenatide,Diabetes Mellitus Type Ii,Rx,C,N,X
+glimepiride / pioglitazone,glimepiride,Diabetes Mellitus Type Ii,Rx,C,N,X
+humulin r,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+repaglinide,repaglinide,Diabetes Mellitus Type Ii,Rx,C,N,X
+acarbose,acarbose,Diabetes Mellitus Type Ii,Rx,B,N,X
+basaglar,basaglar,Diabetes Mellitus Type Ii,Rx,C,N,X
+empagliflozin,empagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+glucotrol xl,glucotrol,Diabetes Mellitus Type Ii,Rx,C,N,X
+glyburide / metformin,glyburide,Diabetes Mellitus Type Ii,Rx,B,N,X
+humalog kwikpen,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+humulin n,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+insulin aspart,insulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+insulin lispro,insulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+kombiglyze xr,kombiglyze,Diabetes Mellitus Type Ii,Rx,B,N,X
+linagliptin,linagliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+saxagliptin,saxagliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+toujeo solostar,toujeo,Diabetes Mellitus Type Ii,Rx,C,N,X
+welchol,welchol,Diabetes Mellitus Type Ii,Rx,B,N,
+actoplus met,actoplus,Diabetes Mellitus Type Ii,Rx,C,N,X
+adlyxin,adlyxin,Diabetes Mellitus Type Ii,Rx,N,N,X
+admelog,admelog,Diabetes Mellitus Type Ii,Rx,B,N,X
+alogliptin,alogliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+apidra,apidra,Diabetes Mellitus Type Ii,Rx,C,N,X
+bromocriptine,bromocriptine,Diabetes Mellitus Type Ii,Rx,B,N,X
+colesevelam,colesevelam,Diabetes Mellitus Type Ii,Rx,B,N,
+cycloset,cycloset,Diabetes Mellitus Type Ii,Rx,B,N,X
+dapagliflozin / metformin,dapagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+diabeta,diabeta,Diabetes Mellitus Type Ii,Rx,C,N,X
+empagliflozin / metformin,empagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+glipizide / metformin,glipizide,Diabetes Mellitus Type Ii,Rx,C,N,X
+glucovance,glucovance,Diabetes Mellitus Type Ii,Rx,B,N,X
+glycron,glycron,Diabetes Mellitus Type Ii,Rx,C,N,X
+glynase,glynase,Diabetes Mellitus Type Ii,Rx,C,N,X
+glyset,glyset,Diabetes Mellitus Type Ii,Rx,B,N,X
+humulin 70 / 30,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+insulin detemir,insulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+insulin regular,insulin,Diabetes Mellitus Type Ii,Rx/OTC,B,N,X
+janumet xr,janumet,Diabetes Mellitus Type Ii,Rx,B,N,X
+jentadueto,jentadueto,Diabetes Mellitus Type Ii,Rx,B,N,X
+lixisenatide,lixisenatide,Diabetes Mellitus Type Ii,Rx,N,N,X
+metformin / pioglitazone,metformin,Diabetes Mellitus Type Ii,Rx,C,N,X
+metformin / saxagliptin,metformin,Diabetes Mellitus Type Ii,Rx,B,N,X
+miglitol,miglitol,Diabetes Mellitus Type Ii,Rx,B,N,X
+nesina,nesina,Diabetes Mellitus Type Ii,Rx,B,N,X
+novolin 70 / 30,novolin,Diabetes Mellitus Type Ii,OTC,B,N,X
+novolin n,novolin,Diabetes Mellitus Type Ii,OTC,B,N,X
+novolin r,novolin,Diabetes Mellitus Type Ii,OTC,B,N,X
+novolog mix 70 / 30,novolog,Diabetes Mellitus Type Ii,Rx,B,N,X
+pramlintide,pramlintide,Diabetes Mellitus Type Ii,Rx,C,N,X
+rosiglitazone,rosiglitazone,Diabetes Mellitus Type Ii,Rx,C,N,X
+semaglutide,semaglutide,Diabetes Mellitus Type Ii,Rx,,N,X
+toujeo max solostar,toujeo,Diabetes Mellitus Type Ii,Rx,C,N,X
+xigduo xr,xigduo,Diabetes Mellitus Type Ii,Rx,C,N,X
+xultophy,xultophy,Diabetes Mellitus Type Ii,Rx,,N,X
+afrezza,afrezza,Diabetes Mellitus Type Ii,Rx,C,N,X
+albiglutide,albiglutide,Diabetes Mellitus Type Ii,Rx,C,N,X
+alogliptin / metformin,alogliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+alogliptin / pioglitazone,alogliptin,Diabetes Mellitus Type Ii,Rx,C,N,X
+bydureon bcise,bydureon,Diabetes Mellitus Type Ii,Rx,C,N,X
+canagliflozin / metformin,canagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+f  off-label,f,Diabetes Mellitus Type Ii,OTC,N,N,
+off-label,off,Diabetes Mellitus Type Ii,OTC,N,N,
+dapagliflozin / saxagliptin,dapagliflozin,Diabetes Mellitus Type Ii,Rx,,N,X
+duetact,duetact,Diabetes Mellitus Type Ii,Rx,C,N,X
+empagliflozin / linagliptin / metformin,empagliflozin,Diabetes Mellitus Type Ii,Rx,,N,X
+empagliflozin / linagliptin,empagliflozin,Diabetes Mellitus Type Ii,Rx,C,N,X
+ertugliflozin / metformin,ertugliflozin,Diabetes Mellitus Type Ii,Rx,,N,X
+ertugliflozin / sitagliptin,ertugliflozin,Diabetes Mellitus Type Ii,Rx,,N,X
+ertugliflozin,ertugliflozin,Diabetes Mellitus Type Ii,Rx,,N,X
+fiasp,fiasp,Diabetes Mellitus Type Ii,Rx,B,N,X
+glynase prestab,glynase,Diabetes Mellitus Type Ii,Rx,C,N,X
+glyxambi,glyxambi,Diabetes Mellitus Type Ii,Rx,C,N,X
+humalog mix 50 / 50,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+humalog mix 50 / 50 kwikpen,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+humalog mix 75 / 25,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+humalog mix 75 / 25 kwikpen,humalog,Diabetes Mellitus Type Ii,Rx,B,N,X
+humulin 50 / 50,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+humulin 70 / 30 pen,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+humulin n pen,humulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+humulin r u-500 (concentrated),humulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+humulin r u-500 kwikpen,humulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+insulin aspart / insulin aspart protamine,insulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+insulin degludec / liraglutide,insulin,Diabetes Mellitus Type Ii,Rx,,N,X
+insulin glulisine,insulin,Diabetes Mellitus Type Ii,Rx,C,N,X
+"insulin inhalation, rapid acting",insulin,Diabetes Mellitus Type Ii,Rx,C,N,X
+insulin isophane / insulin regular,insulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+insulin isophane,insulin,Diabetes Mellitus Type Ii,OTC,B,N,X
+insulin lispro / insulin lispro protamine,insulin,Diabetes Mellitus Type Ii,Rx,B,N,X
+invokamet,invokamet,Diabetes Mellitus Type Ii,Rx,C,N,X
+invokamet xr,invokamet,Diabetes Mellitus Type Ii,Rx,C,N,X
+jentadueto xr,jentadueto,Diabetes Mellitus Type Ii,Rx,B,N,X
+kazano,kazano,Diabetes Mellitus Type Ii,Rx,B,N,X
+linagliptin / metformin,linagliptin,Diabetes Mellitus Type Ii,Rx,B,N,X
+lyumjev,lyumjev,Diabetes Mellitus Type Ii,Rx,B,N,X
+myxredlin,myxredlin,Diabetes Mellitus Type Ii,Rx,B,N,X
+nateglinide,nateglinide,Diabetes Mellitus Type Ii,Rx,C,N,X
+novolog mix 70 / 30 flexpen,novolog,Diabetes Mellitus Type Ii,Rx,B,N,X
+novolog penfill,novolog,Diabetes Mellitus Type Ii,Rx,B,N,X
+oseni,oseni,Diabetes Mellitus Type Ii,Rx,C,N,X
+qtern,qtern,Diabetes Mellitus Type Ii,Rx,,N,X
+relion / novolin 70 / 30,relion,Diabetes Mellitus Type Ii,OTC,B,N,X
+rezvoglar,rezvoglar,Diabetes Mellitus Type Ii,Rx,C,N,X
+segluromet,segluromet,Diabetes Mellitus Type Ii,Rx,,N,X
+semglee,semglee,Diabetes Mellitus Type Ii,Rx,C,N,X
+starlix,starlix,Diabetes Mellitus Type Ii,Rx,C,N,X
+steglatro,steglatro,Diabetes Mellitus Type Ii,Rx,,N,X
+steglujan,steglujan,Diabetes Mellitus Type Ii,Rx,,N,X
+symlin,symlin,Diabetes Mellitus Type Ii,Rx,C,N,X
+symlin pen,symlin,Diabetes Mellitus Type Ii,Rx,C,N,X
+symlinpen 60,symlinpen,Diabetes Mellitus Type Ii,Rx,C,N,X
+symlinpen 120,symlinpen,Diabetes Mellitus Type Ii,Rx,C,N,X
+synjardy,synjardy,Diabetes Mellitus Type Ii,Rx,C,N,X
+synjardy xr,synjardy,Diabetes Mellitus Type Ii,Rx,C,N,X
+tanzeum,tanzeum,Diabetes Mellitus Type Ii,Rx,C,N,X
+trijardy xr,trijardy,Diabetes Mellitus Type Ii,Rx,,N,X
+humalog,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+lantus,lantus,Diabetes Mellitus Type I,Rx,C,N,X
+novolog,novolog,Diabetes Mellitus Type I,Rx,B,N,X
+tresiba,tresiba,Diabetes Mellitus Type I,Rx,C,N,X
+lantus solostar,lantus,Diabetes Mellitus Type I,Rx,C,N,X
+levemir,levemir,Diabetes Mellitus Type I,Rx,B,N,X
+insulin degludec,insulin,Diabetes Mellitus Type I,Rx,C,N,X
+humalog kwikpen,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+novolog flexpen,novolog,Diabetes Mellitus Type I,Rx,B,N,X
+apidra,apidra,Diabetes Mellitus Type I,Rx,C,N,X
+insulin glargine,insulin,Diabetes Mellitus Type I,Rx,C,N,X
+insulin lispro,insulin,Diabetes Mellitus Type I,Rx,B,N,X
+basaglar,basaglar,Diabetes Mellitus Type I,Rx,C,N,X
+humulin r,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+insulin aspart,insulin,Diabetes Mellitus Type I,Rx,B,N,X
+toujeo solostar,toujeo,Diabetes Mellitus Type I,Rx,C,N,X
+humulin n,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+insulin regular,insulin,Diabetes Mellitus Type I,Rx/OTC,B,N,X
+novolin r,novolin,Diabetes Mellitus Type I,OTC,B,N,X
+symlin,symlin,Diabetes Mellitus Type I,Rx,C,N,X
+afrezza,afrezza,Diabetes Mellitus Type I,Rx,C,N,X
+novolin n,novolin,Diabetes Mellitus Type I,OTC,B,N,X
+humulin 70 / 30,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+novolin 70 / 30,novolin,Diabetes Mellitus Type I,OTC,B,N,X
+humalog mix 75 / 25,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+fiasp,fiasp,Diabetes Mellitus Type I,Rx,B,N,X
+humulin r u-500 (concentrated),humulin,Diabetes Mellitus Type I,Rx,B,N,X
+insulin glulisine,insulin,Diabetes Mellitus Type I,Rx,C,N,X
+novolog mix 70 / 30,novolog,Diabetes Mellitus Type I,Rx,B,N,X
+otide  off-label,otide,Diabetes Mellitus Type I,Rx,B,N,
+rezvoglar,rezvoglar,Diabetes Mellitus Type I,Rx,C,N,X
+semglee,semglee,Diabetes Mellitus Type I,Rx,C,N,X
+toujeo max solostar,toujeo,Diabetes Mellitus Type I,Rx,C,N,X
+admelog,admelog,Diabetes Mellitus Type I,Rx,B,N,X
+humulin r u-500 kwikpen,humulin,Diabetes Mellitus Type I,Rx,B,N,X
+insulin detemir,insulin,Diabetes Mellitus Type I,Rx,B,N,X
+myxredlin,myxredlin,Diabetes Mellitus Type I,Rx,B,N,X
+novolog penfill,novolog,Diabetes Mellitus Type I,Rx,B,N,X
+pramlintide,pramlintide,Diabetes Mellitus Type I,Rx,C,N,X
+"insulin inhalation, rapid acting",insulin,Diabetes Mellitus Type I,Rx,C,N,X
+insulin isophane / insulin regular,insulin,Diabetes Mellitus Type I,OTC,B,N,X
+insulin isophane,insulin,Diabetes Mellitus Type I,OTC,B,N,X
+lyumjev,lyumjev,Diabetes Mellitus Type I,Rx,B,N,X
+novolog mix 70 / 30 flexpen,novolog,Diabetes Mellitus Type I,Rx,B,N,X
+humulin n pen,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+insulin aspart / insulin aspart protamine,insulin,Diabetes Mellitus Type I,Rx,B,N,X
+insulin lispro / insulin lispro protamine,insulin,Diabetes Mellitus Type I,Rx,B,N,X
+humalog mix 50 / 50,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+humalog mix 50 / 50 kwikpen,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+humalog mix 75 / 25 kwikpen,humalog,Diabetes Mellitus Type I,Rx,B,N,X
+humulin 50 / 50,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+humulin 70 / 30 pen,humulin,Diabetes Mellitus Type I,OTC,B,N,X
+relion / novolin 70 / 30,relion,Diabetes Mellitus Type I,OTC,B,N,X
+symlin pen,symlin,Diabetes Mellitus Type I,Rx,C,N,X
+symlinpen 60,symlinpen,Diabetes Mellitus Type I,Rx,C,N,X
+symlinpen 120,symlinpen,Diabetes Mellitus Type I,Rx,C,N,X
+livalo,livalo,Dyslipidemia,Rx,X,N,X
+pitavastatin,pitavastatin,Dyslipidemia,Rx,X,N,X
+fluvastatin,fluvastatin,Dyslipidemia,Rx,X,N,X
+zypitamag,zypitamag,Dyslipidemia,Rx,X,N,X
+naproxen,naproxen,Dysmenorrhea,Rx/OTC,C,N,X
+ibuprofen,ibuprofen,Dysmenorrhea,Rx/OTC,C,N,X
+mefenamic acid,mefenamic,Dysmenorrhea,Rx,C,N,X
+aleve,aleve,Dysmenorrhea,Rx/OTC,C,N,X
+diclofenac,diclofenac,Dysmenorrhea,Rx,D,N,X
+advil,advil,Dysmenorrhea,Rx/OTC,C,N,X
+cataflam,cataflam,Dysmenorrhea,Rx,D,N,X
+motrin,motrin,Dysmenorrhea,Rx/OTC,C,N,X
+naprosyn,naprosyn,Dysmenorrhea,Rx/OTC,C,N,X
+celebrex,celebrex,Dysmenorrhea,Rx,C,N,
+voltaren,voltaren,Dysmenorrhea,Rx,D,N,X
+ketoprofen,ketoprofen,Dysmenorrhea,Rx/OTC,C,N,X
+midol extended relief,midol,Dysmenorrhea,Rx/OTC,C,N,X
+advil liqui-gels,advil,Dysmenorrhea,Rx/OTC,C,N,X
+anaprox,anaprox,Dysmenorrhea,Rx/OTC,C,N,X
+celecoxib,celecoxib,Dysmenorrhea,Rx,C,N,
+anaprox-ds,anaprox,Dysmenorrhea,Rx/OTC,C,N,X
+midol ib,midol,Dysmenorrhea,Rx/OTC,C,N,X
+motrin ib,motrin,Dysmenorrhea,Rx/OTC,C,N,X
+naprelan,naprelan,Dysmenorrhea,Rx/OTC,C,N,X
+proprinal,proprinal,Dysmenorrhea,Rx/OTC,C,N,X
+actiprofen,actiprofen,Dysmenorrhea,Rx/OTC,C,N,X
+ibu-200,ibu,Dysmenorrhea,Rx/OTC,C,N,X
+nuprin,nuprin,Dysmenorrhea,Rx/OTC,C,N,X
+a-g profen,a,Dysmenorrhea,Rx/OTC,C,N,X
+addaprin,addaprin,Dysmenorrhea,Rx/OTC,C,N,X
+advil children's,advil,Dysmenorrhea,Rx/OTC,C,N,X
+genpril,genpril,Dysmenorrhea,Rx/OTC,C,N,X
+flanax pain reliever,flanax,Dysmenorrhea,Rx/OTC,C,N,X
+aflaxen,aflaxen,Dysmenorrhea,Rx/OTC,C,N,X
+all day pain relief,all,Dysmenorrhea,Rx/OTC,C,N,X
+all day relief,all,Dysmenorrhea,Rx/OTC,C,N,X
+ec-naprosyn,ec,Dysmenorrhea,Rx/OTC,C,N,X
+lofena,lofena,Dysmenorrhea,Rx,D,N,X
+meclofenamate,meclofenamate,Dysmenorrhea,Rx,N,N,X
+flurbiprofen,flurbiprofen,Dysmenorrhea,Rx,C,N,X
+pamprin cramp menstrual pain relief,pamprin,Dysmenorrhea,OTC,N,N,X
+acetaminophen / caffeine,acetaminophen,Dysmenorrhea,OTC,N,N,X
+excedrin tension headache,excedrin,Dysmenorrhea,OTC,N,N,X
+trolamine salicylate,trolamine,Dysmenorrhea,OTC,N,N,
+acetaminophen / magnesium salicylate / pamabrom,acetaminophen,Dysmenorrhea,OTC,N,N,X
+arthricream,arthricream,Dysmenorrhea,OTC,N,N,
+asper-flex,asper,Dysmenorrhea,OTC,N,N,
+excedrin quick tab,excedrin,Dysmenorrhea,OTC,N,N,X
+myoflex,myoflex,Dysmenorrhea,OTC,N,N,
+phenazopyridine,phenazopyridine,Dysuria,Rx/OTC,B,N,
+pyridium,pyridium,Dysuria,Rx/OTC,B,N,
+oxybutynin,oxybutynin,Dysuria,Rx/OTC,B,N,X
+azo urinary pain relief,azo,Dysuria,Rx/OTC,B,N,
+uristat,uristat,Dysuria,Rx/OTC,B,N,
+azo-standard,azo,Dysuria,Rx/OTC,B,N,
+ditropan xl,ditropan,Dysuria,Rx,B,N,X
+flavoxate,flavoxate,Dysuria,Rx,B,N,X
+uricalm,uricalm,Dysuria,Rx/OTC,B,N,
+oxytrol,oxytrol,Dysuria,Rx,B,N,X
+gelnique,gelnique,Dysuria,Rx,B,N,X
+azo-gesic,azo,Dysuria,Rx/OTC,B,N,
+baridium,baridium,Dysuria,Rx/OTC,B,N,
+prodium,prodium,Dysuria,Rx/OTC,B,N,
+azo-septic,azo,Dysuria,Rx/OTC,B,N,
+re-azo,re,Dysuria,Rx/OTC,B,N,
+furosemide,furosemide,Edema,Rx,C,N,X
+lasix,lasix,Edema,Rx,C,N,X
+hydrochlorothiazide,hydrochlorothiazide,Edema,Rx,B,N,X
+spironolactone,spironolactone,Edema,Rx,C,N,X
+aldactone,aldactone,Edema,Rx,C,N,X
+aldactazide,aldactazide,Edema,Rx,C,N,X
+bumetanide,bumetanide,Edema,Rx,C,N,X
+bumex,bumex,Edema,Rx,C,N,X
+metolazone,metolazone,Edema,Rx,B,N,X
+torsemide,torsemide,Edema,Rx,B,N,X
+demadex,demadex,Edema,Rx,B,N,X
+hydrochlorothiazide / triamterene,hydrochlorothiazide,Edema,Rx,C,N,X
+maxzide,maxzide,Edema,Rx,C,N,X
+pamabrom,pamabrom,Edema,OTC,N,N,
+triamterene,triamterene,Edema,Rx,C,N,X
+esidrix,esidrix,Edema,Rx,B,N,X
+hydrochlorothiazide / spironolactone,hydrochlorothiazide,Edema,Rx,C,N,X
+microzide,microzide,Edema,Rx,B,N,X
+zaroxolyn,zaroxolyn,Edema,Rx,B,N,X
+aquazide h,aquazide,Edema,Rx,B,N,X
+chlorthalidone,chlorthalidone,Edema,Rx,B,N,X
+diamox,diamox,Edema,Rx,C,N,
+dyazide,dyazide,Edema,Rx,C,N,X
+acetazolamide,acetazolamide,Edema,Rx,C,N,
+carospir,carospir,Edema,Rx,C,N,X
+diurex water capsules,diurex,Edema,OTC,N,N,
+dyrenium,dyrenium,Edema,Rx,C,N,X
+indapamide,indapamide,Edema,Rx,B,N,X
+amiloride,amiloride,Edema,Rx,B,N,X
+aqua-ban,aqua,Edema,OTC,N,N,
+bendroflumethiazide,bendroflumethiazide,Edema,Rx,C,N,X
+chlorothiazide,chlorothiazide,Edema,Rx,C,N,X
+diamox sequels,diamox,Edema,Rx,C,N,
+diuril,diuril,Edema,Rx,C,N,X
+edecrin,edecrin,Edema,Rx,B,N,X
+midamor,midamor,Edema,Rx,B,N,X
+soaanz,soaanz,Edema,Rx,B,N,X
+diurex aquagels,diurex,Edema,OTC,N,N,
+diuril sodium,diuril,Edema,Rx,C,N,X
+ethacrynic acid,ethacrynic,Edema,Rx,B,N,X
+maxzide-25,maxzide,Edema,Rx,C,N,X
+naturetin,naturetin,Edema,Rx,C,N,X
+sodium edecrin,sodium,Edema,Rx,B,N,X
+imipramine,imipramine,Enuresis,Rx,N,N,X
+tofranil,tofranil,Enuresis,Rx,N,N,X
+belladonna tincture,belladonna,Enuresis,Rx,C,N,X
+belladonna,belladonna,Enuresis,Rx,C,N,X
+keppra,keppra,Epilepsy,Rx,C,N,X
+levetiracetam,levetiracetam,Epilepsy,Rx,C,N,X
+carbamazepine,carbamazepine,Epilepsy,Rx,D,N,X
+lamotrigine,lamotrigine,Epilepsy,Rx,C,N,X
+gabapentin,gabapentin,Epilepsy,Rx,C,N,X
+depakote,depakote,Epilepsy,Rx,D,N,X
+topiramate,topiramate,Epilepsy,Rx,D,N,X
+dilantin,dilantin,Epilepsy,Rx,D,N,X
+clobazam,clobazam,Epilepsy,Rx,C,4,X
+fycompa,fycompa,Epilepsy,Rx,C,3,X
+tegretol,tegretol,Epilepsy,Rx,D,N,X
+sabril,sabril,Epilepsy,Rx,C,N,X
+aptiom,aptiom,Epilepsy,Rx,C,N,X
+briviact,briviact,Epilepsy,Rx,C,5,X
+trokendi xr,trokendi,Epilepsy,Rx,D,N,X
+oxtellar xr,oxtellar,Epilepsy,Rx,C,N,X
+vigabatrin,vigabatrin,Epilepsy,Rx,C,N,X
+divalproex sodium,divalproex,Epilepsy,Rx,D,N,X
+neurontin,neurontin,Epilepsy,Rx,C,N,X
+lamictal,lamictal,Epilepsy,Rx,C,N,X
+carbatrol,carbatrol,Epilepsy,Rx,D,N,X
+depakote er,depakote,Epilepsy,Rx,D,N,X
+phenytoin,phenytoin,Epilepsy,Rx,D,N,X
+lyrica,lyrica,Epilepsy,Rx,C,5,X
+keppra xr,keppra,Epilepsy,Rx,C,N,X
+tegretol xr,tegretol,Epilepsy,Rx,D,N,X
+clonazepam,clonazepam,Epilepsy,Rx,D,4,X
+felbatol,felbatol,Epilepsy,Rx,C,N,X
+trileptal,trileptal,Epilepsy,Rx,C,N,X
+valproic acid,valproic,Epilepsy,Rx,D,N,X
+oxcarbazepine,oxcarbazepine,Epilepsy,Rx,C,N,X
+diamox,diamox,Epilepsy,Rx,C,N,
+vimpat,vimpat,Epilepsy,Rx,C,5,X
+epitol,epitol,Epilepsy,Rx,D,N,X
+phenytoin sodium,phenytoin,Epilepsy,Rx,D,N,X
+topamax,topamax,Epilepsy,Rx,D,N,X
+pregabalin,pregabalin,Epilepsy,Rx,C,5,X
+depakote sprinkles,depakote,Epilepsy,Rx,D,N,X
+fanatrex,fanatrex,Epilepsy,Rx,C,N,X
+cerebyx,cerebyx,Epilepsy,Rx,D,N,X
+lamictal xr,lamictal,Epilepsy,Rx,C,N,X
+acetazolamide,acetazolamide,Epilepsy,Rx,C,N,
+felbamate,felbamate,Epilepsy,Rx,C,N,X
+klonopin,klonopin,Epilepsy,Rx,D,4,X
+valproate sodium,valproate,Epilepsy,Rx,D,N,X
+diamox sequels,diamox,Epilepsy,Rx,C,N,
+lamictal cd,lamictal,Epilepsy,Rx,C,N,X
+perampanel,perampanel,Epilepsy,Rx,C,3,X
+phenytek,phenytek,Epilepsy,Rx,D,N,X
+primidone,primidone,Epilepsy,Rx,N,N,X
+qudexy xr,qudexy,Epilepsy,Rx,D,N,X
+brivaracetam,brivaracetam,Epilepsy,Rx,C,5,X
+elepsia xr,elepsia,Epilepsy,Rx,C,N,X
+eprontia,eprontia,Epilepsy,Rx,D,N,X
+fosphenytoin,fosphenytoin,Epilepsy,Rx,D,N,X
+lacosamide,lacosamide,Epilepsy,Rx,C,5,X
+lamictal odt,lamictal,Epilepsy,Rx,C,N,X
+mysoline,mysoline,Epilepsy,Rx,N,N,X
+roweepra,roweepra,Epilepsy,Rx,C,N,X
+roweepra xr,roweepra,Epilepsy,Rx,C,N,X
+spritam,spritam,Epilepsy,Rx,C,N,X
+eslicarbazepine,eslicarbazepine,Epilepsy,Rx,C,N,X
+gabitril,gabitril,Epilepsy,Rx,C,N,X
+tiagabine,tiagabine,Epilepsy,Rx,C,N,X
+vigadrone,vigadrone,Epilepsy,Rx,C,N,X
+omeprazole,omeprazole,Erosive Esophagitis,Rx/OTC,C,N,
+pantoprazole,pantoprazole,Erosive Esophagitis,Rx,B,N,
+nexium,nexium,Erosive Esophagitis,Rx,C,N,
+protonix,protonix,Erosive Esophagitis,Rx,B,N,
+dexilant,dexilant,Erosive Esophagitis,Rx,B,N,
+prilosec,prilosec,Erosive Esophagitis,Rx,C,N,
+famotidine,famotidine,Erosive Esophagitis,Rx/OTC,B,N,
+prevacid,prevacid,Erosive Esophagitis,Rx,B,N,
+esomeprazole,esomeprazole,Erosive Esophagitis,Rx/OTC,C,N,
+lansoprazole,lansoprazole,Erosive Esophagitis,Rx/OTC,B,N,
+aciphex,aciphex,Erosive Esophagitis,Rx,B,N,
+pepcid,pepcid,Erosive Esophagitis,Rx,B,N,
+omeprazole / sodium bicarbonate,omeprazole,Erosive Esophagitis,Rx/OTC,C,N,
+zegerid,zegerid,Erosive Esophagitis,Rx,C,N,
+dexlansoprazole,dexlansoprazole,Erosive Esophagitis,Rx,B,N,
+pepcid ac,pepcid,Erosive Esophagitis,OTC,B,N,
+rabeprazole,rabeprazole,Erosive Esophagitis,Rx,B,N,
+protonix iv,protonix,Erosive Esophagitis,Rx,B,N,
+acid controller maximum strength,acid,Erosive Esophagitis,OTC,B,N,
+acid controller original strength,acid,Erosive Esophagitis,OTC,B,N,
+calcium carbonate,calcium,Erosive Esophagitis,OTC,N,N,
+heartburn relief,heartburn,Erosive Esophagitis,OTC,B,N,
+pepcid ac chewable tablets,pepcid,Erosive Esophagitis,OTC,B,N,
+pepcid oral suspension,pepcid,Erosive Esophagitis,Rx,B,N,
+tums regular strength,tums,Erosive Esophagitis,OTC,N,N,
+cimetidine,cimetidine,Erosive Esophagitis,Rx/OTC,B,N,X
+nexium iv,nexium,Erosive Esophagitis,Rx,C,N,
+prevacid solutab,prevacid,Erosive Esophagitis,Rx,B,N,
+aluminum hydroxide,aluminum,Erosive Esophagitis,Rx/OTC,N,N,
+amphojel,amphojel,Erosive Esophagitis,Rx/OTC,N,N,
+calci-chew,calci,Erosive Esophagitis,OTC,N,N,
+nizatidine,nizatidine,Erosive Esophagitis,Rx/OTC,B,N,
+prevacid otc,prevacid,Erosive Esophagitis,OTC,B,N,
+tagamet hb,tagamet,Erosive Esophagitis,Rx/OTC,B,N,X
+titralac,titralac,Erosive Esophagitis,OTC,N,N,
+tums smoothies,tums,Erosive Esophagitis,OTC,N,N,
+alamag,alamag,Erosive Esophagitis,OTC,N,N,
+aluminum hydroxide / magnesium hydroxide,aluminum,Erosive Esophagitis,OTC,N,N,
+equaline acid reducer,equaline,Erosive Esophagitis,Rx/OTC,B,N,X
+triamcinolone,triamcinolone,Dermatitis,Rx,C,N,
+clobetasol,clobetasol,Dermatitis,Rx,C,N,
+triamcinolone,triamcinolone,Dermatitis,Rx,C,N,
+betamethasone,betamethasone,Dermatitis,Rx,C,N,
+fluocinonide,fluocinonide,Dermatitis,Rx,C,N,
+hydrocortisone,hydrocortisone,Dermatitis,Rx/OTC,C,N,
+desonide,desonide,Dermatitis,Rx,C,N,
+mometasone,mometasone,Dermatitis,Rx,C,N,
+fluocinolone,fluocinolone,Dermatitis,Rx/OTC,C,N,
+kenalog,kenalog,Dermatitis,Rx,C,N,
+prednisolone,prednisolone,Dermatitis,Rx,C,N,
+clobex,clobex,Dermatitis,Rx,C,N,
+elocon,elocon,Dermatitis,Rx,C,N,
+desoximetasone,desoximetasone,Dermatitis,Rx,C,N,
+diprolene,diprolene,Dermatitis,Rx,C,N,
+fluticasone,fluticasone,Dermatitis,Rx,C,N,
+kenalog-40,kenalog,Dermatitis,Rx,C,N,
+beser,beser,Dermatitis,Rx,C,N,
+betnovate,betnovate,Dermatitis,Rx,C,N,
+cortizone-10,cortizone,Dermatitis,OTC,C,N,
+cutivate,cutivate,Dermatitis,Rx,C,N,
+fluocinonide-e,fluocinonide,Dermatitis,Rx,C,N,
+locoid lipocream,locoid,Dermatitis,Rx,C,N,
+topicort,topicort,Dermatitis,Rx,C,N,
+ala-cort,ala,Dermatitis,Rx,C,N,
+ala-scalp,ala,Dermatitis,Rx,C,N,
+ala-scalp hp,ala,Dermatitis,Rx,C,N,
+aquanil hc,aquanil,Dermatitis,OTC,C,N,
+aquax-h,aquax,Dermatitis,Rx,C,N,
+aristocort a,aristocort,Dermatitis,Rx,C,N,
+aristocort r,aristocort,Dermatitis,Rx,C,N,
+beta hc,beta,Dermatitis,OTC,C,N,
+bioelements immediate comfort,bioelements,Dermatitis,Rx,C,N,
+caldecort,caldecort,Dermatitis,OTC,C,N,
+cinolar,cinolar,Dermatitis,Rx,C,N,
+cortizone-5,cortizone,Dermatitis,OTC,C,N,
+dermarest plus anti-itch,dermarest,Dermatitis,OTC,C,N,
+dermasorb ta,dermasorb,Dermatitis,Rx,C,N,
+dermtex hc,dermtex,Dermatitis,OTC,C,N,
+halobetasol,halobetasol,Dermatitis,Rx,C,N,
+itch-x lotion,itch,Dermatitis,Rx,C,N,
+juulissa pharmapak,juulissa,Dermatitis,Rx,C,N,
+locoid,locoid,Dermatitis,Rx,C,N,
+millipred,millipred,Dermatitis,Rx,C,N,
+millipred dp,millipred,Dermatitis,Rx,C,N,
+nucort,nucort,Dermatitis,Rx,C,N,
+orapred odt,orapred,Dermatitis,Rx,C,N,
+pandel,pandel,Dermatitis,Rx,C,N,
+pediapred,pediapred,Dermatitis,Rx,C,N,
+sarnol-hc,sarnol,Dermatitis,OTC,C,N,
+texacort,texacort,Dermatitis,Rx,C,N,
+trianex,trianex,Dermatitis,Rx,C,N,
+triderm,triderm,Dermatitis,Rx,C,N,
+tritocin,tritocin,Dermatitis,Rx,C,N,
+u-cort,u,Dermatitis,OTC,C,N,
+alclometasone,alclometasone,Dermatitis,Rx,C,N,
+beta-val,beta,Dermatitis,Rx,C,N,
+cloderm,cloderm,Dermatitis,Rx,C,N,
+dermovate,dermovate,Dermatitis,Rx,C,N,
+doxepin,doxepin,Dermatitis,Rx,B,N,X
+luxiq,luxiq,Dermatitis,Rx,C,N,
+prudoxin,prudoxin,Dermatitis,Rx,B,N,X
+sarna,sarna,Dermatitis,OTC,N,N,
+synalar,synalar,Dermatitis,Rx/OTC,C,N,
+temovate,temovate,Dermatitis,Rx,C,N,
+zonalon,zonalon,Dermatitis,Rx,B,N,X
+alcortin a,alcortin,Dermatitis,Rx,C,N,
+analpram-hc,analpram,Dermatitis,Rx,C,N,
+camphor / menthol,camphor,Dermatitis,OTC,N,N,
+clobevate,clobevate,Dermatitis,Rx,C,N,
+clodan,clodan,Dermatitis,Rx,C,N,
+cordran,cordran,Dermatitis,Rx,C,N,
+cordran tape,cordran,Dermatitis,Rx,C,N,
+cormax,cormax,Dermatitis,Rx,C,N,
+cormax scalp,cormax,Dermatitis,Rx,C,N,
+derma-smoothe / fs (scalp),derma,Dermatitis,Rx/OTC,C,N,
+desonate,desonate,Dermatitis,Rx,C,N,
+desowen,desowen,Dermatitis,Rx,C,N,
+diprolene af,diprolene,Dermatitis,Rx,C,N,
+embeline,embeline,Dermatitis,Rx,C,N,
+embeline e,embeline,Dermatitis,Rx,C,N,
+halog,halog,Dermatitis,Rx,C,N,
+hydrocortisone / pramoxine,hydrocortisone,Dermatitis,Rx,C,N,
+impeklo,impeklo,Dermatitis,Rx,C,N,
+men-phor,men,Dermatitis,OTC,N,N,
+neutrogena t / gel,neutrogena,Dermatitis,Rx/OTC,C,N,
+olux,olux,Dermatitis,Rx,C,N,
+olux-e,olux,Dermatitis,Rx,C,N,
+tovet,tovet,Dermatitis,Rx,C,N,
+ultravate,ultravate,Dermatitis,Rx,C,N,
+vanos,vanos,Dermatitis,Rx,C,N,
+verdeso,verdeso,Dermatitis,Rx,C,N,
+ala-quin,ala,Dermatitis,Rx,C,N,
+aloe vera / hydrocortisone / iodoquinol,aloe,Dermatitis,Rx,C,N,
+amcinonide,amcinonide,Dermatitis,Rx,C,N,
+ammonium lactate / urea,ammonium,Dermatitis,Rx/OTC,C,N,
+analpram e,analpram,Dermatitis,Rx,C,N,
+bacitracin / hydrocortisone / neomycin / polymyxin b,bacitracin,Dermatitis,Rx,C,N,
+balnetar,balnetar,Dermatitis,Rx/OTC,C,N,
+benzyl alcohol / zinc acetate,benzyl,Dermatitis,OTC,N,N,
+betatar gel,betatar,Dermatitis,Rx/OTC,C,N,
+capex,capex,Dermatitis,Rx/OTC,C,N,
+carb-o-lac5,carb,Dermatitis,Rx/OTC,C,N,
+carb-o-lac hp,carb,Dermatitis,Rx/OTC,C,N,
+clioquinol / hydrocortisone,clioquinol,Dermatitis,Rx,C,N,
+clocortolone,clocortolone,Dermatitis,Rx,C,N,
+coal tar,coal,Dermatitis,Rx/OTC,C,N,
+cordran sp,cordran,Dermatitis,Rx,C,N,
+corti-sav,corti,Dermatitis,Rx,C,N,
+cortisporin cream,cortisporin,Dermatitis,Rx,C,N,
+cortisporin ointment,cortisporin,Dermatitis,Rx,C,N,
+cutar,cutar,Dermatitis,Rx/OTC,C,N,
+cyclocort,cyclocort,Dermatitis,Rx,C,N,
+denorex therapeutic protection,denorex,Dermatitis,Rx/OTC,C,N,
+derma-smoothe / fs,derma,Dermatitis,Rx/OTC,C,N,
+dermazene,dermazene,Dermatitis,Rx,C,N,
+desrx,desrx,Dermatitis,Rx,C,N,
+dhs tar shampoo,dhs,Dermatitis,Rx/OTC,C,N,
+doak tar,doak,Dermatitis,Rx/OTC,C,N,
+elta tar,elta,Dermatitis,Rx/OTC,C,N,
+epifoam,epifoam,Dermatitis,Rx,C,N,
+estar,estar,Dermatitis,Rx/OTC,C,N,
+fast freeze,fast,Dermatitis,OTC,N,N,
+fluocinolone / neomycin,fluocinolone,Dermatitis,Rx,N,N,
+flurandrenolide,flurandrenolide,Dermatitis,Rx,C,N,
+fototar,fototar,Dermatitis,Rx/OTC,C,N,
+freeze it,freeze,Dermatitis,OTC,N,N,
+halcinonide,halcinonide,Dermatitis,Rx,C,N,
+halonate,halonate,Dermatitis,Rx,C,N,
+hc pram,hc,Dermatitis,Rx,C,N,
+hydrocortisone / iodoquinol,hydrocortisone,Dermatitis,Rx,C,N,
+hydrocortisone / neomycin / polymyxin b,hydrocortisone,Dermatitis,Rx,C,N,
+hylira,hylira,Dermatitis,Rx,N,N,
+ionil t,ionil,Dermatitis,Rx/OTC,C,N,
+ivy-dry cream,ivy,Dermatitis,OTC,N,N,
+ivy-dry super,ivy,Dermatitis,OTC,N,N,
+kerasal ultra 20,kerasal,Dermatitis,Rx/OTC,C,N,
+lokara,lokara,Dermatitis,Rx,C,N,
+medotar,medotar,Dermatitis,Rx/OTC,C,N,
+mg217 medicated tar,mg217,Dermatitis,Rx/OTC,C,N,
+neo-synalar,neo,Dermatitis,Rx,N,N,
+neutrogena t / derm,neutrogena,Dermatitis,Rx/OTC,C,N,
+nolix,nolix,Dermatitis,Rx,C,N,
+novacort,novacort,Dermatitis,Rx,C,N,
+oxipor vhc,oxipor,Dermatitis,Rx/OTC,C,N,
+pramosone,pramosone,Dermatitis,Rx,C,N,
+proctofoam hc,proctofoam,Dermatitis,Rx,C,N,
+psoriasin,psoriasin,Dermatitis,Rx/OTC,C,N,
+radiaplexrx,radiaplexrx,Dermatitis,Rx,N,N,
+scytera,scytera,Dermatitis,Rx/OTC,C,N,
+sodium hyaluronate,sodium,Dermatitis,Rx,N,N,
+synalar ointment,synalar,Dermatitis,Rx/OTC,C,N,
+tarsum,tarsum,Dermatitis,Rx/OTC,C,N,
+theraplex t,theraplex,Dermatitis,Rx/OTC,C,N,
+tiger balm,tiger,Dermatitis,OTC,N,N,
+tiger balm pain relieving patch,tiger,Dermatitis,OTC,N,N,
+ultralytic,ultralytic,Dermatitis,Rx/OTC,C,N,
+ultralytic 2,ultralytic,Dermatitis,Rx/OTC,C,N,
+vytone,vytone,Dermatitis,Rx,C,N,
+xclair,xclair,Dermatitis,Rx,N,N,
+azole  off-label,azole,Duodenitis Gastritis,Rx/OTC,C,N,
+pantoprazole,pantoprazole,Duodenitis Gastritis,Rx,B,N,
+lansoprazole,lansoprazole,Duodenitis Gastritis,Rx/OTC,B,N,
+esomeprazole,esomeprazole,Duodenitis Gastritis,Rx/OTC,C,N,
+omeprazole,omeprazole,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+pantoprazole,pantoprazole,Gastroesophageal Reflux Disease,Rx,B,N,
+nexium,nexium,Gastroesophageal Reflux Disease,Rx,C,N,
+protonix,protonix,Gastroesophageal Reflux Disease,Rx,B,N,
+prilosec,prilosec,Gastroesophageal Reflux Disease,Rx,C,N,
+famotidine,famotidine,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+dexilant,dexilant,Gastroesophageal Reflux Disease,Rx,B,N,
+aciphex,aciphex,Gastroesophageal Reflux Disease,Rx,B,N,
+prilosec otc,prilosec,Gastroesophageal Reflux Disease,OTC,C,N,
+lansoprazole,lansoprazole,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+prevacid,prevacid,Gastroesophageal Reflux Disease,Rx,B,N,
+esomeprazole,esomeprazole,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+pepcid,pepcid,Gastroesophageal Reflux Disease,Rx,B,N,
+rabeprazole,rabeprazole,Gastroesophageal Reflux Disease,Rx,B,N,
+sucralfate,sucralfate,Gastroesophageal Reflux Disease,Rx,B,N,
+carafate,carafate,Gastroesophageal Reflux Disease,Rx,B,N,
+nexium 24hr,nexium,Gastroesophageal Reflux Disease,OTC,C,N,
+pepcid ac,pepcid,Gastroesophageal Reflux Disease,OTC,B,N,
+protonix iv,protonix,Gastroesophageal Reflux Disease,Rx,B,N,
+acid controller maximum strength,acid,Gastroesophageal Reflux Disease,OTC,B,N,
+acid controller original strength,acid,Gastroesophageal Reflux Disease,OTC,B,N,
+acid reducer maximum strength,acid,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+acid reducer original strength,acid,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+dexlansoprazole,dexlansoprazole,Gastroesophageal Reflux Disease,Rx,B,N,
+heartburn relief,heartburn,Gastroesophageal Reflux Disease,OTC,B,N,
+heartburn relief maximum strength,heartburn,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+metoclopramide,metoclopramide,Gastroesophageal Reflux Disease,Rx,B,N,X
+mylanta,mylanta,Gastroesophageal Reflux Disease,OTC,N,N,
+omeprazole / sodium bicarbonate,omeprazole,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+pepcid ac chewable tablets,pepcid,Gastroesophageal Reflux Disease,OTC,B,N,
+pepcid oral suspension,pepcid,Gastroesophageal Reflux Disease,Rx,B,N,
+cimetidine,cimetidine,Gastroesophageal Reflux Disease,Rx/OTC,B,N,X
+reglan,reglan,Gastroesophageal Reflux Disease,Rx,B,N,X
+zegerid,zegerid,Gastroesophageal Reflux Disease,Rx,C,N,
+calcium carbonate,calcium,Gastroesophageal Reflux Disease,OTC,N,N,
+magnesium oxide,magnesium,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+nexium iv,nexium,Gastroesophageal Reflux Disease,Rx,C,N,
+nizatidine,nizatidine,Gastroesophageal Reflux Disease,Rx/OTC,B,N,
+prevacid solutab,prevacid,Gastroesophageal Reflux Disease,Rx,B,N,
+aluminum hydroxide / magnesium hydroxide / simethicone,aluminum,Gastroesophageal Reflux Disease,OTC,N,N,
+nechol  off-label,nechol,Gastroesophageal Reflux Disease,Rx,C,N,
+calci-chew,calci,Gastroesophageal Reflux Disease,OTC,N,N,
+pepcid complete,pepcid,Gastroesophageal Reflux Disease,OTC,N,N,
+prevacid otc,prevacid,Gastroesophageal Reflux Disease,OTC,B,N,
+tagamet hb,tagamet,Gastroesophageal Reflux Disease,Rx/OTC,B,N,X
+titralac,titralac,Gastroesophageal Reflux Disease,OTC,N,N,
+tums regular strength,tums,Gastroesophageal Reflux Disease,OTC,N,N,
+tums smoothies,tums,Gastroesophageal Reflux Disease,OTC,N,N,
+zegerid otc,zegerid,Gastroesophageal Reflux Disease,OTC,C,N,
+acid controller complete,acid,Gastroesophageal Reflux Disease,OTC,N,N,
+acid controller complete dual action,acid,Gastroesophageal Reflux Disease,OTC,N,N,
+acid reducer plus antacid,acid,Gastroesophageal Reflux Disease,OTC,N,N,
+aciphex sprinkle,aciphex,Gastroesophageal Reflux Disease,Rx,B,N,
+alamag,alamag,Gastroesophageal Reflux Disease,OTC,N,N,
+alka-seltzer heartburn + gas,alka,Gastroesophageal Reflux Disease,OTC,C,N,
+almacone,almacone,Gastroesophageal Reflux Disease,OTC,N,N,
+aluminum hydroxide / magnesium carbonate,aluminum,Gastroesophageal Reflux Disease,OTC,N,N,
+aluminum hydroxide / magnesium hydroxide,aluminum,Gastroesophageal Reflux Disease,OTC,N,N,
+aluminum hydroxide,aluminum,Gastroesophageal Reflux Disease,Rx/OTC,N,N,
+amphojel,amphojel,Gastroesophageal Reflux Disease,Rx/OTC,N,N,
+axid ar,axid,Gastroesophageal Reflux Disease,OTC,B,N,
+belladonna,belladonna,Gastroesophageal Reflux Disease,Rx,C,N,X
+belladonna tincture,belladonna,Gastroesophageal Reflux Disease,Rx,C,N,X
+calcium carbonate / famotidine / magnesium hydroxide,calcium,Gastroesophageal Reflux Disease,OTC,N,N,
+calcium carbonate / magnesium hydroxide / simethicone,calcium,Gastroesophageal Reflux Disease,OTC,C,N,
+calcium carbonate / simethicone,calcium,Gastroesophageal Reflux Disease,OTC,C,N,
+di-gel,di,Gastroesophageal Reflux Disease,OTC,N,N,
+dual action complete,dual,Gastroesophageal Reflux Disease,OTC,N,N,
+duo fusion,duo,Gastroesophageal Reflux Disease,OTC,N,N,
+equaline acid reducer,equaline,Gastroesophageal Reflux Disease,Rx/OTC,B,N,X
+gas-x with maalox extra strength,gas,Gastroesophageal Reflux Disease,OTC,C,N,
+gelusil,gelusil,Gastroesophageal Reflux Disease,OTC,N,N,
+leader heartburn relief,leader,Gastroesophageal Reflux Disease,Rx/OTC,B,N,X
+mag-oxide,mag,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+mi-acid,mi,Gastroesophageal Reflux Disease,OTC,N,N,
+milantex,milantex,Gastroesophageal Reflux Disease,OTC,N,N,
+mintox,mintox,Gastroesophageal Reflux Disease,OTC,N,N,
+mintox plus,mintox,Gastroesophageal Reflux Disease,OTC,N,N,
+mylanta coat & cool,mylanta,Gastroesophageal Reflux Disease,OTC,C,N,
+mylanta maximum strength,mylanta,Gastroesophageal Reflux Disease,OTC,N,N,
+mylanta tonight,mylanta,Gastroesophageal Reflux Disease,OTC,C,N,
+phillips' cramp-free,phillips,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+rulox,rulox,Gastroesophageal Reflux Disease,OTC,N,N,
+sodium citrate,sodium,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+tricitrasol,tricitrasol,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+tums chewy bites with gas relief (lemon & strawberry),tums,Gastroesophageal Reflux Disease,OTC,C,N,
+uro-mag,uro,Gastroesophageal Reflux Disease,Rx/OTC,C,N,
+chlorhexidine,chlorhexidine,Gingivitis,Rx/OTC,C,N,
+peridex,peridex,Gingivitis,Rx/OTC,C,N,
+hydrocortisone,hydrocortisone,Gingivitis,Rx/OTC,C,N,
+periogard,periogard,Gingivitis,Rx/OTC,C,N,
+denti-rinse,denti,Gingivitis,Rx/OTC,C,N,
+acclean,acclean,Gingivitis,Rx/OTC,C,N,
+periochip,periochip,Gingivitis,Rx/OTC,C,N,
+sky oral rinse,sky,Gingivitis,Rx,C,N,
+combigan,combigan,Glaucoma,Rx,C,N,X
+acetazolamide,acetazolamide,Glaucoma,Rx,C,N,
+brimonidine / timolol,brimonidine,Glaucoma,Rx,C,N,X
+diamox,diamox,Glaucoma,Rx,C,N,
+pilocarpine,pilocarpine,Glaucoma,Rx,C,N,
+methazolamide,methazolamide,Glaucoma,Rx,C,N,
+corgard,corgard,Glaucoma,Rx,C,N,X
+diamox sequels,diamox,Glaucoma,Rx,C,N,
+isopto carpine,isopto,Glaucoma,Rx,C,N,
+nadolol,nadolol,Glaucoma,Rx,C,N,X
+pilocar,pilocar,Glaucoma,Rx,C,N,
+apraclonidine,apraclonidine,Glaucoma,Rx,C,N,X
+phospholine iodide,phospholine,Glaucoma,Rx,C,N,
+carbachol,carbachol,Glaucoma,Rx,C,N,
+mitomycin,mitomycin,Glaucoma,Rx,X,N,
+echothiophate iodide,echothiophate,Glaucoma,Rx,C,N,
+isopto carbachol,isopto,Glaucoma,Rx,C,N,
+miostat,miostat,Glaucoma,Rx,C,N,
+mitosol,mitosol,Glaucoma,Rx,X,N,
+allopurinol,allopurinol,Gout,Rx,C,N,
+uloric,uloric,Gout,Rx,C,N,
+zyloprim,zyloprim,Gout,Rx,C,N,
+aloprim,aloprim,Gout,Rx,C,N,
+febuxostat,febuxostat,Gout,Rx,C,N,
+krystexxa,krystexxa,Gout,Rx,C,N,
+probenecid,probenecid,Gout,Rx,N,N,
+pegloticase,pegloticase,Gout,Rx,C,N,
+acept  off-label,acept,Gout,Rx,C,N,
+xen  off-label,xen,Herniated Disc,Rx/OTC,C,N,X
+ofen  off-label,ofen,Herniated Disc,Rx/OTC,C,N,X
+atorvastatin,atorvastatin,Hyperlipidemia,Rx,X,N,X
+simvastatin,simvastatin,Hyperlipidemia,Rx,X,N,X
+lipitor,lipitor,Hyperlipidemia,Rx,X,N,X
+zetia,zetia,Hyperlipidemia,Rx,C,N,
+crestor,crestor,Hyperlipidemia,Rx,X,N,X
+pravastatin,pravastatin,Hyperlipidemia,Rx,X,N,X
+repatha,repatha,Hyperlipidemia,Rx,,N,
+alirocumab,alirocumab,Hyperlipidemia,Rx,,N,
+evolocumab,evolocumab,Hyperlipidemia,Rx,,N,
+praluent,praluent,Hyperlipidemia,Rx,,N,
+rosuvastatin,rosuvastatin,Hyperlipidemia,Rx,X,N,X
+lovastatin,lovastatin,Hyperlipidemia,Rx,X,N,X
+zocor,zocor,Hyperlipidemia,Rx,X,N,X
+ezetimibe,ezetimibe,Hyperlipidemia,Rx,C,N,
+gemfibrozil,gemfibrozil,Hyperlipidemia,Rx,C,N,
+vytorin,vytorin,Hyperlipidemia,Rx,X,N,X
+livalo,livalo,Hyperlipidemia,Rx,X,N,X
+niacin,niacin,Hyperlipidemia,Rx/OTC,C,N,X
+niaspan,niaspan,Hyperlipidemia,Rx/OTC,C,N,X
+welchol,welchol,Hyperlipidemia,Rx,B,N,
+altocor,altocor,Hyperlipidemia,Rx,X,N,X
+pravachol,pravachol,Hyperlipidemia,Rx,X,N,X
+altoprev,altoprev,Hyperlipidemia,Rx,X,N,X
+ezetimibe / simvastatin,ezetimibe,Hyperlipidemia,Rx,X,N,X
+fenofibric acid,fenofibric,Hyperlipidemia,Rx,C,N,
+niacin sr,niacin,Hyperlipidemia,Rx/OTC,C,N,X
+slo-niacin,slo,Hyperlipidemia,Rx/OTC,C,N,X
+b3-500-gr,b3,Hyperlipidemia,Rx/OTC,C,N,X
+colesevelam,colesevelam,Hyperlipidemia,Rx,B,N,
+ezallor,ezallor,Hyperlipidemia,Rx,X,N,X
+flolipid,flolipid,Hyperlipidemia,Rx,X,N,X
+lopid,lopid,Hyperlipidemia,Rx,C,N,
+pitavastatin,pitavastatin,Hyperlipidemia,Rx,X,N,X
+trilipix,trilipix,Hyperlipidemia,Rx,C,N,
+amlodipine / atorvastatin,amlodipine,Hyperlipidemia,Rx,X,N,X
+b-3-50,b,Hyperlipidemia,Rx/OTC,C,N,X
+fluvastatin,fluvastatin,Hyperlipidemia,Rx,X,N,X
+lescol xl,lescol,Hyperlipidemia,Rx,X,N,X
+henolate mofetil  off-label,henolate,Hyperlipidemia,Rx,D,N,
+niacor,niacor,Hyperlipidemia,Rx/OTC,C,N,X
+caduet,caduet,Hyperlipidemia,Rx,X,N,X
+endur-acin,endur,Hyperlipidemia,Rx/OTC,C,N,X
+ezetimibe / rosuvastatin,ezetimibe,Hyperlipidemia,Rx,,N,X
+fibricor,fibricor,Hyperlipidemia,Rx,C,N,
+hdl benefit,hdl,Hyperlipidemia,Rx/OTC,C,N,X
+juxtapid,juxtapid,Hyperlipidemia,Rx,X,N,X
+leqvio,leqvio,Hyperlipidemia,Rx,,U,
+lomitapide,lomitapide,Hyperlipidemia,Rx,X,N,X
+roszet,roszet,Hyperlipidemia,Rx,,N,X
+zypitamag,zypitamag,Hyperlipidemia,Rx,X,N,X
+samsca,samsca,Hyponatremia,Rx,C,N,
+tolvaptan,tolvaptan,Hyponatremia,Rx,C,N,
+ure-na,ure,Hyponatremia,Rx/OTC,C,N,
+urea,urea,Hyponatremia,Rx/OTC,C,N,
+sodium acetate,sodium,Hyponatremia,Rx,C,N,
+midodrine,midodrine,Hypotension,Rx,C,N,
+levophed,levophed,Hypotension,Rx,C,N,
+norepinephrine,norepinephrine,Hypotension,Rx,C,N,
+phenylephrine,phenylephrine,Hypotension,Rx/OTC,C,N,
+orvaten,orvaten,Hypotension,Rx,C,N,
+northera,northera,Hypotension,Rx,C,N,
+ephedrine,ephedrine,Hypotension,Rx,C,N,
+vazculep,vazculep,Hypotension,Rx,C,N,
+droxidopa,droxidopa,Hypotension,Rx,C,N,
+biorphen,biorphen,Hypotension,Rx,C,N,
+akovaz,akovaz,Hypotension,Rx,C,N,
+corphedra,corphedra,Hypotension,Rx,C,N,
+emerphed,emerphed,Hypotension,Rx,C,N,
+rezipres,rezipres,Hypotension,Rx,C,N,
+levothyroxine,levothyroxine,Hypothyroidism,Rx,A,N,
+synthroid,synthroid,Hypothyroidism,Rx,A,N,
+armour thyroid,armour,Hypothyroidism,Rx,A,N,
+levoxyl,levoxyl,Hypothyroidism,Rx,A,N,
+cytomel,cytomel,Hypothyroidism,Rx,A,N,
+tirosint,tirosint,Hypothyroidism,Rx,A,N,
+euthyrox,euthyrox,Hypothyroidism,Rx,A,N,
+liothyronine,liothyronine,Hypothyroidism,Rx,A,N,
+nature-throid,nature,Hypothyroidism,Rx,A,N,
+westhroid,westhroid,Hypothyroidism,Rx,A,N,
+novothyrox,novothyrox,Hypothyroidism,Rx,A,N,
+thyroid desiccated,thyroid,Hypothyroidism,Rx,A,N,
+unithroid,unithroid,Hypothyroidism,Rx,A,N,
+levo-t,levo,Hypothyroidism,Rx,A,N,
+thyquidity,thyquidity,Hypothyroidism,Rx,A,N,
+tirosint-sol,tirosint,Hypothyroidism,Rx,A,N,
+np thyroid,np,Hypothyroidism,Rx,A,N,
+triostat,triostat,Hypothyroidism,Rx,A,N,
+wp thyroid,wp,Hypothyroidism,Rx,A,N,
+oxybutynin,oxybutynin,Urinary Incontinence,Rx/OTC,B,N,X
+myrbetriq,myrbetriq,Urinary Incontinence,Rx,C,N,
+vesicare,vesicare,Urinary Incontinence,Rx,C,N,
+botox,botox,Urinary Incontinence,Rx,C,N,
+onabotulinumtoxina,onabotulinumtoxina,Urinary Incontinence,Rx,C,N,
+detrol la,detrol,Urinary Incontinence,Rx,C,N,X
+tolterodine,tolterodine,Urinary Incontinence,Rx,C,N,X
+toviaz,toviaz,Urinary Incontinence,Rx,C,N,
+enablex,enablex,Urinary Incontinence,Rx,C,N,
+amitriptyline,amitriptyline,Urinary Incontinence,Rx,C,N,X
+detrol,detrol,Urinary Incontinence,Rx,C,N,X
+oxytrol,oxytrol,Urinary Incontinence,Rx,B,N,X
+solifenacin,solifenacin,Urinary Incontinence,Rx,C,N,
+ditropan xl,ditropan,Urinary Incontinence,Rx,B,N,X
+hyoscyamine,hyoscyamine,Urinary Incontinence,Rx,C,N,X
+mirabegron,mirabegron,Urinary Incontinence,Rx,C,N,
+trospium,trospium,Urinary Incontinence,Rx,C,N,X
+etine  off-label,etine,Urinary Incontinence,Rx,C,N,X
+levsin sl,levsin,Urinary Incontinence,Rx,C,N,X
+gelnique,gelnique,Urinary Incontinence,Rx,B,N,X
+anaspaz,anaspaz,Urinary Incontinence,Rx,C,N,X
+fesoterodine,fesoterodine,Urinary Incontinence,Rx,C,N,
+darifenacin,darifenacin,Urinary Incontinence,Rx,C,N,
+flavoxate,flavoxate,Urinary Incontinence,Rx,B,N,X
+levsin,levsin,Urinary Incontinence,Rx,C,N,X
+colidrops,colidrops,Urinary Incontinence,Rx,C,N,X
+ed-spaz,ed,Urinary Incontinence,Rx,C,N,X
+hyomax,hyomax,Urinary Incontinence,Rx,C,N,X
+hyomax dt,hyomax,Urinary Incontinence,Rx,C,N,X
+hyomax ft,hyomax,Urinary Incontinence,Rx,C,N,X
+hyomax sl,hyomax,Urinary Incontinence,Rx,C,N,X
+hyomax sr,hyomax,Urinary Incontinence,Rx,C,N,X
+hyosyne,hyosyne,Urinary Incontinence,Rx,C,N,X
+levbid,levbid,Urinary Incontinence,Rx,C,N,X
+oscimin,oscimin,Urinary Incontinence,Rx,C,N,X
+symax duotab,symax,Urinary Incontinence,Rx,C,N,X
+symax sl,symax,Urinary Incontinence,Rx,C,N,X
+symax sr,symax,Urinary Incontinence,Rx,C,N,X
+done  off-label,done,Insomnia,Rx,C,N,X
+ambien,ambien,Insomnia,Rx,C,4,X
+zolpidem,zolpidem,Insomnia,Rx,C,4,X
+belsomra,belsomra,Insomnia,Rx,C,4,X
+temazepam,temazepam,Insomnia,Rx,X,4,X
+dayvigo,dayvigo,Insomnia,Rx,,4,X
+lunesta,lunesta,Insomnia,Rx,C,4,X
+amitriptyline,amitriptyline,Insomnia,Rx,C,N,X
+ativan,ativan,Insomnia,Rx,D,4,X
+restoril,restoril,Insomnia,Rx,X,4,X
+lorazepam,lorazepam,Insomnia,Rx,D,4,X
+apine  off-label,apine,Insomnia,Rx,C,N,X
+zepam  off-label,zepam,Insomnia,Rx,D,4,X
+zapine  off-label,zapine,Insomnia,Rx,C,N,X
+entin  off-label,entin,Insomnia,Rx,C,N,X
+doxepin,doxepin,Insomnia,Rx,N,N,X
+halcion,halcion,Insomnia,Rx,X,4,X
+ambien cr,ambien,Insomnia,Rx,C,4,X
+estazolam,estazolam,Insomnia,Rx,X,4,X
+flurazepam,flurazepam,Insomnia,Rx,N,4,X
+diphenhydramine,diphenhydramine,Insomnia,Rx/OTC,B,N,X
+eszopiclone,eszopiclone,Insomnia,Rx,C,4,X
+rozerem,rozerem,Insomnia,Rx,C,N,X
+silenor,silenor,Insomnia,Rx,N,N,X
+sonata,sonata,Insomnia,Rx,C,4,X
+advil pm,advil,Insomnia,OTC,N,N,X
+doxylamine,doxylamine,Insomnia,Rx/OTC,B,N,X
+triazolam,triazolam,Insomnia,Rx,X,4,X
+apine  off-label,apine,Insomnia,Rx,C,N,X
+tylenol pm,tylenol,Insomnia,Rx/OTC,N,N,X
+unisom sleeptabs,unisom,Insomnia,Rx/OTC,B,N,X
+edluar,edluar,Insomnia,Rx,C,4,X
+quazepam,quazepam,Insomnia,Rx,C,4,X
+ramelteon,ramelteon,Insomnia,Rx,C,N,X
+zaleplon,zaleplon,Insomnia,Rx,C,4,X
+compoz nighttime sleep aid,compoz,Insomnia,Rx/OTC,B,N,X
+suvorexant,suvorexant,Insomnia,Rx,C,4,X
+chloral hydrate,chloral,Insomnia,Rx,C,4,X
+hydrinate  off-label,hydrinate,Insomnia,Rx/OTC,B,N,X
+diphenhydramine / ibuprofen,diphenhydramine,Insomnia,OTC,N,N,X
+doral,doral,Insomnia,Rx,C,4,X
+nytol,nytol,Insomnia,Rx/OTC,B,N,X
+pam  off-label,pam,Insomnia,Rx,N,4,X
+barbital  off-label,barbital,Insomnia,Rx,D,M,X
+simply sleep,simply,Insomnia,Rx/OTC,B,N,X
+sominex,sominex,Insomnia,Rx/OTC,B,N,X
+unisom sleepgels,unisom,Insomnia,Rx/OTC,B,N,X
+unisom sleepmelts,unisom,Insomnia,Rx/OTC,B,N,X
+zolpimist,zolpimist,Insomnia,Rx,C,4,X
+zzzquil,zzzquil,Insomnia,Rx/OTC,B,N,X
+acetaminophen / diphenhydramine,acetaminophen,Insomnia,Rx/OTC,N,N,X
+rbital  off-label,rbital,Insomnia,Rx,D,2,X
+nytol quickcaps,nytol,Insomnia,Rx/OTC,B,N,X
+barbital  off-label,barbital,Insomnia,Rx,D,4,X
+sleep aid,sleep,Insomnia,Rx/OTC,B,N,X
+sleepinal,sleepinal,Insomnia,Rx/OTC,B,N,X
+twilite,twilite,Insomnia,Rx/OTC,B,N,X
+z-sleep,z,Insomnia,Rx/OTC,B,N,X
+aleve pm,aleve,Insomnia,OTC,C,N,X
+care one sleep aid,care,Insomnia,Rx/OTC,B,N,X
+diphenhydramine / magnesium salicylate,diphenhydramine,Insomnia,OTC,N,N,X
+diphenhydramine / naproxen,diphenhydramine,Insomnia,OTC,C,N,X
+doans pm,doans,Insomnia,OTC,N,N,X
+equaline sleep aid,equaline,Insomnia,Rx/OTC,B,N,X
+equate sleep aid,equate,Insomnia,Rx/OTC,B,N,X
+headache relief pm,headache,Insomnia,Rx/OTC,N,N,X
+ibuprofen pm,ibuprofen,Insomnia,OTC,N,N,X
+legatrin pm,legatrin,Insomnia,Rx/OTC,N,N,X
+lemborexant,lemborexant,Insomnia,Rx,,4,X
+midol pm,midol,Insomnia,Rx/OTC,N,N,X
+motrin pm,motrin,Insomnia,OTC,N,N,X
+nighttime sleepaid,nighttime,Insomnia,Rx/OTC,B,N,X
+percogesic extra strength,percogesic,Insomnia,Rx/OTC,N,N,X
+percogesic original strength,percogesic,Insomnia,Rx/OTC,N,N,X
+ferrous sulfate,ferrous,Iron Deficiency Anemia,Rx/OTC,N,N,
+ferrous gluconate,ferrous,Iron Deficiency Anemia,Rx/OTC,N,N,
+feosol original,feosol,Iron Deficiency Anemia,Rx/OTC,N,N,
+slow fe,slow,Iron Deficiency Anemia,Rx/OTC,N,N,
+ferrous fumarate,ferrous,Iron Deficiency Anemia,Rx/OTC,N,N,
+venofer,venofer,Iron Deficiency Anemia,Rx,B,N,
+feraheme,feraheme,Iron Deficiency Anemia,Rx,C,N,
+slow release iron,slow,Iron Deficiency Anemia,Rx/OTC,N,N,
+fer-in-sol,fer,Iron Deficiency Anemia,Rx/OTC,N,N,
+ferrousal,ferrousal,Iron Deficiency Anemia,Rx/OTC,N,N,
+ferrex-150,ferrex,Iron Deficiency Anemia,OTC,N,N,
+fe caps,fe,Iron Deficiency Anemia,Rx/OTC,N,N,
+feratab,feratab,Iron Deficiency Anemia,Rx/OTC,N,N,
+niferex,niferex,Iron Deficiency Anemia,OTC,N,N,
+ferumoxytol,ferumoxytol,Iron Deficiency Anemia,Rx,C,N,
+vitron-c,vitron,Iron Deficiency Anemia,OTC,N,N,
+fergon,fergon,Iron Deficiency Anemia,Rx/OTC,N,N,
+injectafer,injectafer,Iron Deficiency Anemia,Rx,C,N,
+iron dextran,iron,Iron Deficiency Anemia,Rx,C,N,
+iron polysaccharide,iron,Iron Deficiency Anemia,OTC,N,N,
+iron sucrose,iron,Iron Deficiency Anemia,Rx,B,N,
+carbonyl iron,carbonyl,Iron Deficiency Anemia,OTC,N,N,
+ezfe,ezfe,Iron Deficiency Anemia,OTC,N,N,
+hemocyte,hemocyte,Iron Deficiency Anemia,Rx/OTC,N,N,
+infed,infed,Iron Deficiency Anemia,Rx,C,N,
+iron chews,iron,Iron Deficiency Anemia,OTC,N,N,
+proferrin-es,proferrin,Iron Deficiency Anemia,OTC,N,N,
+feosol natural release,feosol,Iron Deficiency Anemia,OTC,N,N,
+ferate,ferate,Iron Deficiency Anemia,Rx/OTC,N,N,
+ferric carboxymaltose,ferric,Iron Deficiency Anemia,Rx,C,N,
+ferrous fumarate / folic acid,ferrous,Iron Deficiency Anemia,Rx/OTC,N,N,
+hematinic with folic acid,hematinic,Iron Deficiency Anemia,Rx/OTC,N,N,
+heme iron polypeptide,heme,Iron Deficiency Anemia,OTC,N,N,
+hemocyte-f,hemocyte,Iron Deficiency Anemia,Rx/OTC,N,N,
+poly iron,poly,Iron Deficiency Anemia,OTC,N,N,
+accrufer,accrufer,Iron Deficiency Anemia,Rx,,N,
+ascorbic acid / carbonyl iron,ascorbic,Iron Deficiency Anemia,OTC,N,N,
+auryxia,auryxia,Iron Deficiency Anemia,Rx,B,N,
+ed cyte f,ed,Iron Deficiency Anemia,Rx/OTC,N,N,
+fe c,fe,Iron Deficiency Anemia,OTC,N,N,
+ferric citrate,ferric,Iron Deficiency Anemia,Rx,B,N,
+ferric derisomaltose,ferric,Iron Deficiency Anemia,Rx,,N,
+ferric maltol,ferric,Iron Deficiency Anemia,Rx,,N,
+hematex,hematex,Iron Deficiency Anemia,OTC,N,N,
+icar,icar,Iron Deficiency Anemia,OTC,N,N,
+icar-c,icar,Iron Deficiency Anemia,OTC,N,N,
+iron chews pediatric,iron,Iron Deficiency Anemia,OTC,N,N,
+monoferric,monoferric,Iron Deficiency Anemia,Rx,,N,
+myferon 150,myferon,Iron Deficiency Anemia,OTC,N,N,
+novaferrum 50,novaferrum,Iron Deficiency Anemia,OTC,N,N,
+novaferrum pediatric,novaferrum,Iron Deficiency Anemia,OTC,N,N,
+nu-iron 150,nu,Iron Deficiency Anemia,OTC,N,N,
+profe,profe,Iron Deficiency Anemia,OTC,N,N,
+wee care,wee,Iron Deficiency Anemia,OTC,N,N,
+etine  off-label,etine,Intermittent Explosive Disorder,Rx,C,N,X
+apine  off-label,apine,Intermittent Explosive Disorder,Rx,C,N,X
+um  off-label,um,Intermittent Explosive Disorder,Rx,D,N,X
+etine  off-label,etine,Intermittent Explosive Disorder,Rx,D,N,X
+anolol  off-label,anolol,Intermittent Explosive Disorder,Rx,C,N,X
+dicyclomine,dicyclomine,Irritable Bowel Syndrome,Rx,B,N,X
+bentyl,bentyl,Irritable Bowel Syndrome,Rx,B,N,X
+hyoscyamine,hyoscyamine,Irritable Bowel Syndrome,Rx,C,N,X
+linzess,linzess,Irritable Bowel Syndrome,Rx,C,N,
+amitiza,amitiza,Irritable Bowel Syndrome,Rx,C,N,
+donnatal,donnatal,Irritable Bowel Syndrome,Rx,C,N,X
+iptyline  off-label,iptyline,Irritable Bowel Syndrome,Rx,C,N,X
+librax,librax,Irritable Bowel Syndrome,Rx,D,N,X
+chlordiazepoxide / clidinium,chlordiazepoxide,Irritable Bowel Syndrome,Rx,D,N,X
+levsin,levsin,Irritable Bowel Syndrome,Rx,C,N,X
+styramine  off-label,styramine,Irritable Bowel Syndrome,Rx,C,N,
+alopram  off-label,alopram,Irritable Bowel Syndrome,Rx,C,N,X
+levsin sl,levsin,Irritable Bowel Syndrome,Rx,C,N,X
+lotronex,lotronex,Irritable Bowel Syndrome,Rx,B,N,
+xifaxan,xifaxan,Irritable Bowel Syndrome,Rx,C,N,
+konsyl,konsyl,Irritable Bowel Syndrome,OTC,N,N,
+viberzi,viberzi,Irritable Bowel Syndrome,Rx,,4,X
+atropine / hyoscyamine / phenobarbital / scopolamine,atropine,Irritable Bowel Syndrome,Rx,C,N,X
+metamucil,metamucil,Irritable Bowel Syndrome,OTC,N,N,
+iptyline  off-label,iptyline,Irritable Bowel Syndrome,Rx,N,N,X
+faxine  off-label,faxine,Irritable Bowel Syndrome,Rx,C,N,X
+antispasmodic,antispasmodic,Irritable Bowel Syndrome,Rx,C,N,X
+levbid,levbid,Irritable Bowel Syndrome,Rx,C,N,X
+psyllium,psyllium,Irritable Bowel Syndrome,OTC,N,N,
+anaspaz,anaspaz,Irritable Bowel Syndrome,Rx,C,N,X
+alosetron,alosetron,Irritable Bowel Syndrome,Rx,B,N,
+in  off-label,in,Irritable Bowel Syndrome,Rx,N,N,X
+linaclotide,linaclotide,Irritable Bowel Syndrome,Rx,C,N,
+dibent,dibent,Irritable Bowel Syndrome,Rx,B,N,X
+dicyclocot,dicyclocot,Irritable Bowel Syndrome,Rx,B,N,X
+hyomax,hyomax,Irritable Bowel Syndrome,Rx,C,N,X
+hyomax sl,hyomax,Irritable Bowel Syndrome,Rx,C,N,X
+hyosyne,hyosyne,Irritable Bowel Syndrome,Rx,C,N,X
+lubiprostone,lubiprostone,Irritable Bowel Syndrome,Rx,C,N,
+rifaximin,rifaximin,Irritable Bowel Syndrome,Rx,C,N,
+symax duotab,symax,Irritable Bowel Syndrome,Rx,C,N,X
+trulance,trulance,Irritable Bowel Syndrome,Rx,,N,
+anafranil,anafranil,Irritable Bowel Syndrome,Rx,C,N,X
+belladonna,belladonna,Irritable Bowel Syndrome,Rx,C,N,X
+clomipramine,clomipramine,Irritable Bowel Syndrome,Rx,C,N,X
+colidrops,colidrops,Irritable Bowel Syndrome,Rx,C,N,X
+ramine  off-label,ramine,Irritable Bowel Syndrome,Rx,N,N,X
+ed-spaz,ed,Irritable Bowel Syndrome,Rx,C,N,X
+eluxadoline,eluxadoline,Irritable Bowel Syndrome,Rx,,4,X
+enteragam,enteragam,Irritable Bowel Syndrome,Rx,N,U,
+hydrocil,hydrocil,Irritable Bowel Syndrome,OTC,N,N,
+hyomax dt,hyomax,Irritable Bowel Syndrome,Rx,C,N,X
+hyomax ft,hyomax,Irritable Bowel Syndrome,Rx,C,N,X
+hyomax sr,hyomax,Irritable Bowel Syndrome,Rx,C,N,X
+amine  off-label,amine,Irritable Bowel Syndrome,Rx,N,N,X
+lactobacillus acidophilus / lactobacillus bulgaricus,lactobacillus,Irritable Bowel Syndrome,OTC,N,N,
+laxmar,laxmar,Irritable Bowel Syndrome,OTC,N,N,
+copolamine  off-label,copolamine,Irritable Bowel Syndrome,Rx,C,N,X
+oscimin,oscimin,Irritable Bowel Syndrome,Rx,C,N,X
+reguloid,reguloid,Irritable Bowel Syndrome,OTC,N,N,
+symax sl,symax,Irritable Bowel Syndrome,Rx,C,N,X
+symax sr,symax,Irritable Bowel Syndrome,Rx,C,N,X
+tegaserod,tegaserod,Irritable Bowel Syndrome,Rx,B,N,
+zelnorm,zelnorm,Irritable Bowel Syndrome,Rx,B,N,
+b-donna tablets,b,Irritable Bowel Syndrome,Rx,C,N,X
+bd lactinex,bd,Irritable Bowel Syndrome,OTC,N,N,
+belladonna tincture,belladonna,Irritable Bowel Syndrome,Rx,C,N,X
+d-tal,d,Irritable Bowel Syndrome,Rx,C,N,X
+floranex,floranex,Irritable Bowel Syndrome,OTC,N,N,
+hyosophen,hyosophen,Irritable Bowel Syndrome,Rx,C,N,X
+ibsrela,ibsrela,Irritable Bowel Syndrome,Rx,,N,
+immune globulin oral,immune,Irritable Bowel Syndrome,Rx,N,U,
+me-pb-hyos,me,Irritable Bowel Syndrome,Rx,C,N,X
+natural fiber therapy,natural,Irritable Bowel Syndrome,OTC,N,N,
+e  off-label,e,Irritable Bowel Syndrome,Rx,C,N,X
+e forte  off-label,e,Irritable Bowel Syndrome,Rx,C,N,X
+phenohytro,phenohytro,Irritable Bowel Syndrome,Rx,C,N,X
+plecanatide,plecanatide,Irritable Bowel Syndrome,Rx,,N,
+re-pb hyos elixir,re,Irritable Bowel Syndrome,Rx,C,N,X
+se-donna pb hyos,se,Irritable Bowel Syndrome,Rx,C,N,X
+tenapanor,tenapanor,Irritable Bowel Syndrome,Rx,,N,
+pramine  off-label,pramine,Irritable Bowel Syndrome,Rx,C,N,X
+vitetal,vitetal,Irritable Bowel Syndrome,Rx,C,N,X
+sterone  off-label,sterone,Klinefelter Syndrome,Rx,X,3,
+lucentis,lucentis,Macular Degeneration,Rx,C,N,
+eylea,eylea,Macular Degeneration,Rx,C,N,
+macugen,macugen,Macular Degeneration,Rx,B,N,
+ranibizumab,ranibizumab,Macular Degeneration,Rx,C,N,
+izumab  off-label,izumab,Macular Degeneration,Rx,C,N,
+visudyne,visudyne,Macular Degeneration,Rx,C,N,X
+aflibercept,aflibercept,Macular Degeneration,Rx,C,N,
+beovu,beovu,Macular Degeneration,Rx,,N,
+verteporfin,verteporfin,Macular Degeneration,Rx,C,N,X
+pegaptanib,pegaptanib,Macular Degeneration,Rx,B,N,
+brolucizumab,brolucizumab,Macular Degeneration,Rx,,N,
+byooviz,byooviz,Macular Degeneration,Rx,C,N,
+susvimo,susvimo,Macular Degeneration,Rx,C,N,
+entin  off-label,entin,Peripheral Neuropathy,Rx,C,N,X
+etine  off-label,etine,Peripheral Neuropathy,Rx,C,N,X
+arnitine  off-label,arnitine,Peripheral Neuropathy,Rx,B,N,
+mazepine  off-label,mazepine,Peripheral Neuropathy,Rx,D,N,X
+balin  off-label,balin,Peripheral Neuropathy,Rx,C,5,X
+nitine  off-label,nitine,Peripheral Neuropathy,Rx,B,N,
+icin  off-label,icin,Peripheral Neuropathy,Rx/OTC,B,N,
+toin  off-label,toin,Peripheral Neuropathy,Rx,D,N,X
+za  off-label,za,Peripheral Neuropathy,Rx,B,N,
+tor  off-label,tor,Peripheral Neuropathy,Rx,B,N,
+tor sf  off-label,tor,Peripheral Neuropathy,Rx,B,N,
+zoloft,zoloft,Obsessive Compulsive Disorder,Rx,C,N,X
+prozac,prozac,Obsessive Compulsive Disorder,Rx,C,N,X
+sertraline,sertraline,Obsessive Compulsive Disorder,Rx,C,N,X
+fluvoxamine,fluvoxamine,Obsessive Compulsive Disorder,Rx,C,N,X
+fluoxetine,fluoxetine,Obsessive Compulsive Disorder,Rx,C,N,X
+clomipramine,clomipramine,Obsessive Compulsive Disorder,Rx,C,N,X
+zepam  off-label,zepam,Obsessive Compulsive Disorder,Rx,D,4,X
+alopram  off-label,alopram,Obsessive Compulsive Disorder,Rx,C,N,X
+anafranil,anafranil,Obsessive Compulsive Disorder,Rx,C,N,X
+paxil,paxil,Obsessive Compulsive Disorder,Rx,D,N,X
+opram  off-label,opram,Obsessive Compulsive Disorder,Rx,C,N,X
+apine  off-label,apine,Obsessive Compulsive Disorder,Rx,C,N,X
+dol  off-label,dol,Obsessive Compulsive Disorder,Rx,C,4,X
+paroxetine,paroxetine,Obsessive Compulsive Disorder,Rx,D,N,X
+faxine  off-label,faxine,Obsessive Compulsive Disorder,Rx,C,N,X
+zapine  off-label,zapine,Obsessive Compulsive Disorder,Rx,C,N,X
+n  off-label,n,Obsessive Compulsive Disorder,Rx,B,N,
+prazole  off-label,prazole,Obsessive Compulsive Disorder,Rx,C,N,X
+apine  off-label,apine,Obsessive Compulsive Disorder,Rx,C,N,X
+setron  off-label,setron,Obsessive Compulsive Disorder,Rx,B,N,
+sidone  off-label,sidone,Obsessive Compulsive Disorder,Rx,C,N,X
+ole  off-label,ole,Obsessive Compulsive Disorder,Rx,C,N,
+n odt  off-label,n,Obsessive Compulsive Disorder,Rx,B,N,
+pexeva,pexeva,Obsessive Compulsive Disorder,Rx,D,N,X
+odone  off-label,odone,Obsessive Compulsive Disorder,Rx,C,N,X
+meloxicam,meloxicam,Osteoarthritis,Rx,C,N,X
+celebrex,celebrex,Osteoarthritis,Rx,C,N,
+diclofenac,diclofenac,Osteoarthritis,Rx,D,N,X
+mobic,mobic,Osteoarthritis,Rx,C,N,X
+naproxen,naproxen,Osteoarthritis,Rx/OTC,C,N,X
+ibuprofen,ibuprofen,Osteoarthritis,Rx/OTC,C,N,X
+celecoxib,celecoxib,Osteoarthritis,Rx,C,N,
+voltaren,voltaren,Osteoarthritis,Rx,D,N,X
+chondroitin / glucosamine,chondroitin,Osteoarthritis,Rx/OTC,N,N,
+cymbalta,cymbalta,Osteoarthritis,Rx,C,N,X
+voltaren arthritis pain gel,voltaren,Osteoarthritis,OTC,C,N,
+diclofenac,diclofenac,Osteoarthritis,Rx/OTC,C,N,
+arthrotec,arthrotec,Osteoarthritis,Rx,X,N,X
+prednisone,prednisone,Osteoarthritis,Rx,C,N,
+aleve,aleve,Osteoarthritis,Rx/OTC,C,N,X
+aspirin,aspirin,Osteoarthritis,Rx/OTC,N,N,X
+cataflam,cataflam,Osteoarthritis,Rx,D,N,X
+etodolac,etodolac,Osteoarthritis,Rx,C,N,X
+nabumetone,nabumetone,Osteoarthritis,Rx,C,N,X
+medrol dosepak,medrol,Osteoarthritis,Rx,C,N,
+advil,advil,Osteoarthritis,Rx/OTC,C,N,X
+duloxetine,duloxetine,Osteoarthritis,Rx,C,N,X
+motrin,motrin,Osteoarthritis,Rx/OTC,C,N,X
+vimovo,vimovo,Osteoarthritis,Rx,C,N,X
+naprosyn,naprosyn,Osteoarthritis,Rx/OTC,C,N,X
+pennsaid,pennsaid,Osteoarthritis,Rx,C,N,
+ecotrin,ecotrin,Osteoarthritis,Rx/OTC,N,N,X
+arthritis pain,arthritis,Osteoarthritis,Rx/OTC,N,N,X
+aspergum,aspergum,Osteoarthritis,Rx/OTC,N,N,X
+aspiritab,aspiritab,Osteoarthritis,Rx/OTC,N,N,X
+aspirtab,aspirtab,Osteoarthritis,Rx/OTC,N,N,X
+bayer aspirin,bayer,Osteoarthritis,Rx/OTC,N,N,X
+bayer aspirin extra strength plus,bayer,Osteoarthritis,Rx/OTC,N,N,X
+easprin,easprin,Osteoarthritis,Rx,N,N,X
+ecpirin,ecpirin,Osteoarthritis,Rx/OTC,N,N,X
+entercote,entercote,Osteoarthritis,Rx/OTC,N,N,X
+genacote,genacote,Osteoarthritis,Rx/OTC,N,N,X
+halfprin,halfprin,Osteoarthritis,Rx/OTC,N,N,X
+methylprednisolone,methylprednisolone,Osteoarthritis,Rx,C,N,
+norwich aspirin,norwich,Osteoarthritis,Rx/OTC,N,N,X
+vazalore,vazalore,Osteoarthritis,Rx/OTC,N,N,X
+zorvolex,zorvolex,Osteoarthritis,Rx,D,N,X
+chondroitin / glucosamine / methylsulfonylmethane,chondroitin,Osteoarthritis,OTC,N,N,
+depo-medrol,depo,Osteoarthritis,Rx,C,N,
+indomethacin,indomethacin,Osteoarthritis,Rx,C,N,X
+osteo bi-flex,osteo,Osteoarthritis,Rx/OTC,N,N,
+proprinal,proprinal,Osteoarthritis,Rx/OTC,C,N,X
+a-g profen,a,Osteoarthritis,Rx/OTC,C,N,X
+acetaminophen / codeine,acetaminophen,Osteoarthritis,Rx,C,M,X
+actiprofen,actiprofen,Osteoarthritis,Rx/OTC,C,N,X
+addaprin,addaprin,Osteoarthritis,Rx/OTC,C,N,X
+advil liqui-gels,advil,Osteoarthritis,Rx/OTC,C,N,X
+diclofenac / misoprostol,diclofenac,Osteoarthritis,Rx,X,N,X
+duexis,duexis,Osteoarthritis,Rx,C,N,X
+genpril,genpril,Osteoarthritis,Rx/OTC,C,N,X
+ibu-200,ibu,Osteoarthritis,Rx/OTC,C,N,X
+indocin,indocin,Osteoarthritis,Rx,C,N,X
+medrol,medrol,Osteoarthritis,Rx,C,N,
+midol ib,midol,Osteoarthritis,Rx/OTC,C,N,X
+motrin ib,motrin,Osteoarthritis,Rx/OTC,C,N,X
+naprelan,naprelan,Osteoarthritis,Rx/OTC,C,N,X
+nuprin,nuprin,Osteoarthritis,Rx/OTC,C,N,X
+piroxicam,piroxicam,Osteoarthritis,Rx,C,N,X
+sulindac,sulindac,Osteoarthritis,Rx,C,N,X
+aflaxen,aflaxen,Osteoarthritis,Rx/OTC,C,N,X
+all day pain relief,all,Osteoarthritis,Rx/OTC,C,N,X
+all day relief,all,Osteoarthritis,Rx/OTC,C,N,X
+anaprox,anaprox,Osteoarthritis,Rx/OTC,C,N,X
+anaprox-ds,anaprox,Osteoarthritis,Rx/OTC,C,N,X
+cosamin ds,cosamin,Osteoarthritis,Rx/OTC,N,N,
+daypro,daypro,Osteoarthritis,Rx,C,N,X
+diclozor,diclozor,Osteoarthritis,Rx,C,N,
+diflunisal,diflunisal,Osteoarthritis,Rx,C,N,
+ec-naprosyn,ec,Osteoarthritis,Rx/OTC,C,N,X
+flanax pain reliever,flanax,Osteoarthritis,Rx/OTC,C,N,X
+kenalog-40,kenalog,Osteoarthritis,Rx,C,N,
+lofena,lofena,Osteoarthritis,Rx,D,N,X
+methylprednisolone dose pack,methylprednisolone,Osteoarthritis,Rx,C,N,
+midol extended relief,midol,Osteoarthritis,Rx/OTC,C,N,X
+oxaprozin,oxaprozin,Osteoarthritis,Rx,C,N,X
+salsalate,salsalate,Osteoarthritis,Rx,C,N,X
+schiff move free,schiff,Osteoarthritis,Rx/OTC,N,N,
+solu-medrol,solu,Osteoarthritis,Rx,C,N,
+triamcinolone,triamcinolone,Osteoarthritis,Rx,C,N,
+vivlodex,vivlodex,Osteoarthritis,Rx,C,N,X
+xrylix,xrylix,Osteoarthritis,Rx,C,N,
+amlodipine / celecoxib,amlodipine,Osteoarthritis,Rx,,N,
+aristospan,aristospan,Osteoarthritis,Rx,C,N,
+betamethasone,betamethasone,Osteoarthritis,Rx,C,N,
+bioflavonoids,bioflavonoids,Osteoarthritis,Rx/OTC,N,N,
+icin  off-label,icin,Osteoarthritis,Rx/OTC,B,N,
+clinacort,clinacort,Osteoarthritis,Rx,C,N,
+clinoril,clinoril,Osteoarthritis,Rx,C,N,X
+cortisone,cortisone,Osteoarthritis,Rx,N,N,
+dolobid,dolobid,Osteoarthritis,Rx,C,N,
+esomeprazole / naproxen,esomeprazole,Osteoarthritis,Rx,C,N,X
+euflexxa,euflexxa,Osteoarthritis,Rx,N,N,
+excedrin,excedrin,Osteoarthritis,OTC,N,N,X
+feldene,feldene,Osteoarthritis,Rx,C,N,X
+kenalog-10,kenalog,Osteoarthritis,Rx,C,N,
+ketoprofen,ketoprofen,Osteoarthritis,Rx/OTC,C,N,X
+limbrel,limbrel,Osteoarthritis,Rx/OTC,N,N,
+orthovisc,orthovisc,Osteoarthritis,Rx,N,N,
+osteo bi-flex advanced,osteo,Osteoarthritis,OTC,N,N,
+sodium hyaluronate,sodium,Osteoarthritis,Rx,N,N,
+supartz,supartz,Osteoarthritis,Rx,N,N,
+synvisc,synvisc,Osteoarthritis,Rx,N,N,
+synvisc-one,synvisc,Osteoarthritis,Rx,N,N,
+zilretta,zilretta,Osteoarthritis,Rx,C,N,
+acetaminophen / aspirin / caffeine,acetaminophen,Osteoarthritis,OTC,N,N,X
+acetaminophen / aspirin,acetaminophen,Osteoarthritis,OTC,N,N,X
+acetaminophen / caffeine,acetaminophen,Osteoarthritis,OTC,N,N,X
+amino-opti-c,amino,Osteoarthritis,Rx/OTC,N,N,
+arthricream,arthricream,Osteoarthritis,OTC,N,N,
+asper-flex,asper,Osteoarthritis,OTC,N,N,
+n  off-label,n,Osteoarthritis,Rx/OTC,B,N,
+backaid inflammatory pain formula,backaid,Osteoarthritis,OTC,N,N,X
+boroleum,boroleum,Osteoarthritis,Rx/OTC,N,N,
+n  off-label,n,Osteoarthritis,Rx/OTC,B,N,
+sin  off-label,sin,Osteoarthritis,Rx/OTC,B,N,
+sin-hp  off-label,sin,Osteoarthritis,Rx/OTC,B,N,
+sin-p  off-label,sin,Osteoarthritis,Rx/OTC,B,N,
+castiva cooling,castiva,Osteoarthritis,Rx/OTC,N,N,
+va warming  off-label,va,Osteoarthritis,Rx/OTC,B,N,
+celestone soluspan,celestone,Osteoarthritis,Rx,C,N,
+choline magnesium trisalicylate,choline,Osteoarthritis,Rx,C,N,X
+choline salicylate / magnesium salicylate,choline,Osteoarthritis,Rx,C,N,X
+cidaflex,cidaflex,Osteoarthritis,Rx/OTC,N,N,
+consensi,consensi,Osteoarthritis,Rx,,N,
+cosmegen,cosmegen,Osteoarthritis,Rx,D,N,
+dactinomycin,dactinomycin,Osteoarthritis,Rx,D,N,
+daypro alta,daypro,Osteoarthritis,Rx,C,N,X
+diclofenac / menthol,diclofenac,Osteoarthritis,Rx,,N,
+diclostream,diclostream,Osteoarthritis,Rx,,N,
+durolane,durolane,Osteoarthritis,Rx,N,N,
+eucalyptamint,eucalyptamint,Osteoarthritis,Rx/OTC,N,N,
+excedrin quick tab,excedrin,Osteoarthritis,OTC,N,N,X
+excedrin tension headache,excedrin,Osteoarthritis,OTC,N,N,X
+exocaine plus,exocaine,Osteoarthritis,Rx/OTC,N,N,
+famotidine / ibuprofen,famotidine,Osteoarthritis,Rx,C,N,X
+fenoprofen,fenoprofen,Osteoarthritis,Rx,D,N,X
+fenortho,fenortho,Osteoarthritis,Rx,D,N,X
+flurbiprofen,flurbiprofen,Osteoarthritis,Rx,C,N,X
+gelsyn-3,gelsyn,Osteoarthritis,Rx,N,N,
+genace,genace,Osteoarthritis,OTC,N,N,X
+glucoten,glucoten,Osteoarthritis,Rx/OTC,N,N,
+goody's extra strength,goody,Osteoarthritis,OTC,N,N,X
+gordogesic,gordogesic,Osteoarthritis,Rx/OTC,N,N,
+heet triple action,heet,Osteoarthritis,Rx/OTC,N,N,
+hyalgan,hyalgan,Osteoarthritis,Rx,N,N,
+hyaluronan,hyaluronan,Osteoarthritis,Rx,N,N,
+hylan g-f 20,hylan,Osteoarthritis,Rx,N,N,
+hymovis,hymovis,Osteoarthritis,Rx,N,N,
+indocin sr,indocin,Osteoarthritis,Rx,C,N,X
+meclofenamate,meclofenamate,Osteoarthritis,Rx,N,N,X
+ac arthritis cream with capsaicin  off-label,ac,Osteoarthritis,Rx/OTC,B,N,
+mentholatum deep heating,mentholatum,Osteoarthritis,Rx/OTC,N,N,
+methyl salicylate,methyl,Osteoarthritis,Rx/OTC,N,N,
+monovisc,monovisc,Osteoarthritis,Rx,N,N,
+myoflex,myoflex,Osteoarthritis,OTC,N,N,
+nalfon,nalfon,Osteoarthritis,Rx,D,N,X
+optiflex complete,optiflex,Osteoarthritis,Rx/OTC,N,N,
+pan c 500,pan,Osteoarthritis,Rx/OTC,N,N,
+peridin-c,peridin,Osteoarthritis,Rx/OTC,N,N,
+pryflex,pryflex,Osteoarthritis,Rx/OTC,N,N,
+relafen ds,relafen,Osteoarthritis,Rx,C,N,X
+relamine,relamine,Osteoarthritis,Rx/OTC,N,N,
+rutin,rutin,Osteoarthritis,Rx/OTC,N,N,
+salonpas pain patch,salonpas,Osteoarthritis,Rx/OTC,N,N,
+satogesic,satogesic,Osteoarthritis,Rx/OTC,N,N,
+'s liniment  off-label,s,Osteoarthritis,Rx/OTC,B,N,
+span c,span,Osteoarthritis,Rx/OTC,N,N,
+supartz fx,supartz,Osteoarthritis,Rx,N,N,
+tolmetin,tolmetin,Osteoarthritis,Rx,C,N,X
+trolamine salicylate,trolamine,Osteoarthritis,OTC,N,N,
+ix  off-label,ix,Osteoarthritis,Rx/OTC,B,N,
+ix diabetic foot pain  off-label,ix,Osteoarthritis,Rx/OTC,B,N,
+ix sports  off-label,ix,Osteoarthritis,Rx/OTC,B,N,
+phentermine,phentermine,Obesity,Rx,X,4,X
+amate  off-label,amate,Obesity,Rx,D,N,X
+adipex-p,adipex,Obesity,Rx,X,4,X
+liraglutide,liraglutide,Obesity,Rx,C,N,X
+ax  off-label,ax,Obesity,Rx,D,N,X
+fenfluramine,fenfluramine,Obesity,Rx,C,4,X
+contrave,contrave,Obesity,Rx,X,N,X
+desoxyn,desoxyn,Obesity,Rx,C,2,X
+alli,alli,Obesity,OTC,X,N,
+pion  off-label,pion,Obesity,Rx,C,N,X
+phendimetrazine,phendimetrazine,Obesity,Rx,C,3,X
+xenical,xenical,Obesity,Rx,X,N,
+orlistat,orlistat,Obesity,Rx/OTC,X,N,
+diethylpropion,diethylpropion,Obesity,Rx,B,4,X
+qsymia,qsymia,Obesity,Rx,X,4,X
+saxenda,saxenda,Obesity,Rx,C,N,X
+methamphetamine,methamphetamine,Obesity,Rx,C,2,X
+yl  off-label,yl,Obesity,Rx,X,N,
+bontril pdm,bontril,Obesity,Rx,C,3,X
+bupropion / naltrexone,bupropion,Obesity,Rx,X,N,X
+onic gonadotropin (hcg)  off-label,onic,Obesity,Rx,X,N,
+idine  off-label,idine,Obesity,Rx/OTC,B,N,X
+lphenidate  off-label,lphenidate,Obesity,Rx,C,2,X
+phentermine / topiramate,phentermine,Obesity,Rx,X,4,X
+amphetamine,amphetamine,Obesity,Rx,C,2,X
+atti-plex p,atti,Obesity,Rx,X,4,X
+benzphetamine,benzphetamine,Obesity,Rx,X,3,X
+evekeo,evekeo,Obesity,Rx,C,2,X
+lomaira,lomaira,Obesity,Rx,X,4,X
+et hb  off-label,et,Obesity,Rx/OTC,B,N,X
+nlafaxine  off-label,nlafaxine,Obesity,Rx,C,N,X
+ine acid reducer  off-label,ine,Obesity,Rx/OTC,B,N,X
+semaglutide,semaglutide,Obesity,Rx,,N,X
+wegovy,wegovy,Obesity,Rx,,N,X
+fendique er,fendique,Obesity,Rx,C,3,X
+imcivree,imcivree,Obesity,Rx,,N,
+setmelanotide,setmelanotide,Obesity,Rx,,N,
+calcium carbonate,calcium,Osteopenia,OTC,N,N,
+caltrate,caltrate,Osteopenia,OTC,N,N,
+fosteum,fosteum,Osteopenia,Rx,N,N,
+cholecalciferol / genistein / zinc glycinate,cholecalciferol,Osteopenia,Rx,N,N,
+calci-chew,calci,Osteopenia,OTC,N,N,
+tums smoothies,tums,Osteopenia,OTC,N,N,
+alendronate,alendronate,Osteoporosis,Rx,C,N,
+prolia,prolia,Osteoporosis,Rx,X,N,
+fosamax,fosamax,Osteoporosis,Rx,C,N,
+calcium / vitamin d,calcium,Osteoporosis,OTC,C,N,
+denosumab,denosumab,Osteoporosis,Rx,X,N,
+boniva,boniva,Osteoporosis,Rx,C,N,
+actonel,actonel,Osteoporosis,Rx,C,N,
+calcium carbonate,calcium,Osteoporosis,OTC,N,N,
+forteo,forteo,Osteoporosis,Rx,C,N,
+reclast,reclast,Osteoporosis,Rx,D,N,
+evista,evista,Osteoporosis,Rx,X,N,
+caltrate 600+d,caltrate,Osteoporosis,OTC,C,N,
+caltrate,caltrate,Osteoporosis,OTC,N,N,
+citracal + d,citracal,Osteoporosis,OTC,C,N,
+risedronate,risedronate,Osteoporosis,Rx,C,N,
+hydrochlorothiazide,hydrochlorothiazide,Osteoporosis,Rx,B,N,X
+ibandronate,ibandronate,Osteoporosis,Rx,C,N,
+premarin,premarin,Osteoporosis,Rx,X,N,
+raloxifene,raloxifene,Osteoporosis,Rx,X,N,
+atelvia,atelvia,Osteoporosis,Rx,C,N,
+calcium citrate,calcium,Osteoporosis,Rx/OTC,C,N,
+zometa,zometa,Osteoporosis,Rx,D,N,
+calcitonin,calcitonin,Osteoporosis,Rx,C,N,
+microzide,microzide,Osteoporosis,Rx,B,N,X
+teriparatide,teriparatide,Osteoporosis,Rx,C,N,
+zoledronic acid,zoledronic,Osteoporosis,Rx,D,N,
+aquazide h,aquazide,Osteoporosis,Rx,B,N,X
+esidrix,esidrix,Osteoporosis,Rx,B,N,X
+alendronate / cholecalciferol,alendronate,Osteoporosis,Rx,C,N,
+fosamax plus d,fosamax,Osteoporosis,Rx,C,N,
+miacalcin,miacalcin,Osteoporosis,Rx,C,N,
+tymlos,tymlos,Osteoporosis,Rx,,N,
+binosto,binosto,Osteoporosis,Rx,C,N,
+calci-chew,calci,Osteoporosis,OTC,N,N,
+conjugated estrogens,conjugated,Osteoporosis,Rx,X,N,
+os-cal calcium+d3,os,Osteoporosis,OTC,C,N,
+prempro,prempro,Osteoporosis,Rx,X,N,
+abaloparatide,abaloparatide,Osteoporosis,Rx,,N,
+aclasta,aclasta,Osteoporosis,Rx,D,N,
+calcitrate with d,calcitrate,Osteoporosis,OTC,C,N,
+calcium gluconate,calcium,Osteoporosis,Rx/OTC,C,N,
+calcium lactate,calcium,Osteoporosis,Rx/OTC,C,N,
+"calcium phosphate, tribasic",calcium,Osteoporosis,OTC,N,N,
+os-cal 500 chewable,os,Osteoporosis,OTC,C,N,
+os-cal extra d3,os,Osteoporosis,OTC,C,N,
+oystercal-d,oystercal,Osteoporosis,OTC,C,N,
+tums smoothies,tums,Osteoporosis,OTC,N,N,
+upcal d,upcal,Osteoporosis,OTC,C,N,
+bazedoxifene / conjugated estrogens,bazedoxifene,Osteoporosis,Rx,X,N,
+cal-glu,cal,Osteoporosis,Rx/OTC,C,N,
+cal-lac,cal,Osteoporosis,Rx/OTC,C,N,
+calcitrate,calcitrate,Osteoporosis,Rx/OTC,C,N,
+conjugated estrogens / medroxyprogesterone,conjugated,Osteoporosis,Rx,X,N,
+duavee,duavee,Osteoporosis,Rx,X,N,
+esterified estrogens,esterified,Osteoporosis,Rx,X,N,
+estropipate,estropipate,Osteoporosis,Rx,X,N,
+evenity,evenity,Osteoporosis,Rx,,N,
+menest,menest,Osteoporosis,Rx,X,N,
+ogen,ogen,Osteoporosis,Rx,X,N,
+posture,posture,Osteoporosis,OTC,N,N,
+premarin intravenous,premarin,Osteoporosis,Rx,X,N,
+premphase,premphase,Osteoporosis,Rx,X,N,
+romosozumab,romosozumab,Osteoporosis,Rx,,N,
+clobetasol,clobetasol,Psoriasis,Rx,C,N,
+humira,humira,Psoriasis,Rx,B,N,
+stelara,stelara,Psoriasis,Rx,B,N,
+methotrexate,methotrexate,Psoriasis,Rx,X,N,X
+triamcinolone,triamcinolone,Psoriasis,Rx,C,N,
+ustekinumab,ustekinumab,Psoriasis,Rx,B,N,
+adalimumab,adalimumab,Psoriasis,Rx,B,N,
+cosentyx,cosentyx,Psoriasis,Rx,B,N,
+remicade,remicade,Psoriasis,Rx,B,N,
+taltz,taltz,Psoriasis,Rx,,N,
+skyrizi,skyrizi,Psoriasis,Rx,,N,
+tremfya,tremfya,Psoriasis,Rx,,N,
+rcept  off-label,rcept,Psoriasis,Rx,B,N,
+ilumya,ilumya,Psoriasis,Rx,,N,
+avsola,avsola,Psoriasis,Rx,B,N,
+guselkumab,guselkumab,Psoriasis,Rx,,N,
+inflectra,inflectra,Psoriasis,Rx,B,N,
+ixekizumab,ixekizumab,Psoriasis,Rx,,N,
+renflexis,renflexis,Psoriasis,Rx,B,N,
+risankizumab,risankizumab,Psoriasis,Rx,,N,
+secukinumab,secukinumab,Psoriasis,Rx,B,N,
+tildrakizumab,tildrakizumab,Psoriasis,Rx,,N,
+fluocinonide,fluocinonide,Psoriasis,Rx,C,N,
+triamcinolone,triamcinolone,Psoriasis,Rx,C,N,
+elocon,elocon,Psoriasis,Rx,C,N,
+calcipotriene,calcipotriene,Psoriasis,Rx,C,N,
+mometasone,mometasone,Psoriasis,Rx,C,N,
+clobex,clobex,Psoriasis,Rx,C,N,
+dovonex,dovonex,Psoriasis,Rx,C,N,
+desonide,desonide,Psoriasis,Rx,C,N,
+prednisone,prednisone,Psoriasis,Rx,C,N,
+hydrocortisone,hydrocortisone,Psoriasis,Rx/OTC,C,N,
+taclonex,taclonex,Psoriasis,Rx,C,N,
+acitretin,acitretin,Psoriasis,Rx,X,N,X
+tazorac,tazorac,Psoriasis,Rx,X,N,
+cyclosporine,cyclosporine,Psoriasis,Rx,C,N,
+soriatane,soriatane,Psoriasis,Rx,X,N,X
+betamethasone / calcipotriene,betamethasone,Psoriasis,Rx,C,N,
+betamethasone,betamethasone,Psoriasis,Rx,C,N,
+halobetasol,halobetasol,Psoriasis,Rx,C,N,
+temovate,temovate,Psoriasis,Rx,C,N,
+kenalog,kenalog,Psoriasis,Rx,C,N,
+kenalog-40,kenalog,Psoriasis,Rx,C,N,
+neoral,neoral,Psoriasis,Rx,C,N,
+desoximetasone,desoximetasone,Psoriasis,Rx,C,N,
+fluocinonide-e,fluocinonide,Psoriasis,Rx,C,N,
+otrexup,otrexup,Psoriasis,Rx,X,N,X
+trexall,trexall,Psoriasis,Rx,X,N,X
+coal tar,coal,Psoriasis,Rx/OTC,C,N,
+enstilar,enstilar,Psoriasis,Rx,C,N,
+fluocinolone,fluocinolone,Psoriasis,Rx/OTC,C,N,
+tazarotene,tazarotene,Psoriasis,Rx,X,N,
+topicort,topicort,Psoriasis,Rx,C,N,
+calcitriol,calcitriol,Psoriasis,Rx,C,N,
+clinacort,clinacort,Psoriasis,Rx,C,N,
+cortizone-10,cortizone,Psoriasis,OTC,C,N,
+dexamethasone,dexamethasone,Psoriasis,Rx,C,N,
+kenalog-10,kenalog,Psoriasis,Rx,C,N,
+locoid,locoid,Psoriasis,Rx,C,N,
+methylprednisolone,methylprednisolone,Psoriasis,Rx,C,N,
+prednisolone,prednisolone,Psoriasis,Rx,C,N,
+rasuvo,rasuvo,Psoriasis,Rx,X,N,X
+reditrex,reditrex,Psoriasis,Rx,X,N,X
+taclonex scalp,taclonex,Psoriasis,Rx,C,N,
+tacrolimus,tacrolimus,Psoriasis,Rx,C,N,
+triderm,triderm,Psoriasis,Rx,C,N,
+vanos,vanos,Psoriasis,Rx,C,N,
+vectical,vectical,Psoriasis,Rx,C,N,
+acthar,acthar,Psoriasis,Rx,C,N,
+ala-cort,ala,Psoriasis,Rx,C,N,
+ala-scalp,ala,Psoriasis,Rx,C,N,
+ala-scalp hp,ala,Psoriasis,Rx,C,N,
+alclometasone,alclometasone,Psoriasis,Rx,C,N,
+ammonium lactate / halobetasol,ammonium,Psoriasis,Rx,C,N,
+aquanil hc,aquanil,Psoriasis,OTC,C,N,
+aristocort a,aristocort,Psoriasis,Rx,C,N,
+aristocort r,aristocort,Psoriasis,Rx,C,N,
+aristospan,aristospan,Psoriasis,Rx,C,N,
+beta hc,beta,Psoriasis,OTC,C,N,
+bioelements immediate comfort,bioelements,Psoriasis,Rx,C,N,
+caldecort,caldecort,Psoriasis,OTC,C,N,
+cinolar,cinolar,Psoriasis,Rx,C,N,
+cloderm,cloderm,Psoriasis,Rx,C,N,
+cordran,cordran,Psoriasis,Rx,C,N,
+cordran tape,cordran,Psoriasis,Rx,C,N,
+cortizone-5,cortizone,Psoriasis,OTC,C,N,
+dermarest plus anti-itch,dermarest,Psoriasis,OTC,C,N,
+dermovate,dermovate,Psoriasis,Rx,C,N,
+dermtex hc,dermtex,Psoriasis,OTC,C,N,
+diflorasone,diflorasone,Psoriasis,Rx,C,N,
+flurandrenolide,flurandrenolide,Psoriasis,Rx,C,N,
+gengraf,gengraf,Psoriasis,Rx,C,N,
+halog,halog,Psoriasis,Rx,C,N,
+infliximab,infliximab,Psoriasis,Rx,B,N,
+itch-x lotion,itch,Psoriasis,Rx,C,N,
+locoid lipocream,locoid,Psoriasis,Rx,C,N,
+nucort,nucort,Psoriasis,Rx,C,N,
+olux,olux,Psoriasis,Rx,C,N,
+olux-e,olux,Psoriasis,Rx,C,N,
+oxsoralen-ultra,oxsoralen,Psoriasis,Rx,D,N,
+pandel,pandel,Psoriasis,Rx,C,N,
+psoriasin,psoriasin,Psoriasis,Rx/OTC,C,N,
+sarnol-hc,sarnol,Psoriasis,OTC,C,N,
+sernivo,sernivo,Psoriasis,Rx,C,N,
+synalar,synalar,Psoriasis,Rx/OTC,C,N,
+texacort,texacort,Psoriasis,Rx,C,N,
+trianex,trianex,Psoriasis,Rx,C,N,
+tritocin,tritocin,Psoriasis,Rx,C,N,
+u-cort,u,Psoriasis,OTC,C,N,
+abrilada,abrilada,Psoriasis,Rx,B,N,
+amcinonide,amcinonide,Psoriasis,Rx,C,N,
+amjevita,amjevita,Psoriasis,Rx,B,N,
+ammonium lactate / urea,ammonium,Psoriasis,Rx/OTC,C,N,
+analpram-hc,analpram,Psoriasis,Rx,C,N,
+analpram e,analpram,Psoriasis,Rx,C,N,
+anthraforte,anthraforte,Psoriasis,Rx,C,N,
+anthralin,anthralin,Psoriasis,Rx,C,N,
+anthrascalp,anthrascalp,Psoriasis,Rx,C,N,
+apexicon,apexicon,Psoriasis,Rx,C,N,
+apexicon e,apexicon,Psoriasis,Rx,C,N,
+balnetar,balnetar,Psoriasis,Rx/OTC,C,N,
+betatar gel,betatar,Psoriasis,Rx/OTC,C,N,
+brodalumab,brodalumab,Psoriasis,Rx,,N,
+bryhali,bryhali,Psoriasis,Rx,C,N,
+calcitrene,calcitrene,Psoriasis,Rx,C,N,
+capex,capex,Psoriasis,Rx/OTC,C,N,
+carb-o-lac5,carb,Psoriasis,Rx/OTC,C,N,
+carb-o-lac hp,carb,Psoriasis,Rx/OTC,C,N,
+clobevate,clobevate,Psoriasis,Rx,C,N,
+clocortolone,clocortolone,Psoriasis,Rx,C,N,
+clodan,clodan,Psoriasis,Rx,C,N,
+coal tar / salicylic acid / sulfur,coal,Psoriasis,OTC,C,N,
+coal tar / salicylic acid,coal,Psoriasis,OTC,N,N,
+cordran sp,cordran,Psoriasis,Rx,C,N,
+cormax,cormax,Psoriasis,Rx,C,N,
+cormax scalp,cormax,Psoriasis,Rx,C,N,
+corticotropin,corticotropin,Psoriasis,Rx,C,N,
+cutar,cutar,Psoriasis,Rx/OTC,C,N,
+cyclocort,cyclocort,Psoriasis,Rx,C,N,
+cyltezo,cyltezo,Psoriasis,Rx,B,N,
+denorex therapeutic protection,denorex,Psoriasis,Rx/OTC,C,N,
+derma-smoothe / fs,derma,Psoriasis,Rx/OTC,C,N,
+derma-smoothe / fs (body oil),derma,Psoriasis,Rx/OTC,C,N,
+derma-smoothe / fs (scalp),derma,Psoriasis,Rx/OTC,C,N,
+dermatop,dermatop,Psoriasis,Rx,C,N,
+desonate,desonate,Psoriasis,Rx,C,N,
+desowen,desowen,Psoriasis,Rx,C,N,
+dhs tar shampoo,dhs,Psoriasis,Rx/OTC,C,N,
+doak tar,doak,Psoriasis,Rx/OTC,C,N,
+dritho-scalp,dritho,Psoriasis,Rx,C,N,
+drithocreme,drithocreme,Psoriasis,Rx,C,N,
+duobrii,duobrii,Psoriasis,Rx,,N,
+elta tar,elta,Psoriasis,Rx/OTC,C,N,
+embeline,embeline,Psoriasis,Rx,C,N,
+embeline e,embeline,Psoriasis,Rx,C,N,
+epifoam,epifoam,Psoriasis,Rx,C,N,
+estar,estar,Psoriasis,Rx/OTC,C,N,
+fototar,fototar,Psoriasis,Rx/OTC,C,N,
+h.p. acthar gel,h,Psoriasis,Rx,C,N,
+hadlima,hadlima,Psoriasis,Rx,B,N,
+halcinonide,halcinonide,Psoriasis,Rx,C,N,
+halobetasol / tazarotene,halobetasol,Psoriasis,Rx,,N,
+halonate,halonate,Psoriasis,Rx,C,N,
+hc pram,hc,Psoriasis,Rx,C,N,
+hulio,hulio,Psoriasis,Rx,B,N,
+hydrocortisone / pramoxine,hydrocortisone,Psoriasis,Rx,C,N,
+xyurea  off-label,xyurea,Psoriasis,Rx,D,N,
+hyrimoz,hyrimoz,Psoriasis,Rx,B,N,
+impoyz,impoyz,Psoriasis,Rx,C,N,
+ionil t,ionil,Psoriasis,Rx/OTC,C,N,
+ixifi,ixifi,Psoriasis,Rx,B,N,
+kalosar,kalosar,Psoriasis,Rx,C,N,
+kerasal ultra 20,kerasal,Psoriasis,Rx/OTC,C,N,
+lokara,lokara,Psoriasis,Rx,C,N,
+medotar,medotar,Psoriasis,Rx/OTC,C,N,
+methoxsalen,methoxsalen,Psoriasis,Rx,D,N,
+mg217 medicated tar,mg217,Psoriasis,Rx/OTC,C,N,
+neutrogena t / derm,neutrogena,Psoriasis,Rx/OTC,C,N,
+neutrogena t / gel,neutrogena,Psoriasis,Rx/OTC,C,N,
+nolix,nolix,Psoriasis,Rx,C,N,
+novacort,novacort,Psoriasis,Rx,C,N,
+oxipor vhc,oxipor,Psoriasis,Rx/OTC,C,N,
+pramosone,pramosone,Psoriasis,Rx,C,N,
+prednicarbate,prednicarbate,Psoriasis,Rx,C,N,
+proctofoam hc,proctofoam,Psoriasis,Rx,C,N,
+r a acne,r,Psoriasis,Rx/OTC,N,N,
+resinol,resinol,Psoriasis,Rx/OTC,N,N,
+resorcinol,resorcinol,Psoriasis,Rx/OTC,N,N,
+scytera,scytera,Psoriasis,Rx/OTC,C,N,
+siliq,siliq,Psoriasis,Rx,,N,
+sorilux,sorilux,Psoriasis,Rx,C,N,
+synalar ointment,synalar,Psoriasis,Rx/OTC,C,N,
+tarsum,tarsum,Psoriasis,Rx/OTC,C,N,
+theraplex t,theraplex,Psoriasis,Rx/OTC,C,N,
+tovet,tovet,Psoriasis,Rx,C,N,
+ultralytic,ultralytic,Psoriasis,Rx/OTC,C,N,
+ultralytic 2,ultralytic,Psoriasis,Rx/OTC,C,N,
+ultravate,ultravate,Psoriasis,Rx,C,N,
+verdeso,verdeso,Psoriasis,Rx,C,N,
+wynzora,wynzora,Psoriasis,Rx,C,N,
+zithranol,zithranol,Psoriasis,Rx,C,N,
+zithranol-rr,zithranol,Psoriasis,Rx,C,N,
+haldol,haldol,Psychosis,Rx,C,N,X
+haloperidol,haloperidol,Psychosis,Rx,C,N,X
+perphenazine,perphenazine,Psychosis,Rx,N,N,X
+chlorpromazine,chlorpromazine,Psychosis,Rx,N,N,X
+fluphenazine,fluphenazine,Psychosis,Rx,N,N,X
+fanapt,fanapt,Psychosis,Rx,C,N,X
+haldol decanoate,haldol,Psychosis,Rx,C,N,X
+thiothixene,thiothixene,Psychosis,Rx,N,N,X
+prochlorperazine,prochlorperazine,Psychosis,Rx/OTC,N,N,X
+compro,compro,Psychosis,Rx/OTC,N,N,X
+iloperidone,iloperidone,Psychosis,Rx,C,N,X
+furosemide,furosemide,Renal Failure,Rx,C,N,X
+lasix,lasix,Renal Failure,Rx,C,N,X
+demadex,demadex,Renal Failure,Rx,B,N,X
+torsemide,torsemide,Renal Failure,Rx,B,N,X
+edecrin,edecrin,Renal Failure,Rx,B,N,X
+ethacrynic acid,ethacrynic,Renal Failure,Rx,B,N,X
+sodium edecrin,sodium,Renal Failure,Rx,B,N,X
+soaanz,soaanz,Renal Failure,Rx,B,N,X
+seroquel,seroquel,Schizoaffective Disorder,Rx,C,N,X
+abilify,abilify,Schizoaffective Disorder,Rx,C,N,X
+lamictal,lamictal,Schizoaffective Disorder,Rx,C,N,X
+geodon,geodon,Schizoaffective Disorder,Rx,C,N,X
+invega,invega,Schizoaffective Disorder,Rx,C,N,X
+risperdal,risperdal,Schizoaffective Disorder,Rx,C,N,X
+quetiapine,quetiapine,Schizoaffective Disorder,Rx,C,N,X
+risperidone,risperidone,Schizoaffective Disorder,Rx,C,N,X
+lithium,lithium,Schizoaffective Disorder,Rx,D,N,X
+lamotrigine,lamotrigine,Schizoaffective Disorder,Rx,C,N,X
+apine  off-label,apine,Schizoaffective Disorder,Rx,C,N,X
+prozac,prozac,Schizoaffective Disorder,Rx,C,N,X
+tegretol,tegretol,Schizoaffective Disorder,Rx,D,N,X
+aripiprazole,aripiprazole,Schizoaffective Disorder,Rx,C,N,X
+seroquel xr,seroquel,Schizoaffective Disorder,Rx,C,N,X
+fluoxetine,fluoxetine,Schizoaffective Disorder,Rx,C,N,X
+lithobid,lithobid,Schizoaffective Disorder,Rx,D,N,X
+carbamazepine,carbamazepine,Schizoaffective Disorder,Rx,D,N,X
+idone  off-label,idone,Schizoaffective Disorder,Rx,B,N,X
+ziprasidone,ziprasidone,Schizoaffective Disorder,Rx,C,N,X
+paliperidone,paliperidone,Schizoaffective Disorder,Rx,C,N,X
+invega sustenna,invega,Schizoaffective Disorder,Rx,C,N,X
+epitol,epitol,Schizoaffective Disorder,Rx,D,N,X
+valproic acid,valproic,Schizoaffective Disorder,Rx,D,N,X
+carbatrol,carbatrol,Schizoaffective Disorder,Rx,D,N,X
+tegretol xr,tegretol,Schizoaffective Disorder,Rx,D,N,X
+pine  off-label,pine,Schizoaffective Disorder,Rx,C,N,X
+lamictal cd,lamictal,Schizoaffective Disorder,Rx,C,N,X
+lamictal odt,lamictal,Schizoaffective Disorder,Rx,C,N,X
+seroquel,seroquel,Schizophrenia,Rx,C,N,X
+abilify,abilify,Schizophrenia,Rx,C,N,X
+latuda,latuda,Schizophrenia,Rx,B,N,X
+risperidone,risperidone,Schizophrenia,Rx,C,N,X
+clozapine,clozapine,Schizophrenia,Rx,B,N,X
+zyprexa,zyprexa,Schizophrenia,Rx,C,N,X
+olanzapine,olanzapine,Schizophrenia,Rx,C,N,X
+risperdal,risperdal,Schizophrenia,Rx,C,N,X
+abilify maintena,abilify,Schizophrenia,Rx,C,N,X
+vraylar,vraylar,Schizophrenia,Rx,,N,X
+quetiapine,quetiapine,Schizophrenia,Rx,C,N,X
+rexulti,rexulti,Schizophrenia,Rx,,N,X
+aristada,aristada,Schizophrenia,Rx,C,N,X
+clozaril,clozaril,Schizophrenia,Rx,B,N,X
+caplyta,caplyta,Schizophrenia,Rx,,N,X
+cariprazine,cariprazine,Schizophrenia,Rx,,N,X
+geodon,geodon,Schizophrenia,Rx,C,N,X
+brexpiprazole,brexpiprazole,Schizophrenia,Rx,,N,X
+aripiprazole,aripiprazole,Schizophrenia,Rx,C,N,X
+invega,invega,Schizophrenia,Rx,C,N,X
+chlorpromazine,chlorpromazine,Schizophrenia,Rx,N,N,X
+seroquel xr,seroquel,Schizophrenia,Rx,C,N,X
+saphris,saphris,Schizophrenia,Rx,C,N,X
+invega sustenna,invega,Schizophrenia,Rx,C,N,X
+ziprasidone,ziprasidone,Schizophrenia,Rx,C,N,X
+risperdal consta,risperdal,Schizophrenia,Rx,C,N,X
+loxapine,loxapine,Schizophrenia,Rx,N,N,X
+paliperidone,paliperidone,Schizophrenia,Rx,C,N,X
+fanapt,fanapt,Schizophrenia,Rx,C,N,X
+zyprexa zydis,zyprexa,Schizophrenia,Rx,C,N,X
+lurasidone,lurasidone,Schizophrenia,Rx,B,N,X
+thioridazine,thioridazine,Schizophrenia,Rx,N,N,X
+trifluoperazine,trifluoperazine,Schizophrenia,Rx,N,N,X
+zyprexa relprevv,zyprexa,Schizophrenia,Rx,C,N,X
+fazaclo,fazaclo,Schizophrenia,Rx,B,N,X
+invega trinza,invega,Schizophrenia,Rx,C,N,X
+zyprexa intramuscular,zyprexa,Schizophrenia,Rx,C,N,X
+abilify mycite,abilify,Schizophrenia,Rx,C,N,X
+aristada initio,aristada,Schizophrenia,Rx,C,N,X
+asenapine,asenapine,Schizophrenia,Rx,C,N,X
+perseris,perseris,Schizophrenia,Rx,C,N,X
+thiothixene,thiothixene,Schizophrenia,Rx,N,N,X
+amisulpride,amisulpride,Schizophrenia,Rx,,N,
+versacloz,versacloz,Schizophrenia,Rx,B,N,X
+adasuve,adasuve,Schizophrenia,Rx,N,N,X
+iloperidone,iloperidone,Schizophrenia,Rx,C,N,X
+invega hafyera,invega,Schizophrenia,Rx,C,N,X
+secuado,secuado,Schizophrenia,Rx,C,N,X
+lumateperone,lumateperone,Schizophrenia,Rx,,N,X
+lybalvi,lybalvi,Schizophrenia,Rx,,N,X
+olanzapine / samidorphan,olanzapine,Schizophrenia,Rx,,N,X
+ketoconazole,ketoconazole,Seborrheic Dermatitis,Rx/OTC,C,N,
+tasol  off-label,tasol,Seborrheic Dermatitis,Rx,C,N,
+nizoral topical,nizoral,Seborrheic Dermatitis,Rx/OTC,C,N,
+ciclopirox,ciclopirox,Seborrheic Dermatitis,Rx,B,N,
+hydrocortisone,hydrocortisone,Seborrheic Dermatitis,Rx/OTC,C,N,
+selenium sulfide,selenium,Seborrheic Dermatitis,Rx/OTC,C,N,
+loprox,loprox,Seborrheic Dermatitis,Rx,B,N,
+prednisone,prednisone,Seborrheic Dermatitis,Rx,C,N,
+fluocinolone,fluocinolone,Seborrheic Dermatitis,Rx/OTC,C,N,
+dexamethasone,dexamethasone,Seborrheic Dermatitis,Rx,C,N,
+nizoral a-d,nizoral,Seborrheic Dermatitis,Rx/OTC,C,N,
+pyrithione zinc,pyrithione,Seborrheic Dermatitis,OTC,N,N,
+sulfacetamide sodium,sulfacetamide,Seborrheic Dermatitis,Rx,C,N,
+coal tar,coal,Seborrheic Dermatitis,Rx/OTC,C,N,
+dexamethasone intensol,dexamethasone,Seborrheic Dermatitis,Rx,C,N,
+extina,extina,Seborrheic Dermatitis,Rx/OTC,C,N,
+locoid,locoid,Seborrheic Dermatitis,Rx,C,N,
+sulfacetamide sodium / sulfur,sulfacetamide,Seborrheic Dermatitis,Rx,C,N,
+xolegel,xolegel,Seborrheic Dermatitis,Rx/OTC,C,N,
+ala-cort,ala,Seborrheic Dermatitis,Rx,C,N,
+ala-scalp hp,ala,Seborrheic Dermatitis,Rx,C,N,
+de-sone la,de,Seborrheic Dermatitis,Rx,C,N,
+derma-smoothe / fs (scalp),derma,Seborrheic Dermatitis,Rx/OTC,C,N,
+dxevo,dxevo,Seborrheic Dermatitis,Rx,C,N,
+hidex,hidex,Seborrheic Dermatitis,Rx,C,N,
+locoid lipocream,locoid,Seborrheic Dermatitis,Rx,C,N,
+ala-scalp,ala,Seborrheic Dermatitis,Rx,C,N,
+aquanil hc,aquanil,Seborrheic Dermatitis,OTC,C,N,
+beta hc,beta,Seborrheic Dermatitis,OTC,C,N,
+bioelements immediate comfort,bioelements,Seborrheic Dermatitis,Rx,C,N,
+caldecort,caldecort,Seborrheic Dermatitis,OTC,C,N,
+clarifoam ef,clarifoam,Seborrheic Dermatitis,Rx,C,N,
+cortizone-5,cortizone,Seborrheic Dermatitis,OTC,C,N,
+derma-smoothe / fs (body oil),derma,Seborrheic Dermatitis,Rx/OTC,C,N,
+dermarest plus anti-itch,dermarest,Seborrheic Dermatitis,OTC,C,N,
+dermtex hc,dermtex,Seborrheic Dermatitis,OTC,C,N,
+dhs zinc,dhs,Seborrheic Dermatitis,OTC,N,N,
+itch-x lotion,itch,Seborrheic Dermatitis,Rx,C,N,
+ketodan,ketodan,Seborrheic Dermatitis,Rx/OTC,C,N,
+klaron,klaron,Seborrheic Dermatitis,Rx,C,N,
+kuric,kuric,Seborrheic Dermatitis,Rx/OTC,C,N,
+neutrogena t / gel,neutrogena,Seborrheic Dermatitis,Rx/OTC,C,N,
+nucort,nucort,Seborrheic Dermatitis,Rx,C,N,
+ovace,ovace,Seborrheic Dermatitis,Rx,C,N,
+pandel,pandel,Seborrheic Dermatitis,Rx,C,N,
+sarnol-hc,sarnol,Seborrheic Dermatitis,OTC,C,N,
+tacrolimus,tacrolimus,Seborrheic Dermatitis,Rx,C,N,
+texacort,texacort,Seborrheic Dermatitis,Rx,C,N,
+u-cort,u,Seborrheic Dermatitis,OTC,C,N,
+avar,avar,Seborrheic Dermatitis,Rx,C,N,
+avar-e,avar,Seborrheic Dermatitis,Rx,C,N,
+avar-e green,avar,Seborrheic Dermatitis,Rx,C,N,
+avar-e ls,avar,Seborrheic Dermatitis,Rx,C,N,
+avar cleanser,avar,Seborrheic Dermatitis,Rx,C,N,
+avar ls,avar,Seborrheic Dermatitis,Rx,C,N,
+avar ls cleanser,avar,Seborrheic Dermatitis,Rx,C,N,
+aveeno nourish + dandruff control,aveeno,Seborrheic Dermatitis,OTC,N,N,
+balnetar,balnetar,Seborrheic Dermatitis,Rx/OTC,C,N,
+beta med,beta,Seborrheic Dermatitis,OTC,N,N,
+betatar gel,betatar,Seborrheic Dermatitis,Rx/OTC,C,N,
+bp 10-wash,bp,Seborrheic Dermatitis,Rx,C,N,
+capex,capex,Seborrheic Dermatitis,Rx/OTC,C,N,
+cerisa wash,cerisa,Seborrheic Dermatitis,Rx,C,N,
+ciclodan,ciclodan,Seborrheic Dermatitis,Rx,B,N,
+clenia emollient cream,clenia,Seborrheic Dermatitis,Rx,C,N,
+cnl8 nail,cnl8,Seborrheic Dermatitis,Rx,B,N,
+coal tar / salicylic acid,coal,Seborrheic Dermatitis,OTC,N,N,
+cutar,cutar,Seborrheic Dermatitis,Rx/OTC,C,N,
+dandrex,dandrex,Seborrheic Dermatitis,Rx/OTC,C,N,
+denorex therapeutic protection,denorex,Seborrheic Dermatitis,Rx/OTC,C,N,
+derma-smoothe / fs,derma,Seborrheic Dermatitis,Rx/OTC,C,N,
+dermazinc,dermazinc,Seborrheic Dermatitis,OTC,N,N,
+dermazinc shampoo,dermazinc,Seborrheic Dermatitis,OTC,N,N,
+dhs tar shampoo,dhs,Seborrheic Dermatitis,Rx/OTC,C,N,
+doak tar,doak,Seborrheic Dermatitis,Rx/OTC,C,N,
+elta tar,elta,Seborrheic Dermatitis,Rx/OTC,C,N,
+estar,estar,Seborrheic Dermatitis,Rx/OTC,C,N,
+fototar,fototar,Seborrheic Dermatitis,Rx/OTC,C,N,
+ionil t,ionil,Seborrheic Dermatitis,Rx/OTC,C,N,
+medotar,medotar,Seborrheic Dermatitis,Rx/OTC,C,N,
+mexar,mexar,Seborrheic Dermatitis,Rx,C,N,
+mg217 medicated tar,mg217,Seborrheic Dermatitis,Rx/OTC,C,N,
+neutrogena t / derm,neutrogena,Seborrheic Dermatitis,Rx/OTC,C,N,
+neutrogena t / gel daily control,neutrogena,Seborrheic Dermatitis,OTC,N,N,
+ovace plus,ovace,Seborrheic Dermatitis,Rx,C,N,
+oxipor vhc,oxipor,Seborrheic Dermatitis,Rx/OTC,C,N,
+plexion,plexion,Seborrheic Dermatitis,Rx,C,N,
+plexion ns shampoo,plexion,Seborrheic Dermatitis,Rx,C,N,
+psoriasin,psoriasin,Seborrheic Dermatitis,Rx/OTC,C,N,
+r a acne,r,Seborrheic Dermatitis,Rx/OTC,N,N,
+resinol,resinol,Seborrheic Dermatitis,Rx/OTC,N,N,
+resorcinol,resorcinol,Seborrheic Dermatitis,Rx/OTC,N,N,
+scytera,scytera,Seborrheic Dermatitis,Rx/OTC,C,N,
+selrx,selrx,Seborrheic Dermatitis,Rx/OTC,C,N,
+selsun blue itchy dry scalp,selsun,Seborrheic Dermatitis,OTC,N,N,
+selsun blue medicated,selsun,Seborrheic Dermatitis,Rx/OTC,C,N,
+sss 10-4,sss,Seborrheic Dermatitis,Rx,C,N,
+sss 10-5,sss,Seborrheic Dermatitis,Rx,C,N,
+sss cleanser,sss,Seborrheic Dermatitis,Rx,C,N,
+sulfacleanse 8 / 4,sulfacleanse,Seborrheic Dermatitis,Rx,C,N,
+sulfatol,sulfatol,Seborrheic Dermatitis,Rx,C,N,
+sumadan,sumadan,Seborrheic Dermatitis,Rx,C,N,
+sumaxin,sumaxin,Seborrheic Dermatitis,Rx,C,N,
+sumaxin cleansing pads,sumaxin,Seborrheic Dermatitis,Rx,C,N,
+suphera,suphera,Seborrheic Dermatitis,Rx,C,N,
+synalar,synalar,Seborrheic Dermatitis,Rx/OTC,C,N,
+synalar ointment,synalar,Seborrheic Dermatitis,Rx/OTC,C,N,
+tarsum,tarsum,Seborrheic Dermatitis,Rx/OTC,C,N,
+tersi foam,tersi,Seborrheic Dermatitis,Rx/OTC,C,N,
+theraplex t,theraplex,Seborrheic Dermatitis,Rx/OTC,C,N,
+theraplex z,theraplex,Seborrheic Dermatitis,OTC,N,N,
+zincon,zincon,Seborrheic Dermatitis,OTC,N,N,
+znp bar,znp,Seborrheic Dermatitis,OTC,N,N,
+vancomycin,vancomycin,Sepsis,Rx,C,N,
+ceftriaxone,ceftriaxone,Sepsis,Rx,B,N,
+cefuroxime,cefuroxime,Sepsis,Rx,B,N,
+ceftin,ceftin,Sepsis,Rx,B,N,
+vancocin,vancocin,Sepsis,Rx,C,N,
+ceftazidime,ceftazidime,Sepsis,Rx,B,N,
+cefotaxime,cefotaxime,Sepsis,Rx,B,N,
+tobramycin,tobramycin,Sepsis,Rx,D,N,
+zinacef,zinacef,Sepsis,Rx,B,N,
+vancocin hcl,vancocin,Sepsis,Rx,C,N,
+claforan,claforan,Sepsis,Rx,B,N,
+fortaz,fortaz,Sepsis,Rx,B,N,
+tazicef,tazicef,Sepsis,Rx,B,N,
+vancocin hcl pulvules,vancocin,Sepsis,Rx,C,N,
+astim  off-label,astim,Sepsis,Rx,C,N,
+tobi,tobi,Sepsis,Rx,D,N,
+vancomycin,vancomycin,Shunt Infection,Rx,C,N,
+vancocin,vancocin,Shunt Infection,Rx,C,N,
+tobramycin,tobramycin,Shunt Infection,Rx,D,N,
+vancocin hcl pulvules,vancocin,Shunt Infection,Rx,C,N,
+tobi,tobi,Shunt Infection,Rx,D,N,
+vancocin hcl,vancocin,Shunt Infection,Rx,C,N,
+augmentin,augmentin,Sinusitis,Rx,B,N,
+amoxicillin,amoxicillin,Sinusitis,Rx,B,N,
+prednisone,prednisone,Sinusitis,Rx,C,N,
+amoxicillin / clavulanate,amoxicillin,Sinusitis,Rx,B,N,
+azithromycin dose pack,azithromycin,Sinusitis,Rx,B,N,
+cefdinir,cefdinir,Sinusitis,Rx,B,N,
+azithromycin,azithromycin,Sinusitis,Rx,B,N,
+levaquin,levaquin,Sinusitis,Rx,C,N,
+levofloxacin,levofloxacin,Sinusitis,Rx,C,N,
+zithromax,zithromax,Sinusitis,Rx,B,N,
+cefuroxime,cefuroxime,Sinusitis,Rx,B,N,
+clarithromycin,clarithromycin,Sinusitis,Rx,C,N,
+clindamycin,clindamycin,Sinusitis,Rx,B,N,
+cipro,cipro,Sinusitis,Rx,C,N,
+ciprofloxacin,ciprofloxacin,Sinusitis,Rx,C,N,
+amoxil,amoxil,Sinusitis,Rx,B,N,
+avelox,avelox,Sinusitis,Rx,C,N,
+sulfamethoxazole / trimethoprim,sulfamethoxazole,Sinusitis,Rx,D,N,X
+ceftin,ceftin,Sinusitis,Rx,B,N,
+bactrim,bactrim,Sinusitis,Rx,D,N,X
+bactrim ds,bactrim,Sinusitis,Rx,D,N,X
+cefzil,cefzil,Sinusitis,Rx,B,N,
+septra,septra,Sinusitis,Rx,D,N,X
+cleocin,cleocin,Sinusitis,Rx,B,N,
+moxifloxacin,moxifloxacin,Sinusitis,Rx,C,N,
+apo-amoxi,apo,Sinusitis,Rx,B,N,
+augmentin xr,augmentin,Sinusitis,Rx,B,N,
+cefixime,cefixime,Sinusitis,Rx,B,N,
+cefprozil,cefprozil,Sinusitis,Rx,B,N,
+cefpodoxime,cefpodoxime,Sinusitis,Rx,B,N,
+chlorpheniramine / pseudoephedrine,chlorpheniramine,Sinusitis,Rx/OTC,C,N,X
+septra ds,septra,Sinusitis,Rx,D,N,X
+suprax,suprax,Sinusitis,Rx,B,N,
+amoclan,amoclan,Sinusitis,Rx,B,N,
+ampicillin,ampicillin,Sinusitis,Rx,B,N,
+biaxin xl,biaxin,Sinusitis,Rx,C,N,
+cipro i.v.,cipro,Sinusitis,Rx,C,N,
+cipro xr,cipro,Sinusitis,Rx,C,N,
+cleocin hcl,cleocin,Sinusitis,Rx,B,N,
+cleocin pediatric,cleocin,Sinusitis,Rx,B,N,
+cleocin phosphate,cleocin,Sinusitis,Rx,B,N,
+dexchlorpheniramine / dextromethorphan / pseudoephedrine,dexchlorpheniramine,Sinusitis,Rx/OTC,C,N,X
+cefaclor,cefaclor,Sinusitis,Rx,B,N,
+ceftazidime,ceftazidime,Sinusitis,Rx,B,N,
+co-trimoxazole,co,Sinusitis,Rx,D,N,X
+deconamine,deconamine,Sinusitis,Rx/OTC,C,N,X
+diphenhydramine / phenylephrine,diphenhydramine,Sinusitis,Rx/OTC,C,N,X
+excedrin tension headache,excedrin,Sinusitis,OTC,N,N,X
+fortaz,fortaz,Sinusitis,Rx,B,N,
+sulfatrim pediatric,sulfatrim,Sinusitis,Rx,D,N,X
+zinacef,zinacef,Sinusitis,Rx,B,N,
+abatuss dmx,abatuss,Sinusitis,Rx/OTC,C,N,X
+acetaminophen / caffeine,acetaminophen,Sinusitis,OTC,N,N,X
+allerest maximum strength,allerest,Sinusitis,Rx/OTC,C,N,X
+ampicillin / sulbactam,ampicillin,Sinusitis,Rx,B,N,
+avelox i.v.,avelox,Sinusitis,Rx,C,N,
+bromatan plus,bromatan,Sinusitis,Rx/OTC,C,N,X
+children's triacting night time,children,Sinusitis,Rx/OTC,C,N,X
+codal-dm syrup,codal,Sinusitis,Rx/OTC,C,N,X
+codimal dm,codimal,Sinusitis,Rx/OTC,C,N,X
+codituss dm,codituss,Sinusitis,Rx/OTC,C,N,X
+deltuss dmx,deltuss,Sinusitis,Rx/OTC,C,N,X
+dextromethorphan / diphenhydramine / phenylephrine,dextromethorphan,Sinusitis,Rx/OTC,C,N,X
+dextromethorphan / phenylephrine / pyrilamine,dextromethorphan,Sinusitis,Rx/OTC,C,N,X
+dicel,dicel,Sinusitis,Rx/OTC,C,N,X
+dimetapp children's nighttime cold & congestion,dimetapp,Sinusitis,Rx/OTC,C,N,X
+dytan-d,dytan,Sinusitis,Rx/OTC,C,N,X
+dytan-dm,dytan,Sinusitis,Rx/OTC,C,N,X
+excedrin quick tab,excedrin,Sinusitis,OTC,N,N,X
+lohist-d,lohist,Sinusitis,Rx/OTC,C,N,X
+oxacillin,oxacillin,Sinusitis,Rx,B,N,
+sudogest sinus & allergy,sudogest,Sinusitis,Rx/OTC,C,N,X
+sutan-dm,sutan,Sinusitis,Rx/OTC,C,N,X
+tazicef,tazicef,Sinusitis,Rx,B,N,
+triaminic night time cold & cough,triaminic,Sinusitis,Rx/OTC,C,N,X
+unasyn,unasyn,Sinusitis,Rx,B,N,
+plavix,plavix,Ischemic Stroke,Rx,B,N,
+clopidogrel,clopidogrel,Ischemic Stroke,Rx,B,N,
+aspirin,aspirin,Ischemic Stroke,Rx/OTC,N,N,X
+activase,activase,Ischemic Stroke,Rx,C,N,
+bayer aspirin,bayer,Ischemic Stroke,Rx/OTC,N,N,X
+easprin,easprin,Ischemic Stroke,Rx,N,N,X
+ecotrin,ecotrin,Ischemic Stroke,Rx/OTC,N,N,X
+alteplase,alteplase,Ischemic Stroke,Rx,C,N,
+bayer aspirin regimen,bayer,Ischemic Stroke,Rx/OTC,N,N,X
+arthritis pain,arthritis,Ischemic Stroke,Rx/OTC,N,N,X
+ascriptin,ascriptin,Ischemic Stroke,Rx/OTC,N,N,X
+aspergum,aspergum,Ischemic Stroke,Rx/OTC,N,N,X
+aspir-low,aspir,Ischemic Stroke,Rx/OTC,N,N,X
+genacote,genacote,Ischemic Stroke,Rx/OTC,N,N,X
+halfprin,halfprin,Ischemic Stroke,Rx/OTC,N,N,X
+aspiritab,aspiritab,Ischemic Stroke,Rx/OTC,N,N,X
+ecpirin,ecpirin,Ischemic Stroke,Rx/OTC,N,N,X
+entercote,entercote,Ischemic Stroke,Rx/OTC,N,N,X
+ipine  off-label,ipine,Ischemic Stroke,Rx,C,N,X
+aspirtab,aspirtab,Ischemic Stroke,Rx/OTC,N,N,X
+bayer aspirin extra strength plus,bayer,Ischemic Stroke,Rx/OTC,N,N,X
+norwich aspirin,norwich,Ischemic Stroke,Rx/OTC,N,N,X
+vazalore,vazalore,Ischemic Stroke,Rx/OTC,N,N,X
+ciprofloxacin,ciprofloxacin,Urinary Tract Infection,Rx,C,N,
+nitrofurantoin,nitrofurantoin,Urinary Tract Infection,Rx,B,N,
+macrobid,macrobid,Urinary Tract Infection,Rx,B,N,
+cipro,cipro,Urinary Tract Infection,Rx,C,N,
+sulfamethoxazole / trimethoprim,sulfamethoxazole,Urinary Tract Infection,Rx,D,N,X
+bactrim,bactrim,Urinary Tract Infection,Rx,D,N,X
+amoxil,amoxil,Urinary Tract Infection,Rx,B,N,
+amoxicillin,amoxicillin,Urinary Tract Infection,Rx,B,N,
+bactrim ds,bactrim,Urinary Tract Infection,Rx,D,N,X
+doxycycline,doxycycline,Urinary Tract Infection,Rx,D,N,X
+augmentin,augmentin,Urinary Tract Infection,Rx,B,N,
+levofloxacin,levofloxacin,Urinary Tract Infection,Rx,C,N,
+levaquin,levaquin,Urinary Tract Infection,Rx,C,N,
+macrodantin,macrodantin,Urinary Tract Infection,Rx,B,N,
+amoxicillin / clavulanate,amoxicillin,Urinary Tract Infection,Rx,B,N,
+ceftriaxone,ceftriaxone,Urinary Tract Infection,Rx,B,N,
+cefuroxime,cefuroxime,Urinary Tract Infection,Rx,B,N,
+trimethoprim,trimethoprim,Urinary Tract Infection,Rx,C,N,
+ceftin,ceftin,Urinary Tract Infection,Rx,B,N,
+methenamine,methenamine,Urinary Tract Infection,Rx/OTC,C,N,
+septra ds,septra,Urinary Tract Infection,Rx,D,N,X
+septra,septra,Urinary Tract Infection,Rx,D,N,X
+uribel,uribel,Urinary Tract Infection,Rx,C,N,X
+vibramycin,vibramycin,Urinary Tract Infection,Rx,D,N,X
+ampicillin,ampicillin,Urinary Tract Infection,Rx,B,N,
+apo-amoxi,apo,Urinary Tract Infection,Rx,B,N,
+doryx,doryx,Urinary Tract Infection,Rx,D,N,X
+doxy 100,doxy,Urinary Tract Infection,Rx,D,N,X
+cefixime,cefixime,Urinary Tract Infection,Rx,B,N,
+cipro i.v.,cipro,Urinary Tract Infection,Rx,C,N,
+cipro xr,cipro,Urinary Tract Infection,Rx,C,N,
+doryx mpc,doryx,Urinary Tract Infection,Rx,D,N,X
+hiprex,hiprex,Urinary Tract Infection,Rx/OTC,C,N,
+monodox,monodox,Urinary Tract Infection,Rx,D,N,X
+morgidox,morgidox,Urinary Tract Infection,Rx,D,N,X
+oraxyl,oraxyl,Urinary Tract Infection,Rx,D,N,X
+suprax,suprax,Urinary Tract Infection,Rx,B,N,
+cefazolin,cefazolin,Urinary Tract Infection,Rx,B,N,
+cefepime,cefepime,Urinary Tract Infection,Rx,B,N,
+cefotaxime,cefotaxime,Urinary Tract Infection,Rx,B,N,
+co-trimoxazole,co,Urinary Tract Infection,Rx,D,N,X
+furadantin,furadantin,Urinary Tract Infection,Rx,B,N,
+invanz,invanz,Urinary Tract Infection,Rx,B,N,
+ofloxacin,ofloxacin,Urinary Tract Infection,Rx,C,N,
+urogesic blue,urogesic,Urinary Tract Infection,Rx,C,N,X
+zosyn,zosyn,Urinary Tract Infection,Rx,B,N,
+amikacin,amikacin,Urinary Tract Infection,Rx,D,N,
+amoclan,amoclan,Urinary Tract Infection,Rx,B,N,
+ampicillin / sulbactam,ampicillin,Urinary Tract Infection,Rx,B,N,
+augmentin xr,augmentin,Urinary Tract Infection,Rx,B,N,
+cefadroxil,cefadroxil,Urinary Tract Infection,Rx,B,N,
+ceftazidime,ceftazidime,Urinary Tract Infection,Rx,B,N,
+cilastatin / imipenem,cilastatin,Urinary Tract Infection,Rx,C,N,
+duricef,duricef,Urinary Tract Infection,Rx,B,N,
+ertapenem,ertapenem,Urinary Tract Infection,Rx,B,N,
+floxin,floxin,Urinary Tract Infection,Rx,C,N,
+hyophen,hyophen,Urinary Tract Infection,Rx,,N,X
+maxipime,maxipime,Urinary Tract Infection,Rx,B,N,
+piperacillin / tazobactam,piperacillin,Urinary Tract Infection,Rx,B,N,
+sulfatrim pediatric,sulfatrim,Urinary Tract Infection,Rx,D,N,X
+unasyn,unasyn,Urinary Tract Infection,Rx,B,N,
+urelle,urelle,Urinary Tract Infection,Rx,C,N,X
+uro-mp,uro,Urinary Tract Infection,Rx,C,N,X
+ustell,ustell,Urinary Tract Infection,Rx,C,N,X
+uta,uta,Urinary Tract Infection,Rx,C,N,X
+utira-c,utira,Urinary Tract Infection,Rx,C,N,X
+zinacef,zinacef,Urinary Tract Infection,Rx,B,N,
+acetohydroxamic acid,acetohydroxamic,Urinary Tract Infection,Rx,X,N,
+amikin,amikin,Urinary Tract Infection,Rx,D,N,
+amikin pediatric,amikin,Urinary Tract Infection,Rx,D,N,
+avibactam / ceftazidime,avibactam,Urinary Tract Infection,Rx,B,N,
+avycaz,avycaz,Urinary Tract Infection,Rx,B,N,
+azactam,azactam,Urinary Tract Infection,Rx,B,N,
+aztreonam,aztreonam,Urinary Tract Infection,Rx,B,N,
+azuphen mb,azuphen,Urinary Tract Infection,Rx,C,N,X
+benzoic acid / hyoscyamine / methenamine / methylene blue / phenyl salicylate,benzoic,Urinary Tract Infection,Rx,,N,X
+cefaclor,cefaclor,Urinary Tract Infection,Rx,B,N,
+cefiderocol,cefiderocol,Urinary Tract Infection,Rx,,N,
+cefotan,cefotan,Urinary Tract Infection,Rx,B,N,X
+cefotetan,cefotetan,Urinary Tract Infection,Rx,B,N,X
+cefoxitin,cefoxitin,Urinary Tract Infection,Rx,B,N,
+ceftolozane / tazobactam,ceftolozane,Urinary Tract Infection,Rx,B,N,
+cilastatin / imipenem / relebactam,cilastatin,Urinary Tract Infection,Rx,,N,
+claforan,claforan,Urinary Tract Infection,Rx,B,N,
+darcalma,darcalma,Urinary Tract Infection,Rx,C,N,X
+darpaz,darpaz,Urinary Tract Infection,Rx,C,N,X
+fetroja,fetroja,Urinary Tract Infection,Rx,,N,
+fortaz,fortaz,Urinary Tract Infection,Rx,B,N,
+hyolev mb,hyolev,Urinary Tract Infection,Rx,C,N,X
+hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,hyoscyamine,Urinary Tract Infection,Rx,C,N,X
+hyoscyamine / methenamine / methylene blue / sodium biphosphate,hyoscyamine,Urinary Tract Infection,Rx,C,N,X
+lithostat,lithostat,Urinary Tract Infection,Rx,X,N,
+meropenem / vaborbactam,meropenem,Urinary Tract Infection,Rx,,N,
+phosenamine,phosenamine,Urinary Tract Infection,Rx,C,N,X
+phosphasal,phosphasal,Urinary Tract Infection,Rx,C,N,X
+piperacillin,piperacillin,Urinary Tract Infection,Rx,B,N,
+plazomicin,plazomicin,Urinary Tract Infection,Rx,,N,
+primaxin iv,primaxin,Urinary Tract Infection,Rx,C,N,
+primsol,primsol,Urinary Tract Infection,Rx,C,N,
+recarbrio,recarbrio,Urinary Tract Infection,Rx,,N,
+tazicef,tazicef,Urinary Tract Infection,Rx,B,N,
+uralgic,uralgic,Urinary Tract Infection,Rx,C,N,X
+uretron ds,uretron,Urinary Tract Infection,Rx,C,N,X
+urimar-t,urimar,Urinary Tract Infection,Rx,C,N,X
+urin d / s,urin,Urinary Tract Infection,Rx,C,N,X
+urised,urised,Urinary Tract Infection,Rx,,N,X
+uro-458,uro,Urinary Tract Infection,Rx,C,N,X
+uroav-81,uroav,Urinary Tract Infection,Rx,C,N,X
+uroav-b,uroav,Urinary Tract Infection,Rx,C,N,X
+urophen mb,urophen,Urinary Tract Infection,Rx,,N,X
+uticap,uticap,Urinary Tract Infection,Rx,C,N,X
+utrona-c,utrona,Urinary Tract Infection,Rx,C,N,X
+vabomere,vabomere,Urinary Tract Infection,Rx,,N,
+vilamit mb,vilamit,Urinary Tract Infection,Rx,C,N,X
+vilevev mb,vilevev,Urinary Tract Infection,Rx,C,N,X
+zemdri,zemdri,Urinary Tract Infection,Rx,,N,
+zerbaxa,zerbaxa,Urinary Tract Infection,Rx,B,N,
+meclizine,meclizine,Vertigo,Rx/OTC,B,N,X
+antivert,antivert,Vertigo,Rx/OTC,B,N,X
+bonine,bonine,Vertigo,Rx/OTC,B,N,X
+dramamine ii,dramamine,Vertigo,Rx/OTC,B,N,X
+phenergan,phenergan,Vertigo,Rx,C,N,X
+promethazine,promethazine,Vertigo,Rx,C,N,X
+dramamine less drowsy,dramamine,Vertigo,Rx/OTC,B,N,X
+promethegan,promethegan,Vertigo,Rx,C,N,X
+antinaus 50,antinaus,Vertigo,Rx,C,N,X
+phenadoz,phenadoz,Vertigo,Rx,C,N,X
+travel-ease,travel,Vertigo,Rx/OTC,B,N,X
+vitamin d3,vitamin,Vitamin D Deficiency,Rx/OTC,C,N,
+cholecalciferol,cholecalciferol,Vitamin D Deficiency,Rx/OTC,C,N,
+ergocalciferol,ergocalciferol,Vitamin D Deficiency,Rx/OTC,C,N,
+d3,d3,Vitamin D Deficiency,Rx/OTC,C,N,
+drisdol,drisdol,Vitamin D Deficiency,Rx/OTC,C,N,
+calciferol,calciferol,Vitamin D Deficiency,Rx/OTC,C,N,
+replesta,replesta,Vitamin D Deficiency,Rx/OTC,C,N,
+carlson d,carlson,Vitamin D Deficiency,Rx/OTC,C,N,
+d3-50,d3,Vitamin D Deficiency,Rx/OTC,C,N,
+decara,decara,Vitamin D Deficiency,Rx/OTC,C,N,
+bio-d-mulsion,bio,Vitamin D Deficiency,Rx/OTC,C,N,
+bio-d-mulsion forte,bio,Vitamin D Deficiency,Rx/OTC,C,N,
+bprotected pedia d-vite,bprotected,Vitamin D Deficiency,Rx/OTC,C,N,
+d3-5,d3,Vitamin D Deficiency,Rx/OTC,C,N,
+ddrops,ddrops,Vitamin D Deficiency,Rx/OTC,C,N,
+delta d3,delta,Vitamin D Deficiency,Rx/OTC,C,N,
+enfamil d-vi-sol,enfamil,Vitamin D Deficiency,Rx/OTC,C,N,
+replesta nx,replesta,Vitamin D Deficiency,Rx/OTC,C,N,
+thera-d rapid repletion,thera,Vitamin D Deficiency,Rx/OTC,C,N,
+upspringbaby d,upspringbaby,Vitamin D Deficiency,Rx/OTC,C,N,
+calcidol,calcidol,Vitamin D Deficiency,Rx/OTC,C,N,

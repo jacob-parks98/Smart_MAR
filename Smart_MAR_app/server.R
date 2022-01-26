@@ -146,8 +146,7 @@ shinyServer(function(input, output) {
   
   output$food <- DT::renderDataTable({
     if (input$risk == 'Choke') {
-      DT::datatable(food %>%
-        filter(str_detect(description, 'soup')|str_detect(description,'applesauce')|str_detect(description,'yogurt')) %>%
+      DT::datatable(choke_food %>%
         select(description),
         colnames = c('Food'),
         options = list(pageLength = 5))
