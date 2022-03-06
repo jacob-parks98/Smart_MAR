@@ -7,12 +7,14 @@ side_effects <- read_csv('Data_for_app/SE_df_update2.csv')
 side_effects<- side_effects %>%
   select(-c(`Unnamed: 0`, `...1`))
 
-coke_food <- read_csv('Data_for_app/choke_foods.csv')
+choke_food <- read_csv('Data_for_app/choke_foods.csv')
 
 fall_risk_food <- read_csv('Data_for_app/fall_foods.csv')
 
-# skin_breakdown_food <- skin_breakdown_food %>%
-#   select(-c(...1,AVG)) 
+skin_breakdown_food <- read_csv('Data_for_app/skin_break_food.csv')
+
+ skin_breakdown_food <- skin_breakdown_food %>%
+  select(-c(...1,AVG)) 
 
 side_effects$Risk_factor[side_effects$Risk_factor == 'nan'] <- 'None'
 
@@ -26,3 +28,4 @@ pregnancy_meanings <- c("Adequate and well-controlled studies have failed to dem
                         "FDA has not classified the drug.")
 
 preg_symbols <- tibble(Symbol = pregnancy_symbols, Definition = pregnancy_meanings)
+

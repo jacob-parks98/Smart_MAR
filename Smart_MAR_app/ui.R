@@ -40,7 +40,7 @@ shinyUI(navbarPage("Smart MAR",
                               
                               selectInput("drug",
                                           "Select One or More drugs:",
-                                          unique(side_effects$webscraping_name),
+                                          unique((side_effects %>% arrange(webscraping_name) %>% filter(!is.na(Side_effect)))$webscraping_name),
                                           multiple = TRUE,
                                           selectize = TRUE
                               )#,
